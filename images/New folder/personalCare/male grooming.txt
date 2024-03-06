@@ -1,0 +1,161 @@
+personal care:male Grooming
+{
+"name":"  Just For Men Beard Gel Med Brown 2X14.2G",
+"imgUrl":" https://www.binsina.ae/en/buy-just-for-men-beard-gel-med-brown-2x14-2g.html",
+"price":"  50.50"
+},
+{
+"name":"  Just For Men Beard Gel Med Black 2X14.2G",
+"imgUrl":" https://www.binsina.ae/en/buy-just-for-men-beard-gel-med-black-2x14-2g.html",
+"price":"  50.50"
+},{
+"name":"  Gillette Proglide Pwr 8Ct",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-proglide-pwr-8ct.html",
+"price":" 174.00 "
+},{
+"name":" Braun Series 3 310s Rechargeable Wet & Dry Electric Shaver For Men Blue ",
+"imgUrl":" https://www.binsina.ae/en/buy-braun-series-3-310s-rechargeable-wet-dry-electric-shaver-for-men-blue.html",
+"price":" 249.00 "
+},{
+"name":"  Braun MGK 3245 All-in-one Trimmer 7-in-1 Beard Trimmer",
+"imgUrl":"https://www.binsina.ae/en/buy-braun-mgk-3245-all-in-one-trimmer-7-in-1-beard-trimmer.html ",
+"price":" 199.00 "
+},{
+"name":" Gillette Prog Mnl Crt 10X8'S ",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-prog-mnl-crt-10x8s.html",
+"price":" 157.00 "
+},{
+"name":" Gillette Fusion 8Ct ",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-fusion-8ct.html",
+"price":" 137.00 "
+},{
+"name":"  Gillette Gel Refreshing Breeze",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-gel-refreshing-breeze.html",
+"price":"  23.00"
+},{
+"name":"  Braun Series 5 Men’s Electric Foil Shaver",
+"imgUrl":"https://www.binsina.ae/en/buy-braun-series-5-men-s-electric-foil-shaver.html ",
+"price":"  799.00"
+},{
+"name":"  Schick Exacta 2 Sensitive Men's Razor 5+2's",
+"imgUrl":"https://www.binsina.ae/en/buy-schick-exacta-2-sensitive-men-s-razor-5-2-s.html ",
+"price":" 15.00 "
+},{
+"name":"  Braun MGK 5245 All-in-one Trimmer 7-in-1 Beard Trimmer",
+"imgUrl":" https://www.binsina.ae/en/buy-braun-mgk-5245-all-in-one-trimmer-7-in-1-beard-trimmer.html",
+"price":"199.00  "
+},{
+"name":" Braun Shaver Series 5 EasyClean 50-B1000s Wet & Dry Shaver Blue ",
+"imgUrl":" https://www.binsina.ae/en/buy-braun-shaver-series-5-easyclean-50-b1000s-wet-dry-shaver-blue.html",
+"price":" 329.00 "
+},{
+"name":" Nivea For Men Sensitive Shaving Gel 200ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-nivea-for-men-sensitive-shaving-gel-200ml.html ",
+"price":" 32.00 "
+},{
+"name":" Braun BT3221 Rechargeable Beard and Hair Trimmer Black/Green ",
+"imgUrl":"https://www.binsina.ae/en/buy-braun-bt3221-rechargeable-beard-and-hair-trimmer-black-green.html ",
+"price":"  119.00"
+},{
+"name":"Gillette Flexball Manual Razor  ",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-flexball-manual-razor.html",
+"price":"  70.00"
+},{
+"name":"  Gillette Fusion ProGlide Power Razor Blade Refill 4's",
+"imgUrl":"https://www.binsina.ae/en/buy-gillette-fusion-proglide-power-razor-blade-refill-4-s.html ",
+"price":" 106.00 "
+},{
+"name":" Gillette Fusion Proglide Power Razor With Flexball ",
+"imgUrl":" https://www.binsina.ae/en/gillette-fusion-proglide-power-razor-with-flexball.html",
+"price":" 94.00 "
+},{
+"name":" Gillette Fusion ProGlide Razor Blade Refill 4's ",
+"imgUrl":"https://www.binsina.ae/en/buy-gillette-fusion-proglide-razor-blade-refill-4-s.html ",
+"price":"  93.00"
+},{
+"name":"  Gillette Shave Gel Pro Icy Cool 200ml",
+"imgUrl":" https://www.binsina.ae/en/gillette-shave-gel-pro-icy-cool-200ml.html",
+"price":"  26.00"
+},{
+"name":"  Gillette Fusion Power Blade 4's",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-fusion-power-blade-4-s.html",
+"price":" 86.00 "
+},{
+"name":" Gillette Fusion Men’s Razor Handle + 2 Blades ",
+"imgUrl":" https://www.binsina.ae/en/gillette-fusion-men-s-razor-handle-2-blades.html",
+"price":" 53.00 "
+},{
+"name":"  Gillette King.C Beard & Face Wash 350ml",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-king-c-beard-face-wash-350ml.html",
+"price":" 56.00 "
+},{
+"name":" Gillette Fusion ProShield Chill Men’s Razor ",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-fusion-proshield-chill-men-s-razor.html",
+"price":"  77.00"
+},{
+"name":" Nivea Protecting Shaving Foam 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-nivea-protecting-shaving-foam-200ml.html",
+"price":"  30.00"
+},{
+"name":" Gillette Fusion Proglide Manual Blade 4's ",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-fusion-proglide-manual-blade-4-s.html",
+"price":"  87.00"
+},{
+"name":"  Gillette Fusion ProShield Chill Men's Razor Blades 4's",
+"imgUrl":"https://www.binsina.ae/en/buy-gillette-fusion-proshield-chill-men-s-razor-blades-4-s.html ",
+"price":" 110.00 "
+},{
+"name":"  Gillette Blue3 Comfort 6's",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-blue3-comfort-6-s.html",
+"price":"  37.00"
+},
+{
+"name":" Gillette Series 2-In-1 Intense Cooling Aftershave Balm 100ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-series-2-in-1-intense-cooling-aftershave-balm-100ml.html",
+"price":" 24.00 "
+},
+{
+"name":"  Nuxe Men Anti-irritation Shaving Gel 150ml",
+"imgUrl":" https://www.binsina.ae/en/buy-nuxe-men-anti-irritation-shaving-gel-150ml.html",
+"price":"  91.00"
+},
+{
+"name":" Gillette Skinguard Cartridges 8's ",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-skinguard-cartridges-8-s.html",
+"price":" 145.00 "
+},
+{
+"name":" Gillette Skinguard Razor 2's ",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-skinguard-razor-2-s.html",
+"price":"  58.00"
+},
+{
+"name":" Nivea Sensitive After Shave Balm 100ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-nivea-sensitive-after-shave-balm-100ml.html ",
+"price":" 36.00 "
+},
+{
+"name":"  Nivea Men Protect & Care Moisturising Shaving Gel 200ml",
+"imgUrl":" https://www.binsina.ae/en/buy-nivea-men-protect-care-moisturising-shaving-gel-200ml.html",
+"price":"  32.00"
+},
+{
+"name":" Gillette Blue3 Comfort 3's ",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-blue3-comfort-3-s.html",
+"price":"  19.00"
+},
+{
+"name":"  Gillette Blue 2 10's",
+"imgUrl":"https://www.binsina.ae/en/buy-gillette-blue-2-10-s.html ",
+"price":"29.00  "
+},
+{
+"name":" Gillette Fusion Power Razor ",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-fusion-power-razor.html",
+"price":" 76.00 "
+},
+{
+"name":"  Gillette Mach3 Razor",
+"imgUrl":" https://www.binsina.ae/en/gillette-mach3-razor.html",
+"price":"  38.00"
+},

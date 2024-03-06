@@ -1,0 +1,16 @@
+personal care:Bath Accessories 
+{
+"name":" H2op pure Blue shower filter purifier",
+"imgUrl":"  https://www.binsina.ae/en/buy-h2o-pure-blue-shower-filter-purifier.html",
+"price":"314.00 "
+},
+{
+"name":"H2O pure Blue shower filter replacement cartridge",
+"imgUrl":" https://www.binsina.ae/en/buy-h2o-pure-blue-shower-filter-replacement-cartridge.html ",
+"price":" 158.00 "
+},
+{
+"name":Better Pharmacy Facial Massage Brush"  ,
+"imgUrl":"  https://www.binsina.ae/en/buy-better-pharmacy-facial-massage-brush.html",
+"price":"28.00  "
+},

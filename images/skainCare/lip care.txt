@@ -1,0 +1,70 @@
+Skin care : Lip care
+{
+"name":" lip care shea butter Avacado oil 4g.",
+"imgUrl":"  https://www.binsina.ae/en/buy-beesline-lip-care-shea-butter-avacado-oil-4g.html",
+"price":"13.00 ",
+
+},
+{
+"name":" Dr pawpaw ",
+"imgUrl":"https://www.binsina.ae/en/buy-dr-pawpaw-lip-scrub-lip-balm-duo-16-g.html  ",
+"price":"  38.00",
+
+},
+{
+"name":"Dr pawpaw",
+"imgUrl":" https://www.binsina.ae/en/buy-dr-pawpaw-original-balm-25-ml.html",
+"price":" 27.00",
+
+},
+{
+"name":"lip care shimmery cherry4g  ",
+"imgUrl":" https://www.binsina.ae/en/buy-beesline-lip-care-shimmery-cherry-4g.html ",
+"price":"  13.00",
+
+},
+{
+"name":" derma pella lip plumper balm 15 gm",
+"imgUrl":" https://www.binsina.ae/en/buy-derma-pella-lip-plumper-balm-15gm.html ",
+"price":"  310.00",
+
+},
+{
+"name":"Dr pawpaw shea butter balm 25ml   ",
+"imgUrl":" https://www.binsina.ae/en/buy-dr-pawpaw-shea-butter-balm-25-ml.html",
+"price":" 36.00",
+
+},
+{
+
+
+"name": derma pella lip plumper balm 15gm ",
+"imgUrl":"  https://www.binsina.ae/en/buy-derma-pella-lip-plumper-balm-15gm.html",
+"price":" 310.00",
+
+},
+{
+"name":" Dr pawpaw outrageous orange balm 10ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-dr-pawpaw-outrageous-orange-balm-10-ml.html  ",
+"price":"  23.25",
+
+},
+{
+"name":"  Dr pawpaw ",
+"imgUrl":" https://www.binsina.ae/en/buy-dr-pawpaw-overnight-lip-mask-25-ml.html ",
+"price":"37.50  ",
+
+},
+{
+"name":"Dr pawpaw  ",
+"imgUrl":"https://www.binsina.ae/en/buy-dr-pawpaw-shea-butter-balm-10-ml.html  ",
+"price":"  23.50",
+
+},
+{
+
+"name":" filorga nutri filler lips 4g ",
+"imgUrl":"  https://www.binsina.ae/en/buy-filorga-nutri-filler-lips-4g.html",
+"price":" 160.00 ",
+
+},

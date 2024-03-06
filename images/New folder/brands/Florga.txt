@@ -1,0 +1,101 @@
+Brands : filorga
+{
+"name":"Filorga Scrub & Detox Foam Exfoliator 50ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/70888_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"184.00 "
+},
+{
+"name":"Filorga Hydra -Aox (5) Serum 30Ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/8/1/81178_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"256.50 "
+},
+{
+"name":" Filorga Sleep & Peel Micro-Peeling 4.5 Night Cream 40ml",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/9/79214_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"232.50 "
+},
+{
+"name":"Filorga Time Filler Mask Sachet 23g ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/60692_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 44.25"
+},
+{
+"name":" Filorga Hydra-Hyal Intensive Hydrating Plumping Concentrate 30ml",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/55026_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"244.50 "
+},
+{
+"name":" Filorga Universal Cream 100ml",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/62806_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 226.00"
+},
+{
+"name":"Filorga Skin-Unify Intensive 30ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/7/77324_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300",
+"price":"339.00 "
+},
+{
+"name":"Filorga Time Filler 5 Xp Eye Cream 15Ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/8/1/81179_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"256.50 "
+},
+{
+"name":"Filorga Foam Cleanser 150ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/49858_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300",
+"price":"154.00 "
+},
+{
+"name":"Filorga Meso-Mask Antiwrinkle Lightening Mask 50ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/47145_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"355.00 "
+},
+{
+"name":"Filorga NCTF-Reverse MAT Supreme Regenerating Fluid 50ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/6/0/60533_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"606.00 "
+},
+{
+"name":"Filorga Oxygenglow Eyes Super Soothing Radiance Eyes Care 15ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/65458_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"293.00 "
+},
+{
+"name":"Filorga Skin-Unify Radiance 15ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/7/77325_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300",
+"price":"218.25 "
+},
+{
+"name":"Filorga Nutri-Filler Lips 4g ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/60690_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"171.00 "
+},
+{
+"name":"Filorga Neocica Epidermal Restorative Cream 20ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/47144_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300",
+"price":"258.00 "
+},
+{
+"name":"Filorga Scrub and Mask Reoxygenating Exfoliating Mask 55ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/54245_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"263.00 "
+},
+{
+"name":"Filorga Oxygen-Peel Re-Oxygenating Micro-Peeling Lotion 150ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/63614_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"226.00 "
+},
+{
+"name":"Filorga Oxygen-Glow Teinte CC Cream 40 Ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/9/79706_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"366.00 "
+},
+{
+"name":"Filorga Oxygenglow Super Perfecting Radiance Mask 75ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/65460_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"391.00 "
+},
+{
+"name":"Filorga Oxygenglow Super Perfecting Radiance Cream 50ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/65457_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"428.00 "
+},

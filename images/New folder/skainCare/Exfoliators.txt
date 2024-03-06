@@ -1,0 +1,8 @@
+skin care : Exfoliators
+
+{
+"name":" Neostrata Skin Active Repair Exfoliating Face Wash 125ml  ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/73334_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"  122.85  "
+
+},

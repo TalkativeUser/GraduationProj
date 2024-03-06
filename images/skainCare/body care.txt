@@ -1,0 +1,56 @@
+skin care : Bady care 
+{
+"name":  "Vaseline petroleum jelly original100ml",
+"imgUrl":" https://www.binsina.ae/en/buy-vaseline-petroleum-jelly-original-100ml.html ",
+"price":"50.50 ",
+
+},
+{
+"name":"aveeno dermexa emollient 50ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-aveeno-dermexa-emollient-cream-500ml.html ",
+"price":" 50.00";
+
+},
+{
+"name":" Vaseline petroleum jelly cocoa 100ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-vaseline-petroleum-jelly-cocoa-butter-100ml.html ",
+"price":"  5.50",
+
+},
+{
+"name":"aveen daily moisturizing body wash 500ml",
+"imgUrl":"https://www.binsina.ae/en/buy-aveeno-daily-moisturizing-bodywash-500-ml.html  ",
+"price":" 120.00",
+
+},
+{
+"name":" Avene moisturizing body baume50ml",
+"imgUrl":"  https://www.binsina.ae/en/buy-avene-moisturizing-body-baume-250ml.html",
+"price":" 116.00",
+
+},
+{
+"name":" lrp lipkar syndet ap wash cream refill400ml",
+"imgUrl":"https://www.binsina.ae/en/buy-lrp-lipikar-syndet-ap-wash-cream-refill-400ml.html ",
+"price":"163.00 ",
+
+},
+{
+"name":" orangnic rose Otto skin toner 150ml",
+"imgUrl":"  https://www.binsina.ae/en/buy-dr-organic-rose-otto-skin-toner-150ml.html",
+"price":"43.00 ",
+
+},
+{
+"name":"  uriage xemose anti itch soothing oill balm500ml",
+"imgUrl":"https://www.binsina.ae/en/buy-uriage-xemose-anti-itch-soothing-oil-balm-500ml.html ",
+"price":"45.00 ",
+
+
+},
+{
+"name":" bessline whitening sensitive 50",
+"imgUrl":"https://www.binsina.ae/en/buy-beesline-whitening-sensitive-zone-cream-50ml.html ",
+"price":"43.00",
+
+},

@@ -1,0 +1,99 @@
+.registerPage {
+
+    background-image: url('/images/login/nathaniel-yeo-747NDboAWNY-unsplash.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+.my_form {
+
+    width: 40%;
+  border: 1px solid white;
+  padding-block: 20px;
+  padding-inline:2.5rem;
+ 
+
+    .my_inp{
+
+        width: 100%;
+        padding: .9375rem;
+        margin-block: 10px;
+        background-color:rgba(0, 0, 0, 0.17);
+        border:1px solid white;
+        border-radius: 10px;
+        color: white;
+        &:focus {
+
+            outline: none;
+        }
+        
+    }
+
+    .my_btn_login {
+
+        @extend .my_inp;
+        background-color: rgba(80, 188, 80, 0.532);
+         margin-top: .625rem;
+    }
+
+    
+
+    /*Change text in autofill textbox*/
+    .my_inp:-webkit-autofill{
+    -webkit-text-fill-color: rgb(255, 255, 255) !important;
+}
+
+    .my_inp:-webkit-autofill,
+    .my_inp:-webkit-autofill:hover, 
+    .my_inp:-webkit-autofill:focus, 
+    .my_inp:-webkit-autofill:active{
+    -webkit-box-shadow: 0 0 0 30px rgba(0, 0, 0, 0.17) inset !important;
+    -webkit-background-clip: text;
+    // -webkit-text-fill-color: #ffffff;
+    // transition: background-color 5000s ease-in-out 0s;
+    // box-shadow: inset 0 0 20px 20px #f9f9f900;
+
+}
+   
+}
+
+
+@media (max-width: 1050px) {
+
+    .my_form {
+
+        width: 55%;
+
+    }
+    
+}
+@media (max-width: 750px) {
+
+    .my_form {
+
+        width: 75%;
+
+    }
+    
+}
+@media (max-width: 530px) {
+
+    .my_form {
+
+        width: 90%;
+
+    }
+    
+}
+@media (max-width: 380px) {
+
+    .my_form {
+
+        width: 100%;
+        padding-inline: 0px!important;
+    }
+
+    
+}
+
+
+}

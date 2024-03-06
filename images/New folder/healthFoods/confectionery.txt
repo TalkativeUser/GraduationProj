@@ -1,0 +1,37 @@
+Healthy Foods : Confectionery
+{
+"name":" Mantova Turmeric With Extra Virgin Olive Oil Curcuma Spray 200ml",
+"imgUrl":" https://www.binsina.ae/en/mantova-turmeric-with-extra-virgin-olive-oil-curcuma-spray-200ml.html",
+"price":" 22.50"
+
+},
+{
+"name":" Mantova Fratelli Natural Flavour Butter 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-mantova-fratelli-natural-flavour-butter-200ml.html",
+"price":" 26.50"
+
+},
+{
+"name":" Mantova 100% Pure Grapeseed Oil Spray 200 ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-mantova-100-pure-grapeseed-oil-spray-200-ml.html ",
+"price":" 17.50 "
+
+},
+{
+"name":" Mantova 100% Pure Avocado Oil Spray 200ml",
+"imgUrl":" https://www.binsina.ae/en/buy-mantova-100-pure-avocado-oil-spray-200ml.html ",
+"price":" 27.00"
+
+},
+{
+"name":" Mantova Organic Extra Virgin Olive Oil Spray 200 ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-mantova-organic-extra-virgin-olive-oil-spray-200-ml.html ",
+"price":" 24.00 "
+
+},
+{
+"name":" Mantova Organic Extra Virgin Olive Oil Spray With Garlic 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-mantova-organic-extra-virgin-olive-oil-spray-with-garlic-200ml.html",
+"price":" 24.00"
+
+},

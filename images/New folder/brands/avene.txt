@@ -1,0 +1,101 @@
+Brands : Avene
+{
+"name":"Avene Hydrance Optimale Light Hydrating Cream 40ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/8868_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"147.00 "
+},
+{
+"name":"Avene Cicalfate Lips Repair Balm 10ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/70539_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"74.00 "
+},
+{
+"name":"avene suncare tinted cream spf50+ 50ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/9/79355_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"147.00 "
+},
+{
+"name":"Avene Intense Protect Spf50+ Fluid 150Ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/9/79910_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"168.00 "
+},
+{
+"name":"Avene Hyaluron Activ B3 Serum 30Ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/8/1/81116_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"289.00 "
+},
+{
+"name":"Avene Tolerance Hydra-10 Fluide 40Ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/9/79908_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"147.00 "
+},
+{
+"name":"Avene Moisturizing Body Baume 250Ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/9/79909_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"116.00 "
+},
+{
+"name":" Avene Hydrance Bb Light Tinted Emulsion 40Ml",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/8/1/81115_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"147.00 "
+},
+{
+"name":"avene fluid spf50+ 50ml",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/9/79352_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"147.00 "
+},
+{
+"name":"Avene Hyaluron Activ B3 Day Cream 50Ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/8/1/81117_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300",
+"price":" 263.00"
+},
+{
+"name":"avene suncare cream spf50+ 50ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/9/79354_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"147.00 "
+},
+{
+"name":"Avene Cleanance Comedomed 30ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/67368_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"131.00 "
+},
+{
+"name":"Avene Cleanance solaire spf50+ 50ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/9/79356_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"147.00 "
+},
+{
+"name":"Avene Cleanance Micellar Water 400ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/54718_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"126.00 "
+},
+{
+"name":"Avene Tolerance Hydra-10 Cream 40Ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/9/79907_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"147.00 "
+},
+{
+"name":" Avene Clean AC Hydrating Cream 40ml",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/33394_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"137.00 "
+},
+{
+"name":" Avene Hyaluron Activ B3 Night Cream 40Ml",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/8/1/81118_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"289.00 "
+},
+{
+"name":"avene tinted fluid spf50+ 50ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/9/79353_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"147.00 "
+},
+{
+"name":"Avene Cleanance Gel 400Ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/9/79906_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"184.00 "
+},
+{
+"name":"Avene Cleanance Gel Tube 200ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/75431_4.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"131.00 "
+},

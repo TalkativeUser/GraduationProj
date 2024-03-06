@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+
+.my_nav {
+    --fontSizeLogo:1.5625rem;
+    --fontSize3Icons:1.875rem;
+    margin-top: 0;
+    padding-top: 15px;
+  }
+
+.my_a {
+    line-height: 28px ;
+    text-decoration: none;
+    color: black;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    
+}
+
+.my_li:hover .my_a{ 
+
+color: white;
+
+ }
+
+.myToggleIcon2 {
+
+    display: none!important;
+    cursor: pointer;
+}
+
+
+.my_ul1>.my_li1 {
+
+    font-family: "Kdam Thmor Pro", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size:var(--fontSizeLogo)!important;
+
+}
+
+.my_ul1>* {
+
+    font-size: var(--fontSize3Icons)!important;
+}
+
+.searchInput {
+
+    background-color: rgba(0, 0, 0, 0.414);
+    color: white;
+    font-size: 1rem;
+    padding-block: .625rem;
+    padding-inline: .5rem;
+}
+
+.handleMainIcons2{
+
+    display: none!important;
+}
+
+
+.my_ul2 .my_ul2_li:hover .my_a{
+
+   background-color: rgba(33, 9, 215, 0.368);
+   color: white;
+}
+
+// .my_ul2 .my_ul2_li:hover .allSubCategories {
+
+//     display: flex!important;
+
+
+// }
+
+// .my_ul2{  
+
+//     @for $i from 1 through 10{
+
+
+
+//         .my_li#{$i} {
+        
+//                 &:hover{
+        
+//                     .allSubCategories{
+//                         display: flex!important;
+        
+        
+//                     }
+//                 }
+        
+//             }
+        
+//         }
+// }
+
+
+
+
+// اولا لازم اظبط الحقل واروح اجيب ايقون السيرش واشوف الاكستنشن اللى بيحول من بكسل للنسبه المئويه
+
+/* media Query  */
+
+
+@media (max-width: 1200px) {   /* معناها من اول ال1030 ونازل الكلام ده هيتطبق   */
+
+ .my_ul2 {
+
+    display: none!important;
+}
+
+.myToggleIcon2 {
+
+    display:block!important;
+}
+
+}
+@media (max-width: 1400px) {   /* معناها من اول ال1400 ونازل الكلام ده هيتطبق   */
+
+.my_a {
+
+    font-size: 13px;
+}
+.my_nav {
+
+    padding-left: 40px!important;
+    padding-right: 40px!important;
+
+    .allSubCategories{
+
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+}
+
+
+}
+@media (max-width: 1465px) {   /* معناها من اول ال1030 ونازل الكلام ده هيتطبق   */
+
+    .ParentSearchInput {
+
+width: 40%!important;
+    }
+
+}
+@media (max-width:880px) {   /* معناها من اول ال1030 ونازل الكلام ده هيتطبق   */
+
+    .ParentSearchInput {
+
+width: 30%!important;
+    }
+
+}
+
+@media (max-width: 765px) {
+
+    .my_ul1 .my_li2 {
+      order:3;
+}
+
+.my_ul1 .ParentSearchInput {
+
+    width: 100% !important;
+}
+  
+
+  }
+
+//   @media (max-width:497px) {
+
+// .handleMainIcons1{
+
+//     display: none!important;
+// }
+
+// .handleMainIcons2{
+
+//     display: flex!important;
+//     width: 100%;
+
+// }
+
+// .my_ul1{
+
+//     .my_li3{
+
+//         width: 100%;
+//     }
+// }
+
+// .myToggleIcon2 {
+
+//     display:none!important;
+// }
+
+
+
+//   }
+  @media (max-width:512px) {
+
+.handleMainIcons1{
+
+    display: none!important;
+}
+
+.handleMainIcons2{
+
+    display: flex!important;
+    width: 100%;
+
+}
+
+.my_ul1{
+
+    .my_li3{
+
+        width: 100%;
+    }
+}
+
+.myToggleIcon2 {
+
+    display:none!important;
+}
+
+
+
+  }

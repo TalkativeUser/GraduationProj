@@ -1,0 +1,57 @@
+Skin care : masks
+{
+"name":" APIVITA Express Beauty Exfoliating Olive Face Mask 2X8ML- ",
+"imgUrl":"https://www.binsina.ae/en/buy-apivita-express-beauty-exfoliating-olive-face-mask-2x8ml-6-sheets-box.html ",
+"price":" 126.00 " ,
+
+},
+{
+"name":"APIVITA Express Beauty Shine & Revitalizing Hair Mask ",
+"imgUrl":"  https://www.binsina.ae/en/buy-apivita-express-beauty-shine-revitalizing-hair-mask-20ml-6-sheets-box.html",
+"price":" 126.00",
+
+},
+{
+"name":" Mediheal P.D.F A.C Dressing Ampoule Mask 25ml",
+"imgUrl":"  https://www.binsina.ae/en/buy-mediheal-p-d-f-a-c-dressing-ampoule-mask-25ml.html",
+"price":" 15.00",
+
+},
+{
+"name":" VITA Express Beauty Firming & Revitalizing Face Mask 2X8ML-6 Sheets Box ",
+"imgUrl":"  https://www.binsina.ae/en/buy-apivita-express-beauty-firming-revitalizing-face-mask-2x8ml-6-sheets-box.html",
+"price":"  126.00",
+
+},
+{
+"name"  :  APIVITA Express Beauty Moisturizing & Refreshing Face Mask 2X8ML-6 Sheets",
+
+"imgUrl": https://www.binsina.ae/en/buy-apivita-express-beauty-moisturizing-refreshing-face-mask-2x8ml-6-sheets-box.html ",
+"Price" : 126.00",                                                 ,{
+{
+"name":" apivita-express-beauty-gentle-cleansing-face-mask-2x8ml-6-sheets ",
+
+"imgUrl":"https://www.binsina.ae/en/buy-apivita-express-beauty-gentle-cleansing-face-mask-2x8ml-6-sheets-box.html  ",
+"price":"  126.00",
+},   
+{
+"name":"apivita-express--6-sheets ",
+"imgUrl":" https://www.binsina.ae/en/buy-apivita-express--6-sheets-box.html ",
+beauty-radiance-face-mask-2x8ml"
+
+price":"126.00  ",
+
+},      
+{
+"name":" APIVITA Express Beauty Fine Line Smoothing Eye Mask 2X2ML-6 Sheets Box",
+
+"imgUrl":"https://www.binsina.ae/en/apivita-express-beauty-fine-line-smoothing-eye-mask-2x2ml-6-sheets-box.html  ",
+"price":"126.00  ",
+
+},    
+{
+"name":" Garnier Fast Clear Tissue Mask ",
+"imgUrl":" https://www.binsina.ae/en/buy-garnier-fast-clear-tissue-mask.html",
+"price":" 10.00 ",
+
+},

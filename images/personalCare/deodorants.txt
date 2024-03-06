@@ -1,0 +1,411 @@
+personal care: Deodorants
+{
+"name":Apivita Bee Fresh Deodorant Roll-On 50Ml"  ,
+"imgUrl":" https://www.binsina.ae/en/buy-apivita-bee-fresh-deodorant-roll-on-50ml.html ",
+"price":74.00""
+},
+{
+"name":Beesline Sensifresh Whitening Sensitvie Zone Deodorant 150ml"  ,
+"imgUrl":https://www.binsina.ae/en/buy-beesline-sensifresh-whitening-sensitvie-zone-deodorant-150ml.html"  ",
+"price":83.00"  "
+},
+{
+"name":Beesline Whitening Hair Delaying Roll on Deodorant 50ml"  ,
+"imgUrl":https://www.binsina.ae/en/buy-beesline-whitening-hair-delaying-roll-on-deodorant-50ml.html"  ",
+"price":86.00"  "
+
+{
+"name":Beesline Whitening Roll-On Fragrance Deodorant Elder Rose 50ml"  ,
+"imgUrl":https://www.binsina.ae/en/buy-beesline-whitening-roll-on-fragrance-deodorant-elder-rose-50ml.html"  ",
+"price":61.00"  "
+},
+{
+"name":Beesline Whitening Roll-On Fragrance Deodorant Cool Breeze 50ml"  ,
+"imgUrl":https://www.binsina.ae/en/buy-beesline-whitening-roll-on-fragrance-deodorant-cool-breeze-50ml.html"  ",
+"price":61.00"  "
+},
+{
+"name":Dove Deodorant Original Cream 50ml"  ,
+"imgUrl":https://www.binsina.ae/en/buy-dove-deodorant-original-cream-50ml.html"  ",
+"price":11.50"  "
+},
+{
+"name":Dove Go Fresh Cucumber Roll-On Anti-Perspirant Deodorant 50ml"  ,
+"imgUrl":https://www.binsina.ae/en/buy-dove-go-fresh-cucumber-roll-on-anti-perspirant-deodorant-50ml.html"  ",
+"price":11.50"  "
+},
+{
+"name":Maxon Deo Active 60 ml"  ,
+"imgUrl":https://www.binsina.ae/en/buy-maxon-deo-active-60-ml.html"  ",
+"price":81.00"  "
+},
+{
+"name":Maxon Roll On 60 ml"  ,
+"imgUrl":https://www.binsina.ae/en/buy-maxon-roll-on-60-ml.html"  ",
+"price":71.00"  "
+},
+{
+"name":"  Axe Deo Leather&Cookies Rk Spray M 150Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-axe-deo-leather-cookies-rk-spray-m-150ml.html",
+"price":" 15.50 "
+},
+{
+"name":"  Dove Deo Cucumber & Green Nw Spray Women 150Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-dove-deo-cucumber-green-nw-spray-women-150ml.html",
+"price":" 13.50 "
+},
+{
+"name":"  Axe Deo Gold Tempt Rk Sray Men 150Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-axe-deo-gold-tempt-rk-sray-men-150ml.html",
+"price":"15.50  "
+},
+{
+"name":"  Rexona Xtracool Cl1 Ant Stick Men 40G",
+"imgUrl":" https://www.binsina.ae/en/buy-rexona-xtracool-cl1-ant-stick-men-40g.html",
+"price":" 11.00 "
+},
+{
+"name":"Beesline Whitening Roll-On Deodorant Invisible Touch 50ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-beesline-whitening-roll-on-deodorant-invisible-touch-50ml.html",
+"price":"  61.00"
+},
+{
+"name":" Nivea Deo Stick Pearl & Beauty 50Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-nivea-deo-stick-pearl-beauty-50ml.html ",
+"price":"  26.00"
+},
+{
+"name":"  Borotalco Deodorant Intensive Roll On 50Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-borotalco-deodorant-intensive-roll-on-50ml.html",
+"price":" 26.13 "
+},
+{
+"name":" Beesline Whitening Roll-On Fragrance Deodorant Pacific Island 50ml ",
+"imgUrl":" Beesline Whitening Roll-On Fragrance Deodorant Pacific Island 50ml",
+"price":"  61.00"
+},
+{
+"name":" Beesline Whitening Roll-On Deodorant Sport Pulse 50ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-beesline-whitening-roll-on-deodorant-sport-pulse-50ml.html",
+"price":"  61.00"
+},
+{
+"name":" Dove Antiperspirant Deodorant Aerosol Original 150ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-dove-antiperspirant-deodorant-aerosol-original-150ml.html",
+"price":" 13.00 "
+},
+{
+"name":"  Axe Apollo Deodorant & Bodyspray 150ml",
+"imgUrl":" https://www.binsina.ae/en/buy-axe-apollo-deodorant-bodyspray-150ml.html",
+"price":"  13.50"
+},
+{
+"name":"  Beesline Whitening Roll-On Deodorant 48H Cotton Candy 50ml",
+"imgUrl":"https://www.binsina.ae/en/buy-beesline-whitening-roll-on-deodorant-48h-cotton-candy-50ml.html ",
+"price":"  61.00"
+},
+{
+"name":" Beesline Whitening Roll-On Deodorant 48H Beauty Pearl 50ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-beesline-whitening-roll-on-deodorant-48h-beauty-pearl-50ml.html",
+"price":" 61.00 "
+},
+{
+"name":"  Axe Deo Dark Tempt Rk Spray M 150Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-axe-deo-dark-tempt-rk-spray-m-150ml.html",
+"price":"15.50  "
+},
+{
+"name":"  Vichy Deodorant Mineral Aerosol 125ml",
+"imgUrl":"https://www.binsina.ae/en/buy-vichy-deodorant-mineral-aerosol-125ml.html ",
+"price":" 80 "
+},
+{
+"name":" Beesline Whitening Roll-On Deodorant Fragrance Free 50ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-beesline-whitening-roll-on-deodorant-fragrance-free-50ml.html",
+"price":" 63.00 "
+},
+{
+"name":"  Nivea Men Deo Stick Fresh Active 50Ml",
+"imgUrl":"https://www.binsina.ae/en/buy-nivea-men-deo-stick-fresh-active-50ml.html ",
+"price":"  26.00"
+},
+{
+"name":" Nivea Deo Stick Natural Radiance 50Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-nivea-deo-stick-natural-radiance-50ml.html ",
+"price":"  26.00"
+},
+{
+"name":" Dove Antiperspirant Deodorant Aerosol Cucumber & Green Tea 150ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-dove-antiperspirant-deodorant-aerosol-cucumber-green-tea-150ml.html",
+"price":"  12.00"
+},
+{
+"name":" Borotalco Deodorant Original Spray 150Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-borotalco-deodorant-original-spray-150ml.html ",
+"price":" 26.13 "
+},
+{
+"name":"  Maxon Deo Trio 60 ml",
+"imgUrl":"https://www.binsina.ae/en/buy-maxon-deo-trio-60-ml.html ",
+"price":"  92.00"
+},
+{
+"name":" Axe Body Black Night Rk Spray M 150Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-axe-body-black-night-rk-spray-m-150ml.html ",
+"price":"15.50  "
+},
+{
+"name":" Rexona Bamboo Anti-Perspirant Deodorant Spray 150ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-rexona-bamboo-anti-perspirant-deodorant-spray-150ml.html",
+"price":" 11.50 "
+},
+{
+"name":" Rexona Ap Deo Powdr Dry Spray Women 150Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-rexona-ap-deo-powdr-dry-spray-women-150ml.html",
+"price":" 11.50 "
+},
+{
+"name":" Rexona Men Xtracool Antiperspirant Spray 150ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-rexona-men-xtracool-antiperspirant-spray-150ml.html",
+"price":" 11.50 "
+},
+{
+"name":"  Dove Original Anti-Perspirant Roll-On 50ml",
+"imgUrl":"https://www.binsina.ae/en/buy-dove-original-anti-perspirant-roll-on-50ml.html ",
+"price":" 11.50 "
+},
+{
+"name":" Nivea Men Deo Spray Deep Beats 150Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-nivea-men-deo-spray-deep-beats-150ml.html ",
+"price":" 26.00 "
+},
+{
+"name":" Nivea Men Deo Roll-On Deep Beats 50Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-nivea-men-deo-roll-on-deep-beats-50ml.html",
+"price":" 24.00 "
+},
+{
+"name":"  Dove Deo Powdr Sft Nw Spray W 150Ml",
+"imgUrl":"https://www.binsina.ae/en/buy-dove-deo-powdr-sft-nw-spray-w-150ml.html ",
+"price":" 13.00 "
+}, 
+{
+"name":" ROC Keops Stick Deodorant 40ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-roc-keops-stick-deodorant-40ml.html",
+"price":" 80.00 "
+},
+{
+"name":"  ROC Keops Roll Déodorant 30ml",
+"imgUrl":"https://www.binsina.ae/en/buy-roc-keops-roll-deodorant-30ml.html ",
+"price":"  80.00"
+},
+{
+"name":" ROC Keops Sensitive Roll-On Deodorant 30ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-roc-keops-sensitive-roll-on-deodorant-30ml.html ",
+"price":"  80.00"
+},
+{
+"name":"  ROC Keops Fresh Spray Deodorant 100ml",
+"imgUrl":" https://www.binsina.ae/en/buy-roc-keops-fresh-spray-deodorant-100ml.html",
+"price":" 80.00 "
+},
+{
+"name":"  ROC Keops Dry Spray Deodorant 150ml",
+"imgUrl":"https://www.binsina.ae/en/buy-roc-keops-dry-spray-deodorant-150ml.html ",
+"price":" 80.00 "
+},
+{
+"name":"  Isdin Germisdin RX Roll-On Antitranspirante 40ml",
+"imgUrl":" https://www.binsina.ae/en/buy-isdin-germisdin-rx-roll-on-antitranspirante-40ml.html",
+"price":" 95.00 "
+},
+{
+"name":" Vichy Deodorant 48 Hour Anti-Perspirant Spray 125ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-deodorant-48-hour-anti-perspirant-spray-125ml.html",
+"price":" 80.00 "
+},
+{
+"name":" Martiderm Driosec Dermoprotect Roll-On 50ml ",
+"imgUrl":" https://www.binsina.ae/en/martiderm-driosec-dermoprotect-roll-on-50ml.html",
+"price":" 79.00 "
+},
+{
+"name":" Vichy Deodorant 48Hour Anti-Perspirant Treatment Intense Perspiration 50ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-vichy-deodorant-48hour-anti-perspirant-treatment-intense-perspiration-50ml.html ",
+"price":" 80.00 "
+},
+{
+"name":" Vichy Deo 48H Soothing Anti-Perspirant For Sensitive Skin Or Depilated Skin 50ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-deo-48h-soothing-anti-perspirant-for-sensitive-skin-or-depilated-skin-50ml.html",
+"price":"  120.00"
+},
+{
+"name":"  Uriage Fresh Deodorant 125ml",
+"imgUrl":" https://www.binsina.ae/en/buy-uriage-fresh-deodorant-125ml.html",
+"price":" 84.00 "
+},
+{
+"name":" Dr.Organic Tea Tree Deodorant Roll On 50ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-dr-organic-tea-tree-deodorant-roll-on-50ml.html",
+"price":" 47.00 "
+},
+{
+"name":"  Nivea Pearl & Beauty Antiperspirant Spray 150ml",
+"imgUrl":" https://www.binsina.ae/en/buy-nivea-pearl-beauty-antiperspirant-spray-150ml.html",
+"price":" 25.00 "
+},
+{
+"name":"  Vichy 48H Beauty Deo Anti-Perspirant Roll-On 50ml",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-48h-beauty-deo-anti-perspirant-roll-on-50ml.html",
+"price":" 80.000 "
+},
+{
+"name":" Vichy 7 Day Treatment Anti-Perspirant Cream 30ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-7-day-treatment-anti-perspirant-cream-30ml.html",
+"price":"84.00  "
+},
+{
+"name":" Dr.Organic Rose Otto Deo Roll 50ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-dr-organic-rose-otto-deo-roll-50ml.html",
+"price":" 47.00 "
+},
+{
+"name":" Nivea Men Fresh Active Deodorant Roll-On 50ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-nivea-men-fresh-active-deodorant-roll-on-50ml.html",
+"price":"26.00  "
+},
+{
+"name":"  Nivea Men Fresh Active Deodorant 150ml",
+"imgUrl":" https://www.binsina.ae/en/buy-nivea-men-fresh-active-deodorant-150ml.html",
+"price":" 25.00 "
+},
+{
+"name":"  Dr.Organic Virgin Coconut Oil Deodorant 50ml",
+"imgUrl":"https://www.binsina.ae/en/buy-dr-organic-virgin-coconut-oil-deodorant-50ml.html ",
+"price":" 47.00 "
+},
+{
+"name":"  Isdin Ureadin Deo Roll-on 50ml",
+"imgUrl":" https://www.binsina.ae/en/buy-isdin-ureadin-deo-roll-on-50ml.html",
+"price":"79.00  "
+},
+{
+"name":" Uriage Eau Thermale Power 3 Deodorant 50ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-uriage-eau-thermale-power-3-deodorant-50ml.html",
+"price":"81.00  "
+},
+{
+"name":"  Nivea Invisible Black & White For Women Deodorant Spray 150ml",
+"imgUrl":"https://www.binsina.ae/en/buy-nivea-invisible-black-white-for-women-deodorant-spray-150ml.html ",
+"price":"  25.00"
+},
+{
+"name":"  Vichy Deo 72H Homme 50ml",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-deo-72h-homme-50ml.html",
+"price":" 120.00 "
+},
+{
+"name":" Vichy Deodorant Roll-on 48 Hour Anti-Perspirant For Sensitive or Depilated Skin 50ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-deodorant-roll-on-48-hour-anti-perspirant-for-sensitive-or-depilated-skin-50ml.html",
+"price":"  80.00"
+},
+{
+"name":"  NUXE Body Rêve de thé Refreshing Deodorant 50ml",
+"imgUrl":" https://www.binsina.ae/en/buy-nuxe-body-reve-de-the-refreshing-deodorant-50ml.html",
+"price":" 68.00 "
+},
+{
+"name":" Vichy 24H Deodorant Sensitive Skin Aluminium-free Stick 40ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-24h-deodorant-sensitive-skin-aluminium-free-stick-40ml.html",
+"price":" 90.00 "
+},
+{
+"name":"  Nivea Fresh Natural For Female Deodorant Spray 150ml",
+"imgUrl":" https://www.binsina.ae/en/buy-nivea-fresh-natural-for-female-deodorant-spray-150ml.html",
+"price":" 25.00 "
+},
+{
+"name":"  Vichy 72Hr Stress Resist Anti-Perspirant Treatment Roll-On 50ml",
+"imgUrl":" https://www.binsina.ae/en/vichy-72hr-stress-resist-anti-perspirant-treatment-roll-on-50ml.html",
+"price":"80.00  "
+},
+{
+"name":"  Isdin Lambda Control Deodorant Cream 50ml",
+"imgUrl":"https://www.binsina.ae/en/buy-isdin-lambda-control-deodorant-cream-50ml.html ",
+"price":"  76.00"
+},
+{
+"name":"  Vichy Homme 48HR Deodorant Sensitive Skin Spray 100ml",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-homme-48hr-deodorant-sensitive-skin-spray-100ml.html",
+"price":"  83.00"
+},
+{
+"name":"  Vichy Deo 72H Stress Resist 50ml",
+"imgUrl":"https://www.binsina.ae/en/buy-vichy-deo-72h-stress-resist-50ml.html ",
+"price":" 120.00 "
+},
+{
+"name":"Nuxe Men 24Hr Protection Deodorant 50ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-nuxe-men-24hr-protection-deodorant-50ml.html",
+"price":" 68.00 "
+},
+{
+"name":"  Uriage Gentle Deodorant 50ml",
+"imgUrl":"https://www.binsina.ae/en/buy-uriage-gentle-deodorant-50ml.html ",
+"price":"  81.00"
+},
+{
+"name":" Isdin Deo Intense 48-hours Lambda Control Roll-on 50ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-isdin-deo-intense-48-hours-lambda-control-roll-on-50ml.html",
+"price":"  79.00"
+},
+{
+"name":" Isdin Lambda Control Antiperspirant Deodorant Roll-On 50ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-isdin-lambda-control-antiperspirant-deodorant-roll-on-50ml.html",
+"price":"  79.00"
+},
+{
+"name":"  Vichy Homme 72HR Anti-Perspirant Deodorant Extreme Control 50ml",
+"imgUrl":" https://www.binsina.ae/en/vichy-homme-72hr-anti-perspirant-deodorant-extreme-control-50ml.html",
+"price":"80.00  "
+},
+{
+"name":"  Dr.Organic Aloe Vera Deodorant 50ml",
+"imgUrl":" https://www.binsina.ae/en/buy-dr-organic-aloe-vera-deodorant-50ml.html",
+"price":" 47.00 "
+},
+{
+"name":" Vichy Deo 48H Mineral 50ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-deo-48h-mineral-50ml.html",
+"price":" 120.00 "
+},
+{
+"name":"  Gillette Clear Gel Anti Perspirant Arctic Ice 70ml",
+"imgUrl":"https://www.binsina.ae/en/buy-gillette-clear-gel-anti-perspirant-arctic-ice-70ml.html ",
+"price":" 22.00 "
+},
+{
+"name":" Vichy Deo 48H Intensive Anti-Perspirant Treatment Roll-On 50ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-deo-48h-intensive-anti-perspirant-treatment-roll-on-50ml.html",
+"price":" 120.00 "
+},
+{
+"name":"  Gillette Clear Gel Anti Perspirant Power Rush 70ml",
+"imgUrl":"https://www.binsina.ae/en/gillette-clear-gel-anti-perspirant-power-rush-70ml.html ",
+"price":" 22.00 "
+},
+{
+"name":" Vichy 96 Hour Clinical Control Deodorant For Women 50ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-96-hour-clinical-control-deodorant-for-women-50ml.html",
+"price":" 84.00 "
+},
+{
+"name":" Vichy 96 Hour Clinical Control Deodorant For Men 50ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-96-hour-clinical-control-deodorant-for-men-50ml.html",
+"price":"  84.00"
+},
+{
+"name":" Derma Pella Aquax Deo Cream 75g ",
+"imgUrl":"https://www.binsina.ae/en/buy-derma-pella-aquax-deo-cream-75g.html ",
+"price":"  89.00"
+},

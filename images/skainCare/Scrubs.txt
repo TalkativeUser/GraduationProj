@@ -1,0 +1,22 @@
+Skin Care : Scrubs
+
+
+
+{
+"name":" Filorga Scrub & Detox Foam Exfoliator 50ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/70888_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 184.00 "
+
+},
+{
+"name":" Avene Gentle Purifying Scrub 50ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/25742_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 142.00 "
+
+},
+{
+"name":" Nuxe Aquabella Micro-Exfoliating Purifying Gel 150ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/64137_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 91.00 "
+
+},

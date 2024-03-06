@@ -1,0 +1,32 @@
+Skin care :  wet wipes 
+{
+"name":" skincode essentials s o s oill control balancing 30ml",
+"imgUrl":"https://www.binsina.ae/en/buy-skincode-essentials-s-o-s-oil-control-balancing-serum-30ml.html ",
+"price":" 298.00 ",
+
+},
+{
+
+"name ": " neutrogena hydro boost cleansing facial25",
+"imgUrl" : "  https://www.binsina.ae/en/buy-neutrogena-hydro-boost-cleansing-facial-wipes-25-s.html",
+"Price" : "465.00",
+},
+{
+"name":" obagi on the go cleansing and makeup removing wipes 25  ",
+"imgUrl": "https://www.binsina.ae/en/buy-obagi-on-the-go-cleansing-and-makeup-removing-wipes-25-s-eu-ca.html",
+"price":" 152.00",
+
+},
+{
+
+"name" : micellar skin breath rose water wipes 25 ml",
+imgUrl" : https://www.binsina.ae/en/buy-nivea-micellair-skin-breath-rose-water-wipes-25-s.html",
+"Price" : "43.00",                                              
+
+},
+{
+"name":"  Johnson baby wipes ultimate clean pack 48",
+"imgUrl":" https://www.binsina.ae/en/buy-johnson-s-baby-wipes-ultimate-clean-pack-of-48-wipes.html ",
+"price":"  11.00",
+
+},

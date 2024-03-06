@@ -1,0 +1,81 @@
+Skin Care : Skin Care Sets
+
+
+{
+"name":" Obagi Lifting Kit ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/8/1/81145_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 2,217.60 "
+
+},
+{
+"name":" Obagi Rosacea Kit ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/8/1/81146_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 1,774.40 "
+
+},
+{
+"name":" Obagi 360 Kit ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/8/1/81144_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 1,058.40 "
+
+},
+{
+"name":" Martiderm Proteos Fl Crm40Ml-Promo+Micellar Free ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/6/76803_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 294.00 "
+
+},
+{
+"name":" Obagi Illuminate Kit ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/8/1/81142_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 1,129.60 "
+
+},
+{
+"name":" Obagi Rejuvenate Kit ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/8/1/81143_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 2,045.60 "
+
+},
+{
+"name":" Obagi Hydration Kit ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/8/1/81147_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 1,211.20 "
+
+},
+{
+"name":" Avene Thermal Spring Water 150ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/25088_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 95.00 "
+
+},
+{
+"name":" Avene Eau Thermal Spring Water Spray 50ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/60553_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 42.00 "
+
+},
+{
+"name":" Avene Thermal Spring Water 300ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/42166_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 121.00 "
+
+},
+{
+"name":" Esthederm Brightnening Glow Home Facial Kit ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/72659_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 536.00 "
+
+},
+{
+"name":" Nuxe Aquabella Value Set ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/70582_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 271.00 "
+
+},
+{
+"name":" Stressed Skin & Pigmentation Routine + 2 Deluxe Minis ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/76377_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 299.00 "
+
+},

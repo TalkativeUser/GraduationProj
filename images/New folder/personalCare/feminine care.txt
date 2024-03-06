@@ -1,0 +1,396 @@
+personal care: feminine care
+{
+"name":" FemFresh Intimate Freshness Everyday Care Spray Deodorant 125ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-femfresh-intimate-freshness-everyday-care-spray-deodorant-125ml.html",
+"price":" 20.00 "
+},
+{
+"name":"  FemFresh Intimate Daily Wash 250ml",
+"imgUrl":" https://www.binsina.ae/en/buy-femfresh-intimate-daily-wash-250ml.html",
+"price":" 28.00 "
+},
+{
+"name":"  Intrarosa 6.5Mg Pessaries 1'S",
+"imgUrl":"https://www.binsina.ae/en/buy-intrarosa-6-5mg-pessaries-1-s.html ",
+"price":" 106.00 "
+},
+{
+"name":"  Tampax T. Super 12'S",
+"imgUrl":" https://www.binsina.ae/en/buy-tampax-t-super-12-s.html",
+"price":" 17.00 "
+},
+{
+"name":" Ezycare Menstrual Cup ",
+"imgUrl":" https://www.binsina.ae/en/buy-ezycare-menstrual-cup.html",
+"price":" 53.00 "
+},
+{
+"name":"  Organyc Panty-Liners Flat, Light Flow 24'S",
+"imgUrl":"https://www.binsina.ae/en/buy-organyc-panty-liners-flat-light-flow-24-s.html ",
+"price":"39.00  "
+},
+{
+"name":" Organyc Sanitary Pads Heavy Flow With Wings (Ultrathin)10'S ",
+"imgUrl":" https://www.binsina.ae/en/buy-organyc-sanitary-pads-heavy-flow-with-wings-ultrathin-10-s.html",
+"price":"  39.00"
+},
+{
+"name":" Organyc Tampons, Size Regular 16'S ",
+"imgUrl":" https://www.binsina.ae/en/buy-organyc-tampons-size-regular-16-s.html",
+"price":" 36.00 "
+},
+{
+"name":"  Organyc Sanitary Pads Moderate Flow With Wings(Ultrathin) 10S",
+"imgUrl":" https://www.binsina.ae/en/buy-organyc-sanitary-pads-moderate-flow-with-wings-ultrathin-10s.html",
+"price":" 39.00 "
+},
+{
+"name":"  Max-On Inteema Feminine Wash 150ml",
+"imgUrl":"https://www.binsina.ae/en/buy-max-on-inteema-feminine-wash-150ml.html ",
+"price":" 89.00 "
+},
+{
+"name":" Beesline Whitening Intimate Wash 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-beesline-whitening-intimate-wash-200ml.html",
+"price":" 79.00 "
+},
+{
+"name":" FemFresh Intimate Active Fresh Deodorant 125ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-femfresh-intimate-active-fresh-deodorant-125ml.html",
+"price":" 24.00 "
+},
+{
+"name":" Betadine Moisturizing Intimate Wash 50ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-betadine-moisturizing-intimate-wash-50ml.html ",
+"price":" 26.50 "
+},
+{
+"name":"  Betadine Odour Control Intimate Wash 50ml",
+"imgUrl":"https://www.binsina.ae/en/buy-betadine-odour-control-intimate-wash-50ml.html ",
+"price":" 26.50 "
+},
+{
+"name":"  Max-On Inteema Lightening Gel 30ml",
+"imgUrl":" https://www.binsina.ae/en/buy-max-on-inteema-lightening-gel-30ml.html",
+"price":" 289.00 "
+},
+{
+"name":"  Povid Pessaries 200Mg",
+"imgUrl":" https://www.binsina.ae/en/buy-povid-pessaries-200mg.html",
+"price":"  30.00"
+},
+{
+"name":"Organyc Panty-Liners Folded Light Flow-24 Cotton  ",
+"imgUrl":" https://www.binsina.ae/en/buy-organyc-panty-liners-folded-light-flow-24-cotton.html",
+"price":"  39.00"
+},
+{
+"name":"  Organyc Tampons With Applicator, Size Super 14'S",
+"imgUrl":" https://www.binsina.ae/en/buy-organyc-tampons-with-applicator-size-super-14-s.html",
+"price":" 39.00 "
+},
+{
+"name":" Organyc Maternity Pads "First Days" 12'S ",
+"imgUrl":"https://www.binsina.ae/en/buy-organyc-maternity-pads-first-days-12-s.html ",
+"price":" 55.00 "
+},
+{
+"name":" Organyc Light Incontinence Ultra-Thin Liners 24'S ",
+"imgUrl":"https://www.binsina.ae/en/buy-organyc-light-incontinence-ultra-thin-liners-24-s.html ",
+"price":"  39.00"
+},
+{
+"name":" Beesline Feminine Hygienic Wash 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-beesline-feminine-hygienic-wash-200ml.html",
+"price":" 53.00 "
+},
+{
+"name":"  FemFresh Powder 200g",
+"imgUrl":" https://www.binsina.ae/en/buy-femfresh-powder-200g.html",
+"price":" 24 .00"
+},
+{
+"name":" FemFresh Intimate Active Fresh Wash 250ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-femfresh-intimate-active-fresh-wash-250ml.html",
+"price":"31.00  "
+},
+{
+"name":"  FemFresh Ultimate Care Soothing Wash 250ml",
+"imgUrl":" https://www.binsina.ae/en/buy-femfresh-ultimate-care-soothing-wash-250ml.html",
+"price":"28.00  "
+},
+{
+"name":"  Betadine Active and Fresh Intimate Wash 50ml",
+"imgUrl":"https://www.binsina.ae/en/buy-betadine-active-and-fresh-intimate-wash-50ml.html ",
+"price":" 26.50 "
+},
+{
+"name":"  Betadine Vaginal Douche Kit",
+"imgUrl":" https://www.binsina.ae/en/betadine-vaginal-douche-kit.html",
+"price":"  86.00"
+},
+{
+"name":"  Cyteal Antiseptic Foaming Solution 500ml",
+"imgUrl":" https://www.binsina.ae/en/buy-cyteal-antiseptic-foaming-solution-500ml.html",
+"price":" 50.00 "
+},
+{
+"name":" Betadine Vaginal Gel 100g ",
+"imgUrl":" https://www.binsina.ae/en/buy-betadine-vaginal-gel-100g.html",
+"price":" 76.00 "
+},
+{
+"name":"  Lysaskin Gynelys Intimate Hygiene 200ml",
+"imgUrl":" https://www.binsina.ae/en/buy-lysaskin-gynelys-intimate-hygiene-200ml.html",
+"price":" 82.00 "
+},
+{
+"name":" Uriage GYN-8 Intimate Hygiene Cleansing Gel 100ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-uriage-gyn-8-intimate-hygiene-cleansing-gel-100ml.html",
+"price":"  84.00"
+},
+{
+"name":"  Uriage Gyn-Phy Intimate Hygiene Refreshing Gel 200ml",
+"imgUrl":" https://www.binsina.ae/en/buy-uriage-gyn-phy-intimate-hygiene-refreshing-gel-200ml.html",
+"price":"  88.00"
+},
+{
+"name":" La Femme Antiseptic Solution 250ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-la-femme-antiseptic-solution-250ml.html",
+"price":"  49.00"
+},
+{
+"name":"  Eucerin pH5 Intim-Protect 250ml",
+"imgUrl":" https://www.binsina.ae/en/buy-eucerin-ph5-intim-protect-250ml.html",
+"price":"  97.00"
+},
+{
+"name":" Microsafe Lady Cool Feminine Wash 236ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-microsafe-lady-cool-feminine-wash-236ml.html",
+"price":" 99.00 "
+},
+{
+"name":"  Uriage Gyn-Phy Intimate Hygiene Refreshing Gel 500ml",
+"imgUrl":"https://www.binsina.ae/en/buy-uriage-gyn-phy-intimate-hygiene-refreshing-gel-500ml.html ",
+"price":" 131.00 "
+},
+{
+"name":"  Gillette Satin Care Sensitive Shaving Gel 200ml",
+"imgUrl":" https://www.binsina.ae/en/gillette-satin-care-sensitive-shaving-gel-200ml.html",
+"price":"  22.00"
+},
+{
+"name":"  Betadine Intimate Wash Moisturizing Calendula 250ml",
+"imgUrl":" https://www.binsina.ae/en/buy-betadine-intimate-wash-moisturizing-calendula-250ml.html",
+"price":" 78.75 "
+},
+{
+"name":"  Betadine Intimate Wash Odour Control With Hazel 250ml",
+"imgUrl":" https://www.binsina.ae/en/buy-betadine-intimate-wash-odour-control-with-hazel-250ml.html",
+"price":" 78.75 "
+},
+{
+"name":" Betadine Intimate Wash 300ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-betadine-intimate-wash-300ml.html",
+"price":"  78.75"
+},
+{
+"name":" Isdin Woman Intimate Hygiene 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-isdin-woman-intimate-hygiene-200ml.html",
+"price":"  95.00"
+},
+{
+"name":" Babe Intimate Hygiene Gel 250ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-babe-intimate-hygiene-gel-250ml.html",
+"price":"  84.00"
+},
+{
+"name":" Carefree Daily Intimate Wash Duo Effect With Green Tea & Aloe Vera 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-carefree-daily-intimate-wash-duo-effect-with-green-tea-aloe-vera-200ml.html",
+"price":"  37.80"
+},
+{
+"name":" Carefree Daily Intimate Wash Duo Effect With Vitamin E & Cotton Extract 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-carefree-daily-intimate-wash-duo-effect-with-vitamin-e-cotton-extract-200ml.html",
+"price":" 37.80 "
+},
+{
+"name":"  Carefree Duo Effect Intimate Foam Green Tea & Aloe Vera 150ml",
+"imgUrl":"https://www.binsina.ae/en/buy-carefree-duo-effect-intimate-foam-green-tea-aloe-vera-150ml.html ",
+"price":" 51.80 "
+},
+{
+"name":"  APIVITA Intimate Daily 300ml",
+"imgUrl":" https://www.binsina.ae/en/buy-apivita-intimate-daily-300ml.html",
+"price":" 110.00 "
+},
+{
+"name":" APIVITA Intimate Plus 300ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-apivita-intimate-plus-300ml.html",
+"price":" 126.00 "
+},
+{
+"name":" ALWAYS Clean & Dry Maxi Thick Large Sanitary Pads with Wings 30's ",
+"imgUrl":" https://www.binsina.ae/en/buy-always-clean-dry-maxi-thick-large-sanitary-pads-with-wings-30-s.html",
+"price":"  25.00"
+},
+{
+"name":"  Always Ultra Thin Sensitive Sanitary Pads Normal 10's",
+"imgUrl":" https://www.binsina.ae/en/buy-always-ultra-thin-sensitive-sanitary-pads-normal-10-s.html",
+"price":"  13.00"
+},
+{
+"name":" Always Ultra Soft Cotton Sanitary Large Pads 8's ",
+"imgUrl":" https://www.binsina.ae/en/buy-always-ultra-soft-cotton-sanitary-large-pads-8-s.html",
+"price":"  13.00"
+},
+{
+"name":"  Always Clean & Dry Maxi Thick Sanitary Large Pads 10's",
+"imgUrl":" https://www.binsina.ae/en/buy-always-clean-dry-maxi-thick-sanitary-large-pads-10-s.html",
+"price":" 10.00 "
+},
+{
+"name":" Always Clean & Dry Maxi Thick Night Sanitary Pads With Wings 8's ",
+"imgUrl":" https://www.binsina.ae/en/buy-always-clean-dry-maxi-thick-night-sanitary-pads-with-wings-8-s.html",
+"price":"  11.00"
+},
+{
+"name":"  Always Ultra-Sensitive Long Pads 16's",
+"imgUrl":"https://www.binsina.ae/en/buy-always-ultra-sensitive-long-pads-16-s.html ",
+"price":"  23.00"
+},
+{
+"name":" Always Cotton Soft Ultra Normal Pads 20's ",
+"imgUrl":" https://www.binsina.ae/en/buy-always-cotton-soft-ultra-normal-pads-20-s.html",
+"price":"  23.00"
+},
+{
+"name":"  Always Soft Ultra Thin Night Sanitary Pads 7's",
+"imgUrl":" https://www.binsina.ae/en/buy-always-soft-ultra-thin-night-sanitary-pads-7-s.html",
+"price":" 13.00 "
+},
+{
+"name":"  Always Soft Topsheet With Lotion Pads Large 10's",
+"imgUrl":" https://www.binsina.ae/en/buy-always-soft-topsheet-with-lotion-pads-large-10-s.html",
+"price":" 13.00 "
+},
+{
+"name":"  Always Ultra Night Sanitary Large Pads 24's",
+"imgUrl":" https://www.binsina.ae/en/buy-always-ultra-night-sanitary-large-pads-24-s.html",
+"price":"  23.00"
+},
+{
+"name":" Always Premium Care Cotton Touch Feel Large Pad 30's ",
+"imgUrl":"https://www.binsina.ae/en/buy-always-premium-care-cotton-touch-feel-large-pad-30-s.html ",
+"price":"25.00  "
+},
+{
+"name":"  Always Premium Cotton Soft Maxi Thick Large Sanitary Pads 24's",
+"imgUrl":" https://www.binsina.ae/en/buy-always-premium-cotton-soft-maxi-thick-large-sanitary-pads-24-s.html",
+"price":" 26.00 "
+},
+{
+"name":" Always Diamond Ultra Thin Large Sanitary Pads 7's ",
+"imgUrl":" https://www.binsina.ae/en/buy-always-diamond-ultra-thin-large-sanitary-pads-7-s.html",
+"price":" 12.00 "
+},
+{
+"name":"  Always Diamond Ultra Thin Large Sanitary Pads 14's",
+"imgUrl":" https://www.binsina.ae/en/always-diamond-ultra-thin-large-sanitary-pads-14-s.html",
+"price":" 21.00 "
+},
+{
+"name":" Always Diamond Ultra Thin Extra Long Sanitary Pads 6's ",
+"imgUrl":" https://www.binsina.ae/en/buy-always-diamond-ultra-thin-extra-long-sanitary-pads-6-s.html",
+"price":" 14.00 "
+},
+{
+"name":"  Always Diamond Ultra Thin Extra Long Sanitary Pads 12's",
+"imgUrl":" https://www.binsina.ae/en/buy-always-diamond-ultra-thin-extra-long-sanitary-pads-12-s.html",
+"price":" 21.00 "
+},
+{
+"name":"  Kotex Ultra Thin Coco Normal + Wings Sanitary Pads 16x10's",
+"imgUrl":"https://www.binsina.ae/en/buy-kotex-ultra-thin-coco-normal-wings-sanitary-pads-16x10-s.html ",
+"price":" 14.00 "
+},
+{
+"name":" Kotex Ultra Thin Pads Super with Wings Sanitary Pads 8's ",
+"imgUrl":"https://www.binsina.ae/en/buy-kotex-ultra-thin-pads-super-with-wings-sanitary-pads-8-s.html ",
+"price":" 14.00 "
+},
+{
+"name":"  Always Dreamzz Pad Clean & Dry Maxi Thick Night Long Sanitary Pads with Wings 7 Count",
+"imgUrl":" https://www.binsina.ae/en/buy-always-dreamzz-pad-clean-dry-maxi-thick-night-long-sanitary-pads-with-wings-7-count.html",
+"price":"15.00  "
+},
+{
+"name":"Always Dreamzz Pad Cotton Soft Maxi Thick Night Long Sanitary Pads with Wings 7 Count  ",
+"imgUrl":" https://www.binsina.ae/en/buy-always-dreamzz-pad-cotton-soft-maxi-thick-night-long-sanitary-pads-with-wings-7-count.html",
+"price":" 15.00 "
+},
+{
+"name":"  Always Diamond FlexFoam Large Sanitary Pads with Wings 13 Count",
+"imgUrl":"https://www.binsina.ae/en/buy-always-diamond-flexfoam-large-sanitary-pads-with-wings-13-count.html ",
+"price":" 29.00 "
+},
+{
+"name":" Carefree Panty Liners Cotton Feel Pack of 34's ",
+"imgUrl":" https://www.binsina.ae/en/buy-carefree-panty-liners-cotton-feel-pack-of-34-s.html",
+"price":" 20.30 "
+},
+{
+"name":"  Carefree Panty Liners Cotton Feel Fresh Scented Pack of Individually Folded 20's",
+"imgUrl":" https://www.binsina.ae/en/buy-carefree-panty-liners-cotton-feel-fresh-scented-pack-of-individually-folded-20-s.html",
+"price":"14.70 "
+},
+{
+"name":"  Carefree Panty Liners Regular Size Aloe Pack of Individually Folded 30's",
+"imgUrl":" https://www.binsina.ae/en/carefree-panty-liners-regular-size-aloe-pack-of-individually-folded-30-s.html",
+"price":" 18.90 "
+},
+{
+"name":"  Always Daily Liners Comfort Protect Flexible Comfort Normal Pantyliners 20's",
+"imgUrl":"https://www.binsina.ae/en/buy-always-daily-liners-comfort-protect-flexible-comfort-normal-pantyliners-20-s.html ",
+"price":"  18.00"
+},
+{
+"name":" Always Comfort Protect Flexible Normal 40's ",
+"imgUrl":" https://www.binsina.ae/en/buy-always-comfort-protect-flexible-normal-40-s.html",
+"price":" 26.00 "
+},
+{
+"name":"  Always Daily Liners Comfort Protect Fresh Scent Normal Pantyliners 20's",
+"imgUrl":"https://www.binsina.ae/en/buy-always-daily-liners-comfort-protect-fresh-scent-normal-pantyliners-20-s.html ",
+"price":"18.00  "
+},
+{
+"name":"  Always Daily Liners Comfort Protect Individually Wrapped Normal Pantyliners 20's",
+"imgUrl":"https://www.binsina.ae/en/buy-always-daily-liners-comfort-protect-individually-wrapped-normal-pantyliners-20-s.html ",
+"price":"  18.00"
+},
+{
+"name":"  OB ProComfort Normal Tampons 16's",
+"imgUrl":" https://www.binsina.ae/en/buy-ob-procomfort-normal-tampons-16-s.html",
+"price":" 14.70 "
+},
+{
+"name":" OB Pro Comfort Super Plus Tampons 16's ",
+"imgUrl":"https://www.binsina.ae/en/buy-ob-pro-comfort-super-plus-tampons-16-s.html ",
+"price":" 18.20 "
+},
+{
+"name":" Tampax Tampoons Super Plus 12's ",
+"imgUrl":"https://www.binsina.ae/en/buy-tampax-tampoons-super-plus-12-s.html ",
+"price":" 17.00 "
+},
+{
+"name":" Playtex Gentle Glide Super Tampons with Applicator 18's ",
+"imgUrl":" https://www.binsina.ae/en/buy-playtex-gentle-glide-super-tampons-with-applicator-18-s.html",
+"price":"  23.00"
+},
+{
+"name":" Always Pure Cotton Protection, Ultra Thin, Long Sanitary Pads with Wings, with 100% Hypoallergenic Cotton Top Sheet, 10 count ",
+"imgUrl":" https://www.binsina.ae/en/always-pure-cotton-protection-ultra-thin-long-sanitary-pads-with-wings-with-100-hypoallergenic-cotton-top-sheet-10-count.html",
+"price":"  18.00"
+},

@@ -1,0 +1,424 @@
+Vitamins & Supplements : Hair Skin and Nails
+
+
+{
+"name":" PharMaxxi Maxxi Collagen Sticks 14's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/64928_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 205.00 "
+
+},
+{
+"name":" Nature's Bounty Hair, Skin & Nails Caplets 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/40026_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 97.00 "
+
+},
+{
+"name":" NeoCell Hyaluronic Acid Capsules 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/50916_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 153.30 "
+
+},
+{
+"name":" NeoCell Super Collagen Powder 198g ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/50917_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 94.50 "
+
+},
+{
+"name":" Pura Collagen Flex+ Mini 120g Unflavoured ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/9/79216_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 137.00 "
+
+},
+{
+"name":" Pura Collagen Glow+ Mini 122g Unflavoured ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/9/79215_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 137.00 "
+
+},
+{
+"name":" Pura Collagen Protect 200g Orange And Ginger ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/9/79217_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 210.00 "
+
+},
+{
+"name":" Holland & Barrett Skin, Hair & Nails Formula 180 Tablets ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/6/76200_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 209.00 "
+
+},
+{
+"name":" Pura Collagen Glow+ 284g ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/73940_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 260.00 "
+
+},
+{
+"name":" Hairtone Capsules 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/6/76517_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 200.00 "
+
+},
+{
+"name":" Marnys Beauty in & Out Capsules 30's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/53626_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 415.00 "
+
+},
+{
+"name":" Solgar Skin Nails & Hair Advanced MSM Formula Tablets 60's 1+1 Offer ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/65719_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 128.00 "
+
+},
+{
+"name":" Holland & Barrett Artichoke Extract 60 Capsules ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/7/77294_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 85.00 "
+
+},
+{
+"name":" Holland & Barrett Skin, Hair & Nails Formula 90 Tablets 90's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/6/76199_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 150.00 "
+
+},
+{
+"name":" Holland & Barrett Bovine Collagen Tablet 3000mg Tablets 30's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/76459_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 59.00 "
+
+},
+{
+"name":" Viviscal Max Stength Supplements Women Tablets 180's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/65574_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 695.00 "
+
+},
+{
+"name":" Migliorin Gel Capsules 90's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/65547_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 315.00 "
+
+},
+{
+"name":" Vitabiotics Perfectil Original Triple Action Skin Hair Nails Tablets 30's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/15655_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 65.00 "
+
+},
+{
+"name":" Medcoll Collagen Capsules 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/52881_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 310.00 "
+
+},
+{
+"name":" H&B Expert Skin High Strength Timeless Tablets 30's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/76451_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 35.80 "
+
+},
+{
+"name":" Priorin N Capsules, for Hair Loss , Natural Ingredients, Made in Germany, Capsules 90's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/4/6/46670_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600 ",
+"price":" 299.00 "
+
+},
+{
+"name":" Isdin Lambdapil 5 Alfa Plus Capsules 60'S ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/8/1/81180_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 409.50 "
+
+},
+{
+"name":" Ivybears Vibrant Skin 60 Gummies ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/8/1/81076_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 229.00 "
+
+},
+{
+"name":" Ivybears Men'S Hair 60 Gummies ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/8/1/81075_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 209.00 "
+
+},
+{
+"name":" Ivybears Women'S Hair 60 Gummies ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/8/1/81074_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 229.00 "
+
+},
+{
+"name":" Auracos Glow'N 28 Days ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/9/79809_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600 ",
+"price":" 502.40 "
+
+},
+{
+"name":" Rite Glow Vitamin Gummies x60 ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/8/0/80595_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 159.00 "
+
+},
+{
+"name":" Holland & Barrett Biotin 120 Tablets 300ug ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/8/0/80138_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 45.00 "
+
+},
+{
+"name":" Auracos ProCollagenium 25ml Vials 14's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/54380_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 314.21 "
+
+},
+{
+"name":" Neocell Super Collagen Peptides Powder Type 1&3 10g Collagen Peptides Berry Lemon Flavor With Other Natural Flavor 190g ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/7/77146_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600 ",
+"price":" 94.50 "
+
+},
+{
+"name":" NeoCell Collagen Beauty Builder Tablets 150's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/52439_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 153.30 "
+
+},
+{
+"name":" NeoCell Hyaluronic Acid Blueberry Liquid 473ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/50915_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 182.00 "
+
+},
+{
+"name":" NeoCell Collagen+C Pomegranate Liquid 473ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/50913_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 182.00 "
+
+},
+{
+"name":" Nature's Bounty Biotin 5000mcg Softgels 150's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/60050_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 147.00 "
+
+},
+{
+"name":" Nature's Bounty QD Biotin 5000mcg Capsules 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/60054_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 86.00 "
+
+},
+{
+"name":" The Gummies Co. Hair, Nails & Skin Gummy Adults 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/73431_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 168.00 "
+
+},
+{
+"name":" Bioglan Collagen Effervescent Tablets 20's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/71972_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 53.00 "
+
+},
+{
+"name":" Glow Radiance Defy Tablets 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/65335_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 295.00 "
+
+},
+{
+"name":" Glow Radiance Jointa Complete Joint Care Formula 12g Sticks 30's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/65337_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600 ",
+"price":" 320.00 "
+
+},
+{
+"name":" Marnys Beauty In & Out Elixir 25ml, Vials 14's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/63507_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 416.00 "
+
+},
+{
+"name":" 21St Century Vitajoy Biotin 5000mcg Gummies 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/60397_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 95.00 "
+
+},
+{
+"name":" Viviscal Man Supplement Tablets 180's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/65572_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 695.00 "
+
+},
+{
+"name":" Holland & Barrett Biotin 1000ug Tablets 30's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/76471_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 50.00 "
+
+},
+{
+"name":" Vitabiotics Hairfollic Women Tablets 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/46796_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 219.00 "
+
+},
+{
+"name":" Dose & Co Dairy Creamer Caramel 347g ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/73933_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 149.00 "
+
+},
+{
+"name":" Vitabiotics Hairfollic Man Tablets 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/4/6/46258_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 179.00 "
+
+},
+{
+"name":" Nourkrin Extra Strength Tablets 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/51468_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 299.00 "
+
+},
+{
+"name":" Dose & Co Pure Collagen 287g ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/3/73931_4.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 149.00 "
+
+},
+{
+"name":" Vitabiotics Perfectil Platinum Tablets 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/44971_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 244.00 "
+
+},
+{
+"name":" Solis Softgels Capsules 90's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/63503_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 348.50 "
+
+},
+{
+"name":" Glow Radiance Myo Magnesium & Vitamin B Coplaex 4g Sticks 20's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/y/myoplus-granules.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 85.00 "
+
+},
+{
+"name":" Holland & Barrett Vegan Collagen Tropical Flavoured Powder 150g ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/76469_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 169.00 "
+
+},
+{
+"name":" Viviscal Man Supplement Tablets 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/65571_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 289.00 "
+
+},
+{
+"name":" Vitabiotics Perfectil Plus Hair Tablets 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/71495_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 145.00 "
+
+},
+{
+"name":" Holland & Barrett Biotin 1000ug Tablets 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/76472_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 75.00 "
+
+},
+{
+"name":" Dose & Co Dairy Free Creamer Vanilla 347g ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/73934_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 199.00 "
+
+},
+{
+"name":" Inversion Femme Capsules 90's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/47030_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 273.00 "
+
+},
+{
+"name":" Solgar Biotin 10000mcg Vegetable Capsules 120's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/65724_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 264.00 "
+
+},
+{
+"name":" Dose & Co Pure Collagen 567g ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/73939_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 249.00 "
+
+},
+{
+"name":" Vitabiotics Perfectil Plus Skin Tablets/Capsules 56's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/6/9/69340_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 129.00 "
+
+},
+{
+"name":" C4Derm Collagen Drinks For Glowing Skin 8000mg 14 x 25ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/6/3/63540_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 417.00 "
+
+},
+{
+"name":" Viviscal Max Stength Supplements Women Tablets 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/65573_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 289.00 "
+
+},
+{
+"name":" AMS Biotin 10,000 mcg Tablets 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/60561_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 279.00 "
+
+},
+{
+"name":" Glow Radiance Folikle Capsules 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/65334_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 268.00 "
+
+},
+{
+"name":" Holland & Barrett Skin Hair And Nails Vegan Pineapple Flavour Gummies 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/76205_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 89.00 "
+
+},
+v
+{
+"name":" AMS Collacaps Tablets 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/54083_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 300.00 "
+
+},
+{
+"name":" Yllume Ultimate Illuminating Complex Skin Supplement Capsules 30's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/64538_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 421.00 "
+
+},
+{
+"name":" Holland & Barrett Skin, Hair & Nails Formula Tablets 30's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/6/76198_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 49.00 "
+
+},
+{
+"name":" H&B Expert Marine Collagen Orange Liquid Sachets 10's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/76453_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 199.00 "
+
+},
+{
+"name":" C4Hair Collagen Drinks For Strong and Healthy Hair 10000mg 14 x 25ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/63541_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 417.00 "
+
+},

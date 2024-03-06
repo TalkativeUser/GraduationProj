@@ -1,0 +1,101 @@
+Brands : vichy
+{
+"name":" Vichy Dercos Anti Dandruff Shampoo for Normal to Oily Hair 200ml",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/5/3/53826_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"82.50 "
+},
+{
+"name":"Vichy Dercos Aminexil Clinical 5 Men 6ml Monodoses 21's ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/6/0/60202_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"341.25 "
+},
+{
+"name":"Vichy Dercos Nutri Protein Restorative Mask 250ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/6/5/65884_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"99.00 "
+},
+{
+"name":"Vichy ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/4/7/47610_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"82.50 "
+},
+{
+"name":"Vichy Dercos Detox Dry Shampoo 150ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/6/5/65881_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"76.50 "
+},
+{
+"name":"Vichy Dercos Anti-Dandruff Shampoo for Sensitive Scalp 200ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/5/1/51946_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300",
+"price":"82.50 "
+},
+{
+"name":"Vichy Dercos Aminexil Clinical 5 Women Monodoses 6ml 21's ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/6/0/60201_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"341.25 "
+},
+{
+"name":"Vichy Dercos Densi-Solutions Hair Mass Recreating Concentrate 100ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/6/3/63501_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 158.25"
+},
+{
+"name":"Vichy Dercos Densi-Solutions Thickening Shampoo 250ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/6/3/63499_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"82.50 "
+},
+{
+"name":"Vichy LiftActiv Collagen Specialist Cream 50ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/6/5/65327_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"175.50 "
+},
+{
+"name":"Vichy Liftactiv Collagen Specialist Night 50ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/2/72324_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 175.50"
+},
+{
+"name":"Vichy Capital Soleil SPF50 Dry Touch Fluid 50ml B1G1 Offer ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/m/65157_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"150.00 "
+},
+{
+"name":"Vichy Liftactiv Eyes Anti Wrinkle and Firming Care 15ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/5/1/51297_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"155.25 "
+},
+{
+"name":" Vichy Purete Thermale Fresh Cleansing Gel 200ml",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/5/3/53574_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"118.00 "
+},
+{
+"name":"Vichy Liftactiv Supreme Day Cream 50ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/5/3/53276_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"174.75 "
+},
+{
+"name":"Vichy 96 Hour Clinical Control Deodorant For Men 50ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/7/77243_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"84.00 "
+},
+{
+"name":"Vichy 96 Hour Clinical Control Deodorant For Women 50ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/7/77242_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"84.00 "
+},
+{
+"name":"Vichy Homme 72HR Anti-Perspirant Deodorant Extreme Control 50ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/4/7/47656_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"80.00 "
+},
+{
+"name":"Vichy 72Hr Stress Resist Anti-Perspirant Treatment Roll-On 50ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/5/0/50860_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"80.00 "
+},
+{
+"name":"Vichy Deodorant 48Hour Anti-Perspirant Treatment Intense Perspiration 50ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/4/7/47601_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"80.00 "
+},

@@ -1,0 +1,102 @@
+Brands : Skinceuticals
+{
+"name":"SkinCeuticals Age Eye Complex 15g ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/4/8/48306_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300",
+"price":"462.00 "
+},
+{
+"name":"SkinCeuticals AOX+ Eye Gel 15ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/4/9/49220_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"429.00 "
+},
+{
+"name":"SkinCeuticals Correct Eye Balm 15ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/4/8/48299_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"440.00 "
+},
+{
+"name":"SkinCeuticals Phyto Corrective Gel 30ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/5/2/52812_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"365.00 "
+},
+{
+"name":" SkinCeuticals Resveratrol BE 30ml",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/5/3/53865_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 723.00"
+},
+{
+"name":"SkinCeuticals Phloretin CF 30ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/4/8/48305_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"796.00 "
+},
+{
+"name":"SkinCeuticals C E Ferulic 30ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/4/8/48302_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300",
+"price":"743.00 "
+},
+{
+"name":"SkinCeuticals Prevent Serum 10 30ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/4/8/48303_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 530.00"
+},
+{
+"name":"SkinCeuticals Blemish + Age Cleansing Gel 250ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/6/3/63310_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300",
+"price":"230.00 "
+},
+{
+"name":"SkinCeuticals Cleanse Simply Clean Gel 200ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/6/3/63312_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"214.00 "
+},
+{
+"name":"SkinCeuticals Blemish+ Age Defense 30ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/4/9/49219_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"505.00 "
+},
+{
+"name":"SkinCeuticals Hydrating B5 Solution 30ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/4/8/48300_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"384.00 "
+},
+{
+"name":"SkinCeuticals Advanced Brightening UV Defense SPF 50 Lotion 40ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/1/71593_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"249.00 "
+},
+{
+"name":"SkinCeuticals Triple Lipid Restore 2:4:2 48ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/6/8/68689_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300",
+"price":"506.00 "
+},
+{
+"name":"SkinCeuticals Retinol 1.0 30ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/6/7/67847_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"564.00 "
+},
+{
+"name":" SkinCeuticals Moisture Daily Moisture 50ml",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/6/4/64250_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"509.00"
+},
+{
+"name":"SkinCeuticals Clarifying Clay Masque 60g ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/6/2/62770_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 363.00"
+},
+{
+"name":" SkinCeuticals Tone Blemish Age Toner 200ml",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/6/4/64252_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"230.00 "
+},
+{
+"name":"SkinCeuticals Silymarin CF 30ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/2/72322_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"743.00 "
+},
+{
+"name":"SkinCeuticals H.A. Intensifier 30ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/6/0/60554_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"508.00 "
+},
+

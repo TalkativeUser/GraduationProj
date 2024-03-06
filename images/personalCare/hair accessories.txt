@@ -1,0 +1,267 @@
+Personal Care:Hair Accessories 
+{
+"name":"  Disney POP Princess Headband Snow White",
+"imgUrl":"https://www.binsina.ae/en/buy-disney-pop-princess-headband-snow-white.html ",
+"price":"  36.00"
+},
+{
+"name":",Disney Colour Hair Mask Pinocchio  ",
+"imgUrl":"https://www.binsina.ae/en/buy-disney-colour-hair-mask-pinocchio.html ",
+"price":" 30.0 "
+},
+{
+"name":" Goody Kids Hairbrush ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-kids-hairbrush.html",
+"price":"53.00  "
+},
+{
+"name":"Goody Hello Kitty Scrunchies 6 pcs  ",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-hello-kitty-scrunchies-6-pcs.html ",
+"price":"  39.00"
+},
+{
+"name":" Goody Gelous Grips Oval Hair Brush ",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-gelous-grips-oval-hair-brush.html ",
+"price":"  58.00"
+},
+{
+"name":" Disney Colour Hair Mask Bambi ",
+"imgUrl":" https://www.binsina.ae/en/buy-disney-colour-hair-mask-bambi.html",
+"price":"30.00  "
+},
+{
+"name":" Braun Satin Hair 7 Straightener ",
+"imgUrl":" https://www.binsina.ae/en/buy-braun-satin-hair-7-straightener.html",
+"price":" 320.00 "
+},
+{
+"name":" Braun Satin Hair 5 Straightener ",
+"imgUrl":"https://www.binsina.ae/en/buy-braun-satin-hair-5-straightener.html ",
+"price":" 230.00 "
+},
+{
+"name":" Goody Detangle It Cust Style Paddle Hairbrush ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-detangle-it-cust-style-paddle-hairbrush.html",
+"price":" 46.00 "
+},
+{
+"name":" Disney Colour Hair Mask Dumbo ",
+"imgUrl":" https://www.binsina.ae/en/buy-disney-colour-hair-mask-dumbo.html",
+"price":" 30.00 "
+},
+{
+"name":"Braun Satin Power Perfection Drying 1800 Watts Hd 180  ",
+"imgUrl":" https://www.binsina.ae/en/buy-braun-satin-power-perfection-drying-1800-watts-hd-180.html",
+"price":" 129.00 "
+},
+{
+"name":"Goody Ouchless Ponytailer Java Bean 15 pcs  ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-ouchless-ponytailer-java-bean-15-pcs.html",
+"price":" 28.00 "
+},
+{
+"name":" Goody Fashion Print Headband 1 pc ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-fashion-print-headband-1-pc.html",
+"price":"56.00  "
+},
+{
+"name":" Goody Classics Rubberband Black 250 pcs ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-classics-rubberband-black-250-pcs.html",
+"price":" 18.00 "
+},{
+"name":"  Goody Classics Micro Mini Claw Clip 15 pcs",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-classics-micro-mini-claw-clip-15-pcs.html",
+"price":"  26.00"
+},
+{
+"name":" Kiss Quick Cover Hair Root Touch-Up Dark Brown QCS02 ",
+"imgUrl":" https://www.binsina.ae/en/buy-kiss-quick-cover-hair-root-touchup-dark-brown-qcs02.html",
+"price":"  46.00"
+},
+{
+"name":" Goody Self Fastening Rollers 31's ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-self-fastening-rollers-31-s.html",
+"price":"89.00  "
+},
+{
+"name":"Onetech Hair Brush Pink  ",
+"imgUrl":" https://www.binsina.ae/en/buy-onetech-hair-brush-pink.html",
+"price":" 27.00 "
+},
+{
+"name":" Goody Gold Headband ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-gold-headband.html",
+"price":" 56.00 "
+},
+{
+"name":" Goody Slideproof Wingless Small Claw Clip 2's ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-slideproof-wingless-small-claw-clip-2-s.html",
+"price":" 32.00 "
+},
+{
+"name":"Goody Scrunchie Ribbed 8's  ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-scrunchie-ribbed-8-s.html",
+"price":"  32.00"
+},
+{
+"name":"Goody Girls Ponytailer Twinbead Faceted Flower 8's  ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-girls-ponytailer-twinbead-faceted-flower-8-s.html",
+"price":"  43.00"
+},
+{
+"name":"  Goody Girls Ouchless Tiny Terry Ponytailer 42's",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-girls-ouchless-tiny-terry-ponytailer-42-s.html",
+"price":"  20.00"
+},
+{
+"name":"Goody Classics Small Half Claw Clip 12's  ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-classics-small-half-claw-clip-12-s.html",
+"price":" 23.00 "
+},
+{
+"name":"  Goody Gelous Grips Paddle Hair Brush",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-gelous-grips-paddle-hair-brush.html ",
+"price":" 65.00 "
+},
+{
+"name":"  Goody Ouchless Forever Black Elastics 10's",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-ouchless-forever-black-elastics-10-s.html ",
+"price":"60.00  "
+},
+{
+"name":" Goody Girls Classics Jewelled Flower Contour Clip 12's ",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-girls-classics-jewelled-flower-contour-clip-12-s.html ",
+"price":"35.00  "
+},
+{
+"name":" Goody Classics Large Rectangle Claw Clip 3's ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-classics-large-rectangle-claw-clip-3-s.html",
+"price":"  32.00"
+},
+{
+"name":"  Goody Classic Fabric Covered Headbands 3's",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-classic-fabric-covered-headbands-3-s.html ",
+"price":"32.00  "
+},
+{
+"name":" Braun Satin Hair 5 Steam Power Air Styler ",
+"imgUrl":"https://www.binsina.ae/en/buy-braun-satin-hair-5-steam-power-air-styler.html ",
+"price":" 167.00 "
+},
+{
+"name":"  Onetech Hair Brush Black",
+"imgUrl":"https://www.binsina.ae/en/buy-onetech-hair-brush-black.html ",
+"price":"27.00  "
+},
+{
+"name":"  Goody Ouchless Multi Clear Ponyband Elastics 250's",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-ouchless-multi-clear-ponyband-elastics-250-s.html ",
+"price":" 35.00"
+},
+{
+"name":"  Goody Girls Ouchless 2mm Elastics 72's",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-girls-ouchless-2mm-elastics-72-s.html ",
+"price":"32.00  "
+},
+{
+"name":" Goody 6.5 Hair Cutting Scissor ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-6-5-hair-cutting-scissor.html",
+"price":" 91.00 "
+},
+{
+"name":" Goody Ouchless Comfort Hairwrap 2inchs 3's ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-ouchless-comfort-hairwrap-2inchs-3-s.html",
+"price":"37.00  "
+},
+{
+"name":" Goody Classics Half Claw Clip 6's ",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-classics-half-claw-clip-6-s.html ",
+"price":"30.00  "
+},
+{
+"name":"Goody Ouchless Braided Elastics Brown 15's  ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-ouchless-braided-elastics-brown-15-s.html",
+"price":" 22.00 "
+},
+{
+"name":"  Goody Women's Small Metallic Bobby Slide Black 26's",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-women-s-small-metallic-bobby-slide-black-26-s.html ",
+"price":"24.00  "
+},
+{
+"name":"Goody Bobby Pins Black 90's  ",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-bobby-pins-black-90-s.html ",
+"price":"18.00  "
+},
+{
+"name":" Onetech Hair Brush Green ",
+"imgUrl":" https://www.binsina.ae/en/buy-onetech-hair-brush-green.html",
+"price":"27.00  "
+},
+{
+"name":" Goody Amp It Up Lift Kit 2's ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-amp-it-up-lift-kit-2-s.html",
+"price":" 46.00 "
+},
+{
+"name":" Goody Ouchless Braided Elastics Black 15's ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-ouchless-braided-elastics-black-15-s.html",
+"price":" 22.00 "
+},
+{
+"name":" Goody Slide Proof Large Basic Claw Clip ",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-slide-proof-large-basic-claw-clip.html ",
+"price":" 32.00 "
+},
+{
+"name":" Goody Scrunchie Black 8's ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-scrunchie-black-8-s.html",
+"price":" 39.00 "
+},{
+"name":"  Goody Girls Classics Fabric Headband 5's",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-girls-classics-fabric-headband-5-s.html ",
+"price":" 27.00 "
+},{
+"name":" Goody Classics Medium Sandswirl Contour Clip 6's ",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-classics-medium-sandswirl-contour-clip-6-s.html ",
+"price":" 27.00 "
+},{
+"name":"Goody Ouchless Black 2mm Elastics 36's  ",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-ouchless-black-2mm-elastics-36-s.html ",
+"price":"22.00  "
+},
+{
+"name":" Goody Classics 3 Prong Mini Claw Clip 12's ",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-classics-3-prong-mini-claw-clip-12-s.html ",
+"price":"  20.00"
+},
+{
+"name":" Onetech Hair Brush Blue ",
+"imgUrl":"https://www.binsina.ae/en/buy-onetech-hair-brush-blue.html ",
+"price":"27.00  "
+},
+{
+"name":" Braun Satin Hair 1 Dryer ",
+"imgUrl":"https://www.binsina.ae/en/buy-braun-satin-hair-1-dryer.html ",
+"price":" 109.00 "
+},
+{
+"name":" Goody Ouchless Braided Elastics Dark Multiglitter 32's ",
+"imgUrl":" https://www.binsina.ae/en/buy-goody-ouchless-braided-elastics-dark-multiglitter-32-s.html",
+"price":" 60.00"
+},
+{
+"name":" Goody Athletique Sweat Stretch Elastics 8's ",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-athletique-sweat-stretch-elastics-8-s.html ",
+"price":"24.00  "
+},
+{
+"name":"  Goody Ouchless Braided Elastics Blonde 15's",
+"imgUrl":"https://www.binsina.ae/en/buy-goody-ouchless-braided-elastics-blonde-15-s.html ",
+"price":"22.00  "
+},
+{
+"name":" Braun Satin Hair 3 Straightener Black ",
+"imgUrl":"https://www.binsina.ae/en/buy-braun-satin-hair-3-straightener-black.html ",
+"price":" 177.00 "
+},

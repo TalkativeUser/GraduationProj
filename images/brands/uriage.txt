@@ -1,0 +1,52 @@
+Brands : Uriage
+{
+"name":"Uriage Eau Thermale Water Sleeping Mask 50ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/6/3/63362_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300",
+"price":" 152.00"
+},
+{
+"name":"Uriage Xemose Sos Anti-Itch Mist 200Ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/8/0/80329_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"179.00 "
+},
+{
+"name":" Uriage Age Lift Firming Smoothing Cream 40 Ml",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/9/79502_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"273.00 "
+},
+{
+"name":" Uriage Thermal Water Spray 150ml",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/3/4/34048_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"79.00 "
+},
+{
+"name":"Uriage Bariesun SPF 50+ Sunscreen Lotion 100ml 1+1 Free ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/6/76642_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300",
+"price":"163.00 "
+},
+{
+"name":"Uriage Age Lift Revitalizing Night Smoothing Cream 40 Ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/9/79503_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 273.00"
+},
+{
+"name":"Uriage Age Lift Firming Smoothing Intensive Serum 30 Ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/9/79504_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"294.00 "
+},
+{
+"name":"Uriage Age Lift Firming Smoothing Eye Cream 15 Ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/7/9/79500_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"231.00"
+},
+{
+"name":"Uriage Thermal Beautifier Water Cream 40ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/6/8/68648_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"149.00 "
+},
+{
+"name":"Uriage Silky Body Lotion 500Ml ",
+"imgUrl":"https://www.binsina.ae/media/catalog/product/8/0/80328_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":"163.00 "
+},
+

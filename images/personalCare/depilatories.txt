@@ -1,0 +1,231 @@
+personal care: Depilatories
+{
+"name":" Gillette Venus Bikini Cartridge Refill 3'S ",
+"imgUrl":"https://www.binsina.ae/en/buy-gillette-venus-bikini-cartridge-refill-3s.html ",
+"price":" 59.00 "
+},
+{
+"name":" Braun Silk-epil Lady Shaver 5-160 Blue, 3-in-1 Wet & Dry Electric Shaver Blue ",
+"imgUrl":" https://www.binsina.ae/en/buy-braun-silk-epil-lady-shaver-5-160-blue-3-in-1-wet-dry-electric-shaver-blue.html",
+"price":"  159.00"
+},
+{
+"name":"  Braun Silk-Epil 3 Legs Epilator",
+"imgUrl":" https://www.binsina.ae/en/buy-braun-silk-epil-3-legs-epilator.html",
+"price":"  130.00"
+},
+{
+"name":"  Gillette Venus Satincare Preshave Bikini Exfoliant 177Ml",
+"imgUrl":"https://www.binsina.ae/en/buy-gillette-venus-satincare-preshave-bikini-exfoliant-177ml.html ",
+"price":" 59.00 "
+},
+{
+"name":" Venus Extra Smooth Sens 2Uprazor ",
+"imgUrl":"https://www.binsina.ae/en/buy-venus-extra-smooth-sens-2uprazor.html ",
+"price":" 76.00 "
+},
+{
+"name":" Braun Silk-Epil 9 Se 9538 Wet Dry Epilator With 3 Extras ",
+"imgUrl":" https://www.binsina.ae/en/buy-braun-silk-epil-9-se-9538-wet-dry-epilator-with-3-extras.html",
+"price":"  599.00"
+},
+{
+"name":"  Gillette Venus Bikini  1 Razor + 2 Carts",
+"imgUrl":"https://www.binsina.ae/en/buy-gillette-venus-bikini-1-razor-2-carts.html ",
+"price":"  59.00"
+},
+{
+"name":"  Braun Silk-Epil 3 Epilator",
+"imgUrl":" https://www.binsina.ae/en/buy-braun-silk-epil-3-epilator-44587-html.html",
+"price":" 180.00 "
+},
+{
+"name":" Gillette Venus Satincare Shave Bikini Gel 190Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-gillette-venus-satincare-shave-bikini-gel-190ml.html ",
+"price":"  59.00"
+},
+{
+"name":"Venus Extra Smooth Snap  ",
+"imgUrl":"https://www.binsina.ae/en/buy-venus-extra-smooth-snap.html ",
+"price":" 61.00 "
+},
+{
+"name":"  Venus Coconut W/Olay 2Up Razor",
+"imgUrl":" https://www.binsina.ae/en/buy-venus-coconut-w-olay-2up-razor.html",
+"price":"  87.00"
+},
+{
+"name":"  Venus Swirl Razor 2Up",
+"imgUrl":"https://www.binsina.ae/en/buy-venus-swirl-razor-2up.html ",
+"price":"108.00  "
+},
+{
+"name":" Veet Dry Skin Hair Removal Cream 100g ",
+"imgUrl":"https://www.binsina.ae/en/buy-veet-dry-skin-hair-removal-cream-100g.html ",
+"price":" 24.00 "
+},
+{
+"name":" Schick Exacta2 Sensitive Razors 7's ",
+"imgUrl":"https://www.binsina.ae/en/buy-schick-exacta2-sensitive-razors-7-s.html ",
+"price":"  19.00"
+},
+{
+"name":" Schick Quattro For Women Razors 3's ",
+"imgUrl":" https://www.binsina.ae/en/buy-schick-quattro-for-women-razors-3-s.html",
+"price":" 27.00 "
+},
+{
+"name":" Braun Silk-épil Beauty Set 5 5-875 Starter 4-in-1 Cordless Wet & Dry Hair Removal Epilator White ",
+"imgUrl":" https://www.binsina.ae/en/buy-braun-silk-epil-beauty-set-5-5-875-starter-4-in-1-cordless-wet-dry-hair-removal-epilator-white.html",
+"price":" 499.00 "
+},
+{
+"name":"  King C. Gillette Men's Refill Shave and Edging Razor Blades Refills Pack of 3's",
+"imgUrl":"https://www.binsina.ae/en/king-c-gillette-men-s-refill-shave-and-edging-razor-blades-refills-pack-of-3-s.html ",
+"price":" 56.00 "
+},
+{
+"name":" Veet Normal Skin Wax Strips 20's ",
+"imgUrl":" https://www.binsina.ae/en/buy-veet-normal-skin-wax-strips-20-s.html",
+"price":" 49.00 "
+},
+{
+"name":"  Gillette Simply Venus 2 Women`s Disposable Razor 4's",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-simply-venus-2-women-s-disposable-razor-4-s.html",
+"price":" 14.00 "
+},
+{
+"name":"  Gillette Venus Razor Handle + Razor Blade 2's",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-venus-razor-handle-razor-blade-2-s.html",
+"price":"  46.00"
+},
+{
+"name":"  Gillette Simply Venus 3 Plus Disposable Razor 3's",
+"imgUrl":"https://www.binsina.ae/en/buy-gillette-simply-venus-3-plus-disposable-razor-3-s.html ",
+"price":" 29.00 "
+},
+{
+"name":" Braun Silk Epil SES 5820 Wet & Dry Epilator + 4 Extras with Bikini Styler & Pouch White ",
+"imgUrl":"https://www.binsina.ae/en/buy-braun-silk-epil-ses-5820-wet-dry-epilator-4-extras-with-bikini-styler-pouch-white.html ",
+"price":"  429.00"
+},
+{
+"name":" Gillette Venus Spa Breeze Blade 4's ",
+"imgUrl":"https://www.binsina.ae/en/buy-gillette-venus-spa-breeze-blade-4-s.html ",
+"price":"  89.00"
+},
+{
+"name":" Simply Venus 3 Razor with 3 Blades 4 razors + 1 Free ",
+"imgUrl":" https://www.binsina.ae/en/buy-simply-venus-3-razor-with-3-blades-4-razors-1-free.html",
+"price":" 24.00 "
+},
+{
+"name":"Braun Silk·expert Pro 3 PL3011 Latest Generation IPL Permanent Hair Removal White ",
+"imgUrl":" https://www.binsina.ae/en/buy-braun-silk-expert-pro-3-pl3011-latest-generation-ipl-permanent-hair-removal-white.html",
+"price":"  1329.00"
+},
+{
+"name":" Gillette Venus Women's Razor Blades 4's ",
+"imgUrl":"https://www.binsina.ae/en/buy-gillette-venus-women-s-razor-blades-4-s.html ",
+"price":"71.00  "
+},
+{
+"name":" King C. Gillette Men's Neck Shaving Razor Blade with Skinguard and Gillette's Best and Sharpest Stainless Steel Platinum Coated Blades Refills Pack of 3's ",
+"imgUrl":" https://www.binsina.ae/en/buy-king-c-gillette-men-s-neck-shaving-razor-blade-with-skinguard-and-gillette-s-best-and-sharpest-stainless-steel-platinum-coated-blades-refills-pack-of-3-s.html",
+"price":" 59.00 "
+},
+{
+"name":" Gillette Venus Breeze Women's Razor ",
+"imgUrl":"https://www.binsina.ae/en/buy-gillette-venus-breeze-women-s-razor.html ",
+"price":"66.00  "
+},
+{
+"name":" Venus Satin Care Women's Shaving Gel Dry Skin 200ml ",
+"imgUrl":" Venus Satin Care Women's Shaving Gel Dry Skin 200ml",
+"price":" 23.00 "
+},
+{
+"name":"  Veet In Shower Normal Skin Hair Removal Cream 150g",
+"imgUrl":" https://www.binsina.ae/en/buy-veet-in-shower-normal-skin-hair-removal-cream-150g.html",
+"price":"  40.00"
+},
+{
+"name":" Veet Sensitive Skin Wax Strips 20's ",
+"imgUrl":"https://www.binsina.ae/en/buy-veet-sensitive-skin-wax-strips-20-s.html ",
+"price":" 49.00 "
+},
+{
+"name":"  Braun Silk-epil SES 9720 Wet & Dry Epilator +3 Extras with Shaver & Trimmer + Pouch White",
+"imgUrl":"https://www.binsina.ae/en/buy-braun-silk-epil-ses-9720-wet-dry-epilator-3-extras-with-shaver-trimmer-pouch-white.html ",
+"price":"529.00  "
+},
+{
+"name":"  Veet Dry Skin Wax Strips 20's",
+"imgUrl":"https://www.binsina.ae/en/buy-veet-dry-skin-wax-strips-20-s.html ",
+"price":"  49.00"
+},
+{
+"name":" King C. Gillette Men's 5 Blade Shave and Edging Razor with Built In Single Blade Precision Trimmer and Premium Handle ",
+"imgUrl":" https://www.binsina.ae/en/buy-king-c-gillette-men-s-5-blade-shave-and-edging-razor-with-built-in-single-blade-precision-trimmer-and-premium-handle.html",
+"price":"99.00  "
+},
+{
+"name":"  Simply Venus 3in1 Refillable Women's Smooth Razor 1 Handle With 6 + 3Free Blade Refills",
+"imgUrl":"https://www.binsina.ae/en/buy-simply-venus-3in1-refillable-women-s-smooth-razor-1-handle-with-6-3free-blade-refills.html ",
+"price":"44.00  "
+},
+{
+"name":"  Gillette Venus Riviera Disposable Razor 2's",
+"imgUrl":"https://www.binsina.ae/en/buy-gillette-venus-riviera-disposable-razor-2-s.html ",
+"price":"  29.00"
+},
+{
+"name":"  Gillette Venus Swirl Flexiball Women's Refills 4's",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-venus-swirl-flexiball-women-s-refills-4-s.html",
+"price":"  119.00"
+},
+{
+"name":" King C. Gillette Men's Double Edge Safety Razor with Gillette's Best Platinum Coated Double Edge Blades and Classic Inspired Chrome Plated Handle ",
+"imgUrl":"https://www.binsina.ae/en/king-c-gillette-men-s-double-edge-safety-razor-with-gillette-s-best-platinum-coated-double-edge-blades-and-classic-inspired-chrome-plated-handle.html ",
+"price":"  132.00"
+},
+{
+"name":"  Gillette Venus & Olay Women's Razor Blade Refills 4's",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-venus-olay-women-s-razor-blade-refills-4-s.html",
+"price":" 117.00 "
+},
+{
+"name":" Venus Satin Care Shave Gel Avocado Twist 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-venus-satin-care-shave-gel-avocado-twist-200ml.html",
+"price":" 23.00 "
+},
+{
+"name":"Braun BS 1000 Body Mini Trimmer Wet & Dry with Trimming Comb White  ",
+"imgUrl":" https://www.binsina.ae/en/buy-braun-bs-1000-body-mini-trimmer-wet-dry-with-trimming-comb-white.html",
+"price":" 100.00 "
+},
+{
+"name":" Veet Sensitive Skin Hair Removal Cream 100g ",
+"imgUrl":" https://www.binsina.ae/en/buy-veet-sensitive-skin-hair-removal-cream-100g.html",
+"price":" 24.00 "
+},
+{
+"name":"  King C. Gillette Men's Double Edge Safety Razor Blades Pack of 10's",
+"imgUrl":"https://www.binsina.ae/en/buy-king-c-gillette-men-s-double-edge-safety-razor-blades-pack-of-10-s.html ",
+"price":" 23.00 "
+},
+{
+"name":" Gillette Venus Women's Razor Blade Refills 4's ",
+"imgUrl":" https://www.binsina.ae/en/buy-gillette-venus-women-s-razor-blade-refills-4-s.html",
+"price":" 69.00 "
+},
+{
+"name":" King C. Gillette Men's Neck Razor with Gillette's Best Sharpest Stainless Steel Platinum Coated Blades ",
+"imgUrl":" https://www.binsina.ae/en/king-c-gillette-men-s-neck-razor-with-gillette-s-best-sharpest-stainless-steel-platinum-coated-blades.html",
+"price":" 99.00 "
+},
+{
+"name":" BRAUN SILKEPIL SE 5541 ",
+"imgUrl":"https://www.binsina.ae/en/buy-braun-silkepil-se-5541.html ",
+"price":"  324.00"
+},

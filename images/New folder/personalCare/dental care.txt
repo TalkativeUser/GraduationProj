@@ -1,0 +1,1386 @@
+personal care: Dental care
+{
+"name":"Sensodyne Natural White Charcoal Toothpaste 75ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-natural-white-charcoal-toothpaste-75ml.html",
+"price":"  31.00"
+},
+{
+"name":" Curasept Ads 212 Mouth Wash 200Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-curasept-ads-212-mouth-wash-200ml.html",
+"price":" 53.00 "
+},
+{
+"name":"  Curasept Ads 205 Mouth Wash 200Ml",
+"imgUrl":"https://www.binsina.ae/en/buy-curasept-ads-205-mouth-wash-200ml.html ",
+"price":"51.00  "
+},
+{
+"name":"  Curasept Ads 020 Soothing Mouth Wash 200Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-curasept-ads-020-soothing-mouth-wash-200ml.html",
+"price":"  61.00"
+},
+{
+"name":"  Curasept Regenerating 0.5 % Paradontal Gel 30Ml",
+"imgUrl":"https://www.binsina.ae/en/buy-curasept-regenerating-0-5-paradontal-gel-30ml.html ",
+"price":" 58.00 "
+},
+{
+"name":"  Listerine Advanced White 500Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-listerine-advanced-white-mouthwash-removes-tough-stains-milder-taste-spearmint-flavour-500ml.html",
+"price":"54.00  "
+},
+{
+"name":"  Oral-B Revolution Battery Toothbrush Db 400.010",
+"imgUrl":"https://www.binsina.ae/en/buy-oral-b-revolution-battery-toothbrush-db-400-010.html ",
+"price":"  60.00"
+},
+{
+"name":"  Marvis Sensitive Gums Gentle Mint Toothpaste 75Ml",
+"imgUrl":https://www.binsina.ae/en/buy-marvis-sensitive-gums-gentle-mint-toothpaste-75ml.html" ",
+"price":"  57.00"
+},
+{
+"name":"  Gengigel Forte Oral Gel Tube 8Ml",
+"imgUrl":"https://www.binsina.ae/en/buy-gengigel-forte-oral-gel-tube-8ml.html ",
+"price":"  90.00"
+},
+{
+"name":"  Parodontax Toothpaste Gum + Breath & Sensiy Whit 75 Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-parodontax-toothpaste-gum-breath-sensiy-whit-75-ml.html",
+"price":" 32.00 "
+},
+{
+"name":"  Philips Sonicare Rechargeable Electric Toothbrush HX3651",
+"imgUrl":" https://www.binsina.ae/en/buy-philips-sonicare-rechargeable-electric-toothbrush-hx3651.html",
+"price":"  149.00"
+},
+{
+"name":"  Braun Oral-B Professional Care OC 20 535 Oxyjet Irrigator",
+"imgUrl":"https://www.binsina.ae/en/buy-braun-oral-b-professional-care-oc-20-535-oxyjet-irrigator.html ",
+"price":" 700.00 "
+},
+{
+"name":" Braun Oral-B FlossAction Replacement Electric Toothbrush Head 2's ",
+"imgUrl":" https://www.binsina.ae/en/buy-braun-oral-b-flossaction-replacement-electric-toothbrush-head-2-s.html",
+"price":"64.00  "
+},
+{
+"name":"  Curaprox BEYOU Blackberry & Liquorice Blue 60ml",
+"imgUrl":" https://www.binsina.ae/en/buy-curaprox-beyou-blackberry-liquorice-blue-60ml.html",
+"price":"47.50  "
+},
+{
+"name":" Curaprox BEYOU Apple & Aloe Vera Green 60ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-curaprox-beyou-apple-aloe-vera-green-60ml.html",
+"price":"  47.50"
+},
+{
+"name":"  Curaprox BEYOU Peach & Apricot Orange 60ml",
+"imgUrl":" https://www.binsina.ae/en/buy-curaprox-beyou-peach-apricot-orange-60ml.html",
+"price":" 47.50 "
+},
+{
+"name":"  Oral B D100.413.1 Black Vitality-100 Cross Action Rechargeable Toothbrush Built-in 2 minute Quadrant Timer",
+"imgUrl":"https://www.binsina.ae/en/buy-oral-b-d100-413-1-black-vitality-100-cross-action-rechargeable-toothbrush-built-in-2-minute-quadrant-timer.html ",
+"price":" 149.00 "
+},
+{
+"name":"  Curasept Ads 220 Mouth Wash 200Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-curasept-ads-220-mouth-wash-200ml.html",
+"price":" 55.00 "
+},
+{
+"name":"  Curasept Regenerating 020 Mouth Wash 200Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-curasept-regenerating-020-mouth-wash-200ml.html",
+"price":" 58.00 "
+},
+{
+"name":"  Curasept Ads 712 Tooth Paste 75Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-curasept-ads-712-tooth-paste-75ml.html",
+"price":"  42.00"
+},
+{
+"name":" Curasept Gold Luxury Whitening Tp 75Ml + Toothbrush ",
+"imgUrl":" https://www.binsina.ae/en/buy-curasept-gold-luxury-whitening-dent-toothpaste-75ml-toothbrush.html",
+"price":" 84.00 "
+},
+{
+"name":" Listerine Advanced White 250Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-listerine-advanced-white-mouthwash-removes-tough-stains-milder-taste-spearmint-flavour-250ml.html ",
+"price":"  34.00"
+},
+{
+"name":"  Sensodyne Toothpaste Complete Protection Whitening 75Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-toothpaste-complete-protection-whitening-75ml.html",
+"price":" 35.00 "
+},
+{
+"name":" Gum Ortho Travel Soft Toothbrush Purple ",
+"imgUrl":" https://www.binsina.ae/en/buy-gum-ortho-travel-soft-toothbrush-purple.html",
+"price":"  19.00"
+},
+{
+"name":"Curaprox BEYOU Watermelon Pink 60ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-curaprox-beyou-watermelon-pink-60ml.html ",
+"price":" 47.50 "
+},
+{
+"name":" Curaprox BEYOU Juniper & Persimmon Kaki Red 60ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-curaprox-beyou-juniper-persimmon-kaki-red-60ml.html ",
+"price":" 47.50 "
+},
+{
+"name":" Oral-B GeniusX 20100S Rechargeable Artificial Intelligence Toothbrush White ",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-geniusx-20100s-rechargeable-artificial-intelligence-toothbrush-white.html",
+"price":" 1000.00 "
+},
+{
+"name":" Oral B D100.413.1 Pink Vitality-100 Cross Action Rechargeable Toothbrush Built-in 2-minute Quadrant Timer ",
+"imgUrl":"https://www.binsina.ae/en/buy-oral-b-d100-413-1-pink-vitality-100-cross-action-rechargeable-toothbrush-built-in-2-minute-quadrant-timer.html ",
+"price":" 149.00 "
+},
+{
+"name":"  Oral-B D505.513.3X Pro 3 3000 Electric Rechargeable Toothbrush Powered by Braun 3 Modes 1 Handle with Travle Case Black",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-d505-513-3x-pro-3-3000-electric-rechargeable-toothbrush-powered-by-braun-3-modes-1-handle-with-travle-case-black.html",
+"price":" 299.00 "
+},
+{
+"name":"  Curasept Soothing Gel 30Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-curasept-ads-0-5-soothing-paradontal-gel-30ml.html",
+"price":" 47.00 "
+},
+{
+"name":"  Curasept Ads Gel 05% Topical Gel 30 Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-curasept-ads-gel-05-topical-gel-30-ml.html",
+"price":" 38.00 "
+},
+{
+"name":" Curasept Regenerating Toothpaste 75Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-curasept-regenerating-toothpaste-75ml.html",
+"price":"  37.00"
+},
+{
+"name":" Curasept Ads 720 Tooth Paste 75Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-curasept-ads-720-tooth-paste-75ml.html ",
+"price":"  42.00"
+},
+{
+"name":" Oral B Clic Onyx Silver Tb 1Up ",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-clic-onyx-silver-tb-1up.html",
+"price":"  124.00"
+},
+{
+"name":" Oral B Clic Onyx Silver Brush Heads Ct 2'S ",
+"imgUrl":"https://www.binsina.ae/en/buy-oral-b-clic-onyx-silver-brush-heads-ct-2-s.html ",
+"price":" 61.00 "
+},
+{
+"name":"Gum Soft Pick Original Fluor 632Hv 50'S  ",
+"imgUrl":" https://www.binsina.ae/en/buy-gum-soft-pick-original-fluor-632hv-50-s.html",
+"price":" 33.50 "
+},
+{
+"name":" Curasept Black Luxury Whitening Tp 75Ml + Toothbrush ",
+"imgUrl":" https://www.binsina.ae/en/buy-curasept-black-luxury-whitening-toothpaste-75ml-toothbrush.html",
+"price":" 84.00 "
+},
+{
+"name":" Philips Sonicare Cordless Power Flosser Black HX3806/33 ",
+"imgUrl":"https://www.binsina.ae/en/buy-philips-sonicare-cordless-power-flosser-black-hx3806-33.html",
+"price":"  419.00"
+},
+{
+"name":"  Oral-B Io Series 6 Rechargeable Toothbrush, 5 Modes, Pink Sand",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-io-series-6-rechargeable-toothbrush-5-modes-pink-sand.html",
+"price":" 849.00 "
+},
+{
+"name":" Betadine Mouthwash/Gargle 125ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-betadine-mouthwash-gargle-125ml.html",
+"price":" 50.50 "
+},
+{
+"name":" Gum Soft Pick Original Fluor 632Hv 50'S ",
+"imgUrl":" https://www.binsina.ae/en/buy-gum-soft-pick-original-fluor-632hv-50-s.html",
+"price":"  33.50"
+},
+{
+"name":"  Oral B Clic Onyx Silver Tb 1Up",
+"imgUrl":"https://www.binsina.ae/en/buy-oral-b-clic-onyx-silver-tb-1up.html ",
+"price":"124  "
+},
+{
+"name":" Oral B Clic Onyx Silver Brush Heads Ct 2'S ",
+"imgUrl":"https://www.binsina.ae/en/buy-oral-b-clic-onyx-silver-brush-heads-ct-2-s.html ",
+"price":" 61.00 "
+},
+{
+"name":" Philips Sonicare Cordless Power Flosser Black HX3806/33 ",
+"imgUrl":"https://www.binsina.ae/en/buy-philips-sonicare-cordless-power-flosser-black-hx3806-33.html ",
+"price":"419.00  "
+},
+{
+"name":" Philips Sonicare Premium All In One Heads HX9092/67 2's ",
+"imgUrl":" https://www.binsina.ae/en/buy-philips-sonicare-premium-all-in-one-heads-hx9092-67-2-s.html",
+"price":" 129.00 "
+},
+{
+"name":" Curaprox Perio+ Mouthwash 0.20% 200ml ",
+"imgUrl":" https://www.binsina.ae/en/curaprox-perio-mouthwash-0-20-200ml.html",
+"price":" 58.00 "
+},
+{
+"name":" Philips Sonicare C3 Premium Plaque Defence Brush Head ",
+"imgUrl":"https://www.binsina.ae/en/buy-philips-sonicare-c3-premium-plaque-defence-brush-head.html ",
+"price":" 146.00 "
+},
+{
+"name":"Dentaid Interprox Interproximal Mini Conical Brushes 6's  ",
+"imgUrl":" https://www.binsina.ae/en/buy-dentaid-interprox-interproximal-mini-conical-brushes-6-s.html",
+"price":"  32.00"
+},
+{
+"name":"Parodontax Herbal Ginger, Mint & Eucalyptus Toothpaste 75ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-parodontax-herbal-ginger-mint-eucalyptus-toothpaste-75ml.html ",
+"price":" 31.00 "
+},
+{
+"name":" Tebodont Gel 18ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-tebodont-gel-18ml.html",
+"price":"27.00  "
+},
+{
+"name":"  Crest 3D Whitening Therapy Charcoal 75ml",
+"imgUrl":" https://www.binsina.ae/en/buy-crest-3d-whitening-therapy-charcoal-75ml.html",
+"price":"34.00  "
+},
+{
+"name":"  Vitis Gingival Toothpaste 100ml",
+"imgUrl":"https://www.binsina.ae/en/buy-vitis-gingival-toothpaste-100ml.html ",
+"price":"37.00  "
+},
+{
+"name":" Perio Aid Mouthwash 150ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-perio-aid-mouthwash-150ml.html ",
+"price":" 32.00 "
+},
+{
+"name":"  Colgate Total 12 Pro Gum Health Toothpaste 75ml",
+"imgUrl":"https://www.binsina.ae/en/buy-colgate-total-12-pro-gum-health-toothpaste-75ml.html ",
+"price":" 33.00 "
+},
+{
+"name":"  DenTek Triple Clean Floss Picks 75's",
+"imgUrl":"https://www.binsina.ae/en/buy-dentek-triple-clean-floss-picks-75-s.html ",
+"price":" 22.00 "
+},
+{
+"name":" Sensodyne Rapid Relief Whitening Toothpaste 75ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-sensodyne-rapid-relief-whitening-toothpaste-75ml.html ",
+"price":"34.00  "
+},
+{
+"name":" Oral-B iO Series 7, iO7 Electric Toothbrush White Alabaster ",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-io-series-7-io7-electric-toothbrush-white-alabaster.html",
+"price":" 899.00 "
+},
+{
+"name":" Interprox Conical Blisters 6's ",
+"imgUrl":" https://www.binsina.ae/en/buy-interprox-conical-blisters-6-s.html",
+"price":"  32.00"
+},
+{
+"name":" Ecodenta Triple Effect Toothpaste 100ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-ecodenta-triple-effect-toothpaste-100ml.html ",
+"price":" 35.00 "
+},
+{
+"name":" Vitis Sensitive Tooth Brush ",
+"imgUrl":" https://www.binsina.ae/en/buy-vitis-sensitive-tooth-brush.html",
+"price":"  26.00"
+},
+{
+"name":"  meridol Gum Health Protection Medium Toothbrush",
+"imgUrl":" https://www.binsina.ae/en/buy-meridol-gum-health-protection-medium-toothbrush.html",
+"price":"34.00  "
+},
+{
+"name":" Sensodyne Advanced Repair & Protect Extra Fresh Toothpaste 75ml ",
+"imgUrl":"https://www.binsina.ae/en/sensodyne-advanced-repair-protect-extra-fresh-toothpaste-75ml.html ",
+"price":" 37.00 "
+},
+{
+"name":" Curaprox Curakid Supersoft Children's Tootbrush ",
+"imgUrl":" https://www.binsina.ae/en/buy-curaprox-curakid-supersoft-children-s-tootbrush.html",
+"price":" 31.50 "
+},
+{
+"name":" Oral-B Vitality D Sensi Ultra Thin Electric Rechargeable Toothbrush ",
+"imgUrl":"https://www.binsina.ae/en/buy-oral-b-vitality-d-sensi-ultra-thin-electric-rechargeable-toothbrush.html ",
+"price":"149.00  "
+},
+{
+"name":" Sensodyne Toothpaste 75ml Sensitivity & Gum ",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-toothpaste-75ml-sensitivity-gum.html",
+"price":" 35.00 "
+},
+{
+"name":"Gum Orthodontic Toothbrush Red  ",
+"imgUrl":" https://www.binsina.ae/en/buy-gum-orthodontic-toothbrush-red.html",
+"price":"  19.00"
+},
+{
+"name":"  Sensodyne Advanced Repair & Protect Extra Fresh Toothpaste 75ml",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-advanced-repair-protect-extra-fresh-toothpaste-75ml.html",
+"price":"  37.00"
+},
+{
+"name":" Sensodyne Original Toothpaste 75ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-original-toothpaste-75ml.html",
+"price":"26.00  "
+},
+{
+"name":" Jordan Step 0-2 years Toothbrush ",
+"imgUrl":" https://www.binsina.ae/en/buy-jordan-step-0-2-years-toothbrush.html",
+"price":" 15.00 "
+},
+{
+"name":" Curaprox CS Soft Toothbrush ",
+"imgUrl":"https://www.binsina.ae/en/buy-curaprox-cs-soft-toothbrush.html ",
+"price":"31.50  "
+},
+{
+"name":" BEXIDENT WHITENING Mouthwash 500ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-bexident-whitening-mouthwash-500ml.html ",
+"price":"  47.00"
+},
+{
+"name":" Dentaid Interprox Plus Nano Toothbrushes 6's ",
+"imgUrl":" https://www.binsina.ae/en/buy-dentaid-interprox-plus-nano-toothbrushes-6-s.html",
+"price":"  32.00"
+},
+{
+"name":" Parodontax Whitening Toothpaste 75ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-parodontax-whitening-toothpaste-75ml.html",
+"price":"32.00  "
+},
+{
+"name":"  Tebodont Gel 18ml",
+"imgUrl":" https://www.binsina.ae/en/buy-tebodont-gel-18ml.html",
+"price":" 27.00 "
+},
+{
+"name":"  Crest 3D Whitening Therapy Charcoal 75ml",
+"imgUrl":"https://www.binsina.ae/en/buy-crest-3d-whitening-therapy-charcoal-75ml.html ",
+"price":"  34.00"
+},
+{
+"name":"  Vitis Gingival Toothpaste 100ml",
+"imgUrl":" https://www.binsina.ae/en/buy-vitis-gingival-toothpaste-100ml.html",
+"price":"  37.00"
+},
+{
+"name":" Perio Aid Mouthwash 150ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-perio-aid-mouthwash-150ml.html ",
+"price":"32.00  "
+},
+{
+"name":" Colgate Total 12 Pro Gum Health Toothpaste 75ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-colgate-total-12-pro-gum-health-toothpaste-75ml.html",
+"price":" 33.00 "
+},
+{
+"name":" DenTek Triple Clean Floss Picks 75's ",
+"imgUrl":" https://www.binsina.ae/en/buy-dentek-triple-clean-floss-picks-75-s.html",
+"price":" 22.00 "
+},
+{
+"name":" Sensodyne Rapid Relief Whitening Toothpaste 75ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-rapid-relief-whitening-toothpaste-75ml.html",
+"price":" 34.00"
+},
+{
+"name":" Oral-B iO Series 7, iO7 Electric Toothbrush White Alabaster ",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-io-series-7-io7-electric-toothbrush-white-alabaster.html",
+"price":" 899.00 "
+},
+{
+"name":"  Interprox Conical Blisters 6's",
+"imgUrl":"https://www.binsina.ae/en/buy-interprox-conical-blisters-6-s.html ",
+"price":"  32.00"
+},
+{
+"name":" Ecodenta Triple Effect Toothpaste 100ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-ecodenta-triple-effect-toothpaste-100ml.html",
+"price":" 35.00 "
+},
+{
+"name":" Vitis Sensitive Tooth Brush ",
+"imgUrl":"https://www.binsina.ae/en/buy-vitis-sensitive-tooth-brush.html ",
+"price":"  26.00"
+},
+{
+"name":"  meridol Gum Health Protection Medium Toothbrush",
+"imgUrl":"https://www.binsina.ae/en/buy-meridol-gum-health-protection-medium-toothbrush.html ",
+"price":" 34.00 "
+},
+{
+"name":"Sensodyne Advanced Repair & Protect Extra Fresh Toothpaste 75ml  ",
+"imgUrl":" https://www.binsina.ae/en/sensodyne-advanced-repair-protect-extra-fresh-toothpaste-75ml.html",
+"price":"  37.00"
+},
+{
+"name":"Curaprox Curakid Supersoft Children's Tootbrush  ",
+"imgUrl":" https://www.binsina.ae/en/buy-curaprox-curakid-supersoft-children-s-tootbrush.html",
+"price":" 31.50 "
+},
+{
+"name":"  Oral-B Vitality D Sensi Ultra Thin Electric Rechargeable Toothbrush",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-vitality-d-sensi-ultra-thin-electric-rechargeable-toothbrush.html",
+"price":" 149.00 "
+},
+{
+"name":" Sensodyne Toothpaste 75ml Sensitivity & Gum ",
+"imgUrl":"https://www.binsina.ae/en/buy-sensodyne-toothpaste-75ml-sensitivity-gum.html ",
+"price":"  35.00"
+},
+{
+"name":" Gum Orthodontic Toothbrush Red ",
+"imgUrl":" "https://www.binsina.ae/en/buy-gum-orthodontic-toothbrush-red.html,
+"price":" 19.00 "
+},
+{
+"name":" Sensodyne Advanced Repair & Protect Extra Fresh Toothpaste 75ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-advanced-repair-protect-extra-fresh-toothpaste-75ml.html",
+"price":" 37.00 "
+},
+{
+"name":"Sensodyne Original Toothpaste 75ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-sensodyne-original-toothpaste-75ml.html ",
+"price":"26.00  "
+},
+{
+"name":" Jordan Step 0-2 years Toothbrush ",
+"imgUrl":"https://www.binsina.ae/en/buy-jordan-step-0-2-years-toothbrush.html ",
+"price":" 15.00 "
+},
+{
+"name":" Curaprox CS Soft Toothbrush ",
+"imgUrl":"https://www.binsina.ae/en/buy-curaprox-cs-soft-toothbrush.html ",
+"price":" 31.50 "
+},
+{
+"name":"BEXIDENT WHITENING Mouthwash 500ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-bexident-whitening-mouthwash-500ml.html",
+"price":" 47.00 "
+},
+{
+"name":"Dentaid Interprox Plus Nano Toothbrushes 6's  ",
+"imgUrl":" https://www.binsina.ae/en/buy-dentaid-interprox-plus-nano-toothbrushes-6-s.html",
+"price":" 32.00"
+},
+{
+"name":"  Parodontax Whitening Toothpaste 75ml",
+"imgUrl":" https://www.binsina.ae/en/buy-parodontax-whitening-toothpaste-75ml.html",
+"price":"  31.00"
+},
+{
+"name":"  Dr.Organic Pomegranate Toothpaste 100ml",
+"imgUrl":" https://www.binsina.ae/en/buy-dr-organic-pomegranate-toothpaste-100ml.html",
+"price":"  41.00"
+},
+{
+"name":"  Gum Easy Flossers 30's",
+"imgUrl":"https://www.binsina.ae/en/buy-gum-easy-flossers-30-s.html ",
+"price":"  19.00"
+},
+{
+"name":" BEXIDENT GUMS INTENSIVE CARE Spray 40ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-bexident-gums-intensive-care-spray-40ml.html ",
+"price":"47.00  "
+},
+{
+"name":" Curaprox Perio+ Mouthwash 0.12% 200ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-curaprox-perio-mouthwash-0-12-200ml.html ",
+"price":"  58.00"
+},
+{
+"name":"  Crest 3D White Luxe Perfection Intense Blast 75ml",
+"imgUrl":"https://www.binsina.ae/en/buy-crest-3d-white-luxe-perfection-intense-blast-75ml.html ",
+"price":"  39.00"
+},
+{
+"name":"  Sensodyne Cool Mint Mouthwash 500ml",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-cool-mint-mouthwash-500ml.html",
+"price":"36.00  "
+},
+{
+"name":" Vitis Baby Toothbrush 0+ Years ",
+"imgUrl":"https://www.binsina.ae/en/buy-vitis-baby-toothbrush-0-years.html ",
+"price":"  26.00"
+},
+{
+"name":"  BEXIDENT GUMS DAILY USE Toothpaste 75ml",
+"imgUrl":"https://www.binsina.ae/en/buy-bexident-gums-daily-use-toothpaste-75ml.html ",
+"price":"  29.00"
+},
+{
+"name":"  Gum Ortho Orthodontic Wax Mint",
+"imgUrl":" https://www.binsina.ae/en/buy-gum-ortho-orthodontic-wax-mint.html",
+"price":" 21.00 "
+},
+{
+"name":"  Gengigel Hyaluronic Acid Mouthrinse 150ml",
+"imgUrl":"https://www.binsina.ae/en/buy-gengigel-hyaluronic-acid-mouthrinse-150ml.html ",
+"price":" 61.75 "
+},
+{
+"name":" BEXIDENT ANTICARIES Toothpaste 2x25ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-bexident-anticaries-toothpaste-2x25ml.html ",
+"price":" 29.00 "
+},
+{
+"name":" Oral-B iO Ultimate Clean Black Toothbrush Heads 2's ",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-io-ultimate-clean-black-toothbrush-heads-2-s.html",
+"price":"  100.00"
+},
+{
+"name":"  Sensodyne True White Mint Toothpaste 75ml",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-true-white-mint-toothpaste-75ml.html",
+"price":"41.00  "
+},
+{
+"name":" meridol Gum Health Protection Soft Toothbrush ",
+"imgUrl":" https://www.binsina.ae/en/buy-meridol-gum-health-protection-soft-toothbrush.html",
+"price":"33.00  "
+},
+{
+"name":" Crest 3D White Whitening Therapy Sensitive Care Toothpaste 75ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-crest-3d-white-whitening-therapy-sensitive-care-toothpaste-75ml.html ",
+"price":"36.00  "
+},
+{
+"name":" Gum Tongue Cleaner Halicontrol Dual Action Red ",
+"imgUrl":"https://www.binsina.ae/en/buy-gum-tongue-cleaner-halicontrol-dual-action-red.html ",
+"price":" 15.00 "
+},
+{
+"name":" Listerine Mouthwash Cool Mint 500ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-listerine-mouthwash-cool-mint-500ml.html",
+"price":"34.00  "
+},
+{
+"name":"  Oral-B 3D Fresh Toothbrush",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-3d-fresh-toothbrush.html",
+"price":" 36.00 "
+},
+{
+"name":"Vitis Junior Toothbrush 6+ Years  ",
+"imgUrl":" https://www.binsina.ae/en/buy-vitis-junior-toothbrush-6-years.html",
+"price":" 26.00 "
+},
+{
+"name":"  Oral-B Disney Soft Toothbrush For Kids",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-disney-soft-toothbrush-for-kids.html",
+"price":" 16.00 "
+},
+{
+"name":" Perio Aid 0.12% Mouthwash 500ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-perio-aid-0-12-mouthwash-500ml.html",
+"price":"65.00  "
+},
+{
+"name":"  Sensodyne Toothbrush Sensitivity & Gum Medium",
+"imgUrl":"https://www.binsina.ae/en/buy-sensodyne-toothbrush-sensitivity-gum-medium.html ",
+"price":" 30.00 "
+},
+{
+"name":" Sensodyne Herbal Multi Care with Eucalyptus & Fennel Extracts 100g ",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-herbal-multi-care-with-eucalyptus-fennel-extracts-100g.html",
+"price":" 31.00 "
+},
+{
+"name":"Depurdent Cleansing and Polishing Toothpaste 75ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-depurdent-cleansing-and-polishing-toothpaste-75ml.html",
+"price":"  45.00"
+},
+{
+"name":" Oral-B Essential Dental Floss 50m ",
+"imgUrl":" https://www.binsina.ae/en/oral-b-essential-dental-floss-50m.html",
+"price":"18.00  "
+},
+{
+"name":" Sensodyne Pronamel Intensive Enamel Repair Extra Fresh Toothpaste 75ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-sensodyne-pronamel-intensive-enamel-repair-ext-fr-tp-75ml.html ",
+"price":" 37.00 "
+},
+{
+"name":"  Crest 3D White Deluxe Vitalizing Fresh Toothpaste 75ml",
+"imgUrl":" https://www.binsina.ae/en/buy-crest-3d-white-deluxe-vitalizing-fresh-toothpaste-75ml.html",
+"price":" 28.00 "
+},
+{
+"name":"  Waterpik WF-02E Battery Operated Water Flosser",
+"imgUrl":" https://www.binsina.ae/en/buy-waterpik-wf-02e-battery-operated-water-flosser.html",
+"price":" 328.00 "
+},
+{
+"name":" BEXIDENT SENSITIVE TEETH Mouthwash 250ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-bexident-sensitive-teeth-mouthwash-250ml.html ",
+"price":" 40.00 "
+},
+{
+"name":" Oral-B Pro-Expert CrossAction Soft Toothbrush ",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-pro-expert-crossaction-soft-toothbrush.html",
+"price":" 31.00 "
+},
+{
+"name":" Sensodyne Toothbrush Sensitivity & Gum Soft ",
+"imgUrl":"https://www.binsina.ae/en/buy-sensodyne-toothbrush-sensitivity-gum-soft.html ",
+"price":" 30.00 "
+},
+{
+"name":"  Sensodyne Complete Care Soft 1+1 Toothbrush",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-complete-care-soft-1-1-toothbrush.html",
+"price":"30.00  "
+},
+{
+"name":" Sensodyne True White Medium Toothbrush ",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-true-white-medium-toothbrush.html",
+"price":" 30.00 "
+},
+{
+"name":" Aquafresh Big Teeth Toothpaste 50ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-aquafresh-big-teeth-toothpaste-50ml.html ",
+"price":" 8.00 "
+},
+{
+"name":"  BEXIDENT GUMS INTENSIVE CARE Gingival Gel 50ml",
+"imgUrl":"https://www.binsina.ae/en/buy-bexident-gums-intensive-care-gingival-gel-50ml.html ",
+"price":" 37.00 "
+},
+{
+"name":" Oral-B Pulsar Deep Clean Medium Toothbrush ",
+"imgUrl":"https://www.binsina.ae/en/buy-oral-b-pulsar-deep-clean-medium-toothbrush.html ",
+"price":"50.00  "
+},
+{
+"name":" Oral-B Cross Action Toothbrush Head ",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-cross-action-toothbrush-head.html",
+"price":"80.00  "
+},
+{
+"name":" Sensodyne Advanced Repair and Protect Soft Toothbrush ",
+"imgUrl":"https://www.binsina.ae/en/buy-sensodyne-advanced-repair-and-protect-soft-toothbrush.html ",
+"price":"  30.00"
+},
+{
+"name":"  Corega Full Denture Cleanser Tablets 36's",
+"imgUrl":"https://www.binsina.ae/en/buy-corega-full-denture-cleanser-tablets-36-s.html ",
+"price":"27.00  "
+},
+{
+"name":" BEXIDENT GUMS DAILY USE Mouthwash 250ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-bexident-gums-daily-use-mouthwash-250ml.html ",
+"price":"  40.00"
+},
+{
+"name":" Corega Super Denture Fixative Cream 40g ",
+"imgUrl":" https://www.binsina.ae/en/buy-corega-super-denture-fixative-cream-40g.html",
+"price":" 27.00 "
+},
+{
+"name":"  Sensodyne Toothpaste 75ml Sensitivity & Gum Whitening",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-toothpaste-75ml-sensitivity-gum-whitening.html",
+"price":" 35.00 "
+},
+{
+"name":"Philips Sonicare Diamond Clean Replacement Brush Head White 2's  ",
+"imgUrl":"https://www.binsina.ae/en/buy-philips-sonicare-diamond-clean-replacement-brush-head-white-2-s.html ",
+"price":" 93.00 "
+},
+{
+"name":"  Gum Butlerweave Dental Floss Waxed 55m",
+"imgUrl":"https://www.binsina.ae/en/buy-gum-butlerweave-dental-floss-waxed-55m.html ",
+"price":"  18.00"
+},
+{
+"name":"  Ecodenta Extra Black Whitening Toothpaste with Black Charcoal & Teavigo 100ml",
+"imgUrl":"https://www.binsina.ae/en/buy-ecodenta-extra-black-whitening-toothpaste-with-black-charcoal-teavigo-100ml.html ",
+"price":"  35.00"
+},
+{
+"name":"Oral-B Complete Extra Fresh Toothpaste 100ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-oral-b-complete-extra-fresh-toothpaste-100ml.html",
+"price":" 14.00 "
+},
+{
+"name":"  Sensodyne Multi Care Soft Toothbrush",
+"imgUrl":"https://www.binsina.ae/en/buy-sensodyne-multi-care-soft-toothbrush.html ",
+"price":"  24.00"
+},
+{
+"name":" Paradontax Complete Protection Whitening Toothpaste 75ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-paradontax-complete-protection-whitening-toothpaste-75ml.html",
+"price":"31.00  "
+},
+{
+"name":"Colgate Sensitive Pro Relief Whitening Toothpaste 75ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-colgate-sensitive-pro-relief-whitening-toothpaste-75ml.html ",
+"price":" 40.00 "
+},
+{
+"name":" Gum Trav-ler Interdental Brush 0.8mm ",
+"imgUrl":" https://www.binsina.ae/en/buy-gum-trav-ler-interdental-brush-0-8mm.html",
+"price":"  24.00"
+},
+{
+"name":"  Gum Expanding Floss",
+"imgUrl":"https://www.binsina.ae/en/buy-gum-expanding-floss.html ",
+"price":" 24.00 "
+},
+{
+"name":"  Parodontax Mouthwash Daily Gum Care Fresh Mint 500ml",
+"imgUrl":" https://www.binsina.ae/en/buy-parodontax-mouthwash-daily-gum-care-fresh-mint-500ml.html",
+"price":" 37.00 "
+},
+{
+"name":" Oral-B Ortho Orthodontic Soft Toothbrush ",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-ortho-orthodontic-soft-toothbrush.html",
+"price":"26.00  "
+},
+{
+"name":" Oral-B Pro-Expert Professional Protection Fresh Mint Mouthwash 250ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-oral-b-pro-expert-professional-protection-fresh-mint-mouthwash-250ml.html ",
+"price":"  21.00"
+},
+{
+"name":" Colgate Natural Extracts Deep Clean with Activated Charcoal Toothpaste 75ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-colgate-natural-extracts-deep-clean-with-activated-charcoal-toothpaste-75ml.html",
+"price":" 33.00
+},
+{
+"name":" Colgate Optic White Whitening Mouthwash 500ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-colgate-optic-white-whitening-mouthwash-500ml.html",
+"price":" 38.00 "
+},
+{
+"name":" Oral-B Pro-Expert Bacteria Blast Toothbrush 2's ",
+"imgUrl":"https://www.binsina.ae/en/buy-oral-b-pro-expert-bacteria-blast-toothbrush-2-s.html ",
+"price":"  27.00"
+},
+{
+"name":"  Gengigel Gingival Spray 20ml",
+"imgUrl":"https://www.binsina.ae/en/buy-gengigel-gingival-spray-20ml.html ",
+"price":" 61.75 "
+},
+{
+"name":" Oral-B Aquacare Water Flosser 4 Cordless Irrigator ",
+"imgUrl":"https://www.binsina.ae/en/buy-oral-b-aquacare-water-flosser-4-cordless-irrigator.html ",
+"price":" 399.00 "
+},
+{
+"name":" Listerine Fresh Burst Mouthwash 500ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-listerine-fresh-burst-mouthwash-500ml.html ",
+"price":" 32.90 "
+},
+{
+"name":" Sensodyne Pronamel For Children Toothpaste 50ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-pronamel-for-children-toothpaste-50ml.html",
+"price":" 18.00 "
+},
+{
+"name":" BEXIDENT SENSITIVE TEETH Toothpaste 2x25ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-bexident-sensitive-teeth-toothpaste-2x25ml.html",
+"price":" 37.00 "
+},
+{
+"name":" Parodontax Complete Protection Extra Fresh For Bleeding Gums 75ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-parodontax-complete-protection-extra-fresh-for-bleeding-gums-75ml.html",
+"price":" 31.00 "
+},
+{
+"name":" Corega Ultra Denture Fixature Cream 40g ",
+"imgUrl":" https://www.binsina.ae/en/buy-corega-ultra-denture-fixature-cream-40g.html",
+"price":"27.00  "
+},
+{
+"name":" R.O.C.S. Toothpaste Kids Fruity Cone (3-7) 35ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-r-o-c-s-toothpaste-kids-fruity-cone-3-7-35ml.html",
+"price":"34.00  "
+},
+{
+"name":"  Oral-B Kids Star Wars Electric Toothbrush",
+"imgUrl":"https://www.binsina.ae/en/buy-oral-b-kids-star-wars-electric-toothbrush.html ",
+"price":" 130.00 "
+},
+{
+"name":" Sensodyne Multi Care+Whitening Toothpaste 75ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-sensodyne-multi-care-whitening-toothpaste-75ml.html ",
+"price":"31.00  "
+},
+{
+"name":" BEXIDENT GUMS INTENSIVE CARE Mouthwash 500ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-bexident-gums-intensive-care-mouthwash-500ml.html",
+"price":" 47.00 "
+}, 
+{
+"name":" Gum Soft Picks Advanced 30's ",
+"imgUrl":"https://www.binsina.ae/en/buy-gum-soft-picks-advanced-30-s.html ",
+"price":"35.00  "
+},
+{
+"name":" meridol Gum Health Protection Mouthwash 400ml ",
+"imgUrl":"https://www.binsina.ae/en/meridol-gum-health-protection-mouthwash-400ml.html ",
+"price":"  40.00"
+},
+{
+"name":" Sensodyne Advanced Complete Protection Toothbrush Medium ",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-advanced-complete-protection-toothbrush-medium.html",
+"price":"30.00  "
+},
+{
+"name":" Oral-B Pro-Expert All Around Protection Fresh Mint Toothpaste 75ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-pro-expert-professional-protection-toothpaste-75ml.html",
+"price":" 29.00 "
+},
+{
+"name":"  Aquafresh Big Teeth Soft Bristles Toothbrush",
+"imgUrl":" https://www.binsina.ae/en/buy-aquafresh-big-teeth-soft-bristles-toothbrush.html",
+"price":"12.00  "
+},
+{
+"name":" Waterpik WaterFlosser Ultra Cordless Plus ",
+"imgUrl":"https://www.binsina.ae/en/buy-waterpik-waterflosser-ultra-cordless-plus.html ",
+"price":"  439.00"
+},
+{
+"name":"Curaprox Interdental Brushes Prime Refill Red  ",
+"imgUrl":"https://www.binsina.ae/en/buy-curaprox-interdental-brushes-prime-refill-red.html ",
+"price":" 37.00 "
+},
+{
+"name":" Dr.Organic Aloe Vera Toothpaste 100ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-dr-organic-aloe-vera-toothpaste-100ml.html",
+"price":" 41.00 "
+},
+{
+"name":" Oral-B Complete Mouthwash Whitening Toothpaste 100ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-complete-mouthwash-whitening-toothpaste-100ml.html",
+"price":" 14.00 "
+},
+{
+"name":"  The Doctor's Advanced Comfort Night Guard",
+"imgUrl":"https://www.binsina.ae/en/buy-the-doctor-s-advanced-comfort-night-guard.html ",
+"price":" 126.00 "
+},
+{
+"name":"  BEXIDENT ANTICARIES Mouthwash 500ml",
+"imgUrl":" https://www.binsina.ae/en/buy-bexident-anticaries-mouthwash-500ml.html",
+"price":"  47.00"
+},
+{
+"name":" Parodontax Extra Mouthwash 300ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-parodontax-extra-mouthwash-300ml.html",
+"price":" 29.00 "
+},
+{
+"name":" Oral B Baby Winnie The Pooh Toothpaste 75ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-baby-winnie-the-pooh-toothpaste-75ml.html",
+"price":"  17.00"
+},
+{
+"name":"  Philips Sonicare C1 ProResults Toothbrush Heads 2's",
+"imgUrl":"https://www.binsina.ae/en/buy-philips-sonicare-c1-proresults-toothbrush-heads-2-s.html ",
+"price":"  93.00"
+},
+{
+"name":"Colgate Optic White Expert White Whitening Toothpaste 75ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-colgate-optic-white-expert-white-whitening-toothpaste-75ml.html",
+"price":"45.00  "
+},
+{
+"name":" Crest 3D White Whitening Therapy Enamel Care Toothpaste 75ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-crest-3d-white-whitening-therapy-enamel-care-toothpaste-75ml.html ",
+"price":"  36.00"
+},
+{
+"name":"  Curaprox Perio+ Mouthwash 0.05% 200ml",
+"imgUrl":"https://www.binsina.ae/en/buy-curaprox-perio-mouthwash-0-05-200ml.html ",
+"price":"58.00  "
+},
+{
+"name":"  Oral-B iO Series 9, iO9 Electric Toothbrush Black Onyx",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-io-series-9-io9-electric-toothbrush-black-onyx.html",
+"price":"1499.00  "
+},
+{
+"name":"  Gum Soft Picks 40's",
+"imgUrl":"https://www.binsina.ae/en/buy-gum-soft-picks-40-s.html ",
+"price":"  30.00"
+},
+{
+"name":"Oral-B Pro Expert Whitening Toothpaste 75ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-pro-expert-whitening-toothpaste-75ml.html",
+"price":"  29.00"
+},
+{
+"name":" Philips Sonicare Protective Clean ",
+"imgUrl":" https://www.binsina.ae/en/buy-philips-sonicare-protective-clean.html",
+"price":"  299.00"
+},
+{
+"name":" Vitis Ultrasoft Toothbrush ",
+"imgUrl":" https://www.binsina.ae/en/buy-vitis-ultrasoft-toothbrush.html",
+"price":"26.00  "
+},
+{
+"name":"Colgate Pro Gum Health Mouthwash 250ml  ",
+"imgUrl":" https://www.binsina.ae/en/colgate-pro-gum-health-mouthwash-250ml.html",
+"price":" 29.00 "
+},
+{
+"name":" Vitis Ortho Toothbrush ",
+"imgUrl":" https://www.binsina.ae/en/buy-vitis-ortho-toothbrush.html",
+"price":" 32.00 "
+},
+{
+"name":"  Dentaid Interprox Interproximal Nano Brushes 6's",
+"imgUrl":"https://www.binsina.ae/en/buy-dentaid-interprox-interproximal-nano-brushes-6-s.html ",
+"price":"  32.00"
+},
+{
+"name":"  Oral-B Complete Lasting Freshness Cool Mint Mouthwash 500ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-oral-b-complete-lasting-freshness-cool-mint-mouthwash-500ml.html ",
+"price":"  29.00"
+},
+{
+"name":"Philips Sonicare W3 Premium White Brush Head  ",
+"imgUrl":" https://www.binsina.ae/en/buy-philips-sonicare-w3-premium-white-brush-head.html",
+"price":"  146.00"
+},
+{
+"name":" Sensodyne True White Soft Toothbrush ",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-true-white-soft-toothbrush.html",
+"price":" 30.00 "
+},
+{
+"name":" BEXIDENT WHITENING Toothpaste 125ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-bexident-whitening-toothpaste-125ml.html",
+"price":"  47.00"
+},
+{
+"name":"  Vitis Gingival Mouthwash 500ml",
+"imgUrl":"https://www.binsina.ae/en/buy-vitis-gingival-mouthwash-500ml.html ",
+"price":" 63.00 "
+},
+{
+"name":"Listerine Mouthwash Total Care Zero Alcohol Smooth Mint 500ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-listerine-mouthwash-total-care-zero-alcohol-smooth-mint-500ml.html ",
+"price":"37.10  "
+},
+{
+"name":" Oral-B 3D White Fresh Toothbrush ",
+"imgUrl":"https://www.binsina.ae/en/oral-b-3d-white-fresh-toothbrush.html ",
+"price":"  27.00"
+},
+{
+"name":" Waterpik Cordless Plus Water Flosser Black WP-462ME ",
+"imgUrl":" https://www.binsina.ae/en/buy-waterpik-cordless-plus-water-flosser-black-wp-462me.html",
+"price":" 461.00 "
+},
+{
+"name":"  BEXIDENT SENSITIVE TEETH Gingival Gel 50ml",
+"imgUrl":" https://www.binsina.ae/en/buy-bexident-sensitive-teeth-gingival-gel-50ml.html",
+"price":"  34.00"
+},
+{
+"name":"  Curaprox Perio+ Mouthwash 0.09% 200ml",
+"imgUrl":"https://www.binsina.ae/en/buy-curaprox-perio-mouthwash-0-09-200ml.html ",
+"price":"  58.00"
+},
+{
+"name":"  Gum Kids Fluoride Toothpaste 2-6 50ml",
+"imgUrl":" https://www.binsina.ae/en/buy-gum-kids-fluoride-toothpaste-2-6-50ml.html",
+"price":"24.00  "
+},
+{
+"name":" Sensodyne Repair & Protect Extra Soft Toothbrush ",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-repair-protect-extra-soft-toothbrush.html",
+"price":" 30.00 "
+},
+{
+"name":" Sensodyne Advanced Repair & Protect Toothpaste 75ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-sensodyne-advanced-repair-protect-toothpaste-75ml.html ",
+"price":"  37.00"
+},
+{
+"name":" Gengigel Gingival Gel 20ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-gengigel-gingival-gel-20ml.html ",
+"price":"61.75  "
+},
+{
+"name":" BEXIDENT GUMS INTENSIVE CARE Gel Toothpaste 75ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-bexident-gums-intensive-care-gel-toothpaste-75ml.html ",
+"price":"  29.00"
+},
+{
+"name":"  Aquafresh Little Teeth Toothpaste 50ml",
+"imgUrl":" https://www.binsina.ae/en/buy-aquafresh-little-teeth-toothpaste-50ml.html",
+"price":"8.00  "
+},
+{
+"name":" Gum Trav-ler Interdental Brush 1.2mm ",
+"imgUrl":" https://www.binsina.ae/en/buy-gum-trav-ler-interdental-brush-1-2mm.html",
+"price":"  22.00"
+},
+{
+"name":"  meridol Gum Health Protection Gentle White Teething Whitening Toothpaste 75ml",
+"imgUrl":"https://www.binsina.ae/en/buy-meridol-gum-health-protection-gentle-white-teething-whitening-toothpaste-75ml.html ",
+"price":"33.00  "
+},
+{
+"name":" Sensodyne Multi Care Medium 1+1 Toothbrush ",
+"imgUrl":"https://www.binsina.ae/en/buy-sensodyne-multi-care-medium-1-1-toothbrush.html ",
+"price":"  25.00"
+},
+{
+"name":"Pyralvex Paint 10ml  ",
+"imgUrl":"https://www.binsina.ae/en/pyralvex-paint-10ml.html ",
+"price":"  12.50"
+},
+{
+"name":"Oral-B Satin Floss Mint 25m   ",
+"imgUrl":"https://www.binsina.ae/en/oral-b-satin-floss-mint-25m.html ",
+"price":" 21.00 "
+},
+{
+"name":" BEXIDENT FRESH BREATH Mouthwash 500ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-bexident-fresh-breath-mouthwash-500ml.html",
+"price":" 47.00 "
+},
+{
+"name":" Sensodyne Extra Soft Ultra Sensitive Toothbrush ",
+"imgUrl":"https://www.binsina.ae/en/buy-sensodyne-extra-soft-ultra-sensitive-toothbrush.html ",
+"price":" 19.00 "
+},
+{
+"name":" Philips Sonicare Diamond Clean Pink Electric Toothbrush ",
+"imgUrl":" https://www.binsina.ae/en/buy-philips-sonicare-diamond-clean-pink-electric-toothbrush.html",
+"price":" 849.00 "
+},
+{
+"name":"Parodontax Complete Protection Toothbrush Soft  ",
+"imgUrl":" https://www.binsina.ae/en/buy-parodontax-complete-protection-toothbrush-soft.html",
+"price":" 26.00 "
+},
+{
+"name":"Oral-B Pro-Expert Stage-2 (2-4 Years) Toothbrush  ",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-pro-expert-stage-2-2-4-years-toothbrush.html",
+"price":" 22.00 "
+},
+{
+"name":"  Curaprox Supersoft Toothbrush",
+"imgUrl":"https://www.binsina.ae/en/buy-curaprox-supersoft-toothbrush.html",
+"price":"  31.50"
+},
+{
+"name":"  Sensodyne Gum Care Soft Toothbrush",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-gum-care-soft-toothbrush.html",
+"price":" 19.00 "
+},
+{
+"name":" Ecodenta Whitening Toothpaste with Mint Oil, Sage Extract and Kalident 100ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-ecodenta-whitening-toothpaste-with-mint-oil-sage-extract-and-kalident-100ml.html",
+"price":"35.00  "
+},
+{
+"name":" Oral-B Sensi Ultra Thin Toothbrush Head 2's ",
+"imgUrl":"https://www.binsina.ae/en/oral-b-sensi-ultra-thin-toothbrush-head-2-s.html ",
+"price":"79.00  "
+},
+{
+"name":"Crest 3D White Brilliance Perfection Toothpaste 75ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-crest-3d-white-brilliance-perfection-toothpaste-75ml.html",
+"price":" 42.00 "
+},
+{
+"name":"Parodontax Original Tooth Paste 75ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-parodontax-original-tooth-paste-75ml.html ",
+"price":"26.00  "
+},
+{
+"name":"Colgate Kids Toothpaste Natural Mint Flavour Toddler Toothpaste 3-5 years 0% Artificial Preservatives Fluoride-free 60ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-colgate-kids-toothpaste-natural-mint-flavour-toddler-toothpaste-3-5-years-0-artificial-preservatives-fluoride-free-60ml.html ",
+"price":"24.00  "
+},
+{
+"name":" Curaprox Perio+ Focus 0.50% 10ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-curaprox-perio-focus-0-50-10ml.html",
+"price":" 31.50 "
+},
+{
+"name":"Sensodyne Pronamel Gentle Whitening Toothpaste 75ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-pronamel-gentle-whitening-toothpaste-75ml.html",
+"price":" 31.00 "
+},
+{
+"name":"Curaprox Smart Ultra Soft Toothbrush  ",
+"imgUrl":" https://www.binsina.ae/en/buy-curaprox-smart-ultra-soft-toothbrush.html",
+"price":" 31.50 "
+},
+{
+"name":"Listerine Mouthwash Teeth & Gum Defence Milder Taste Soft Mint 250ml  ",
+"imgUrl":" https://www.binsina.ae/en/listerine-mouthwash-teeth-gum-defence-milder-taste-soft-mint-250ml.html",
+"price":" 28.70 "
+},
+{
+"name":"  Sensodyne Pronamel Intensive Enamel Repair Whitening Cool Mint Toothpaste 75ml",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-pronamel-intensive-enamel-repair-whitening-cool-mint-toothpaste-75ml.html",
+"price":"37.00  "
+},
+{
+"name":"Curaprox Be You Rising Star Grapefruit & Bergamot 60ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-curaprox-be-you-rising-star-grapefruit-bergamot-60ml.html ",
+"price":"47.50  "
+},
+{
+"name":"  Gum Ortho Orthodontic Wax",
+"imgUrl":" https://www.binsina.ae/en/buy-gum-ortho-orthodontic-wax.html",
+"price":"  21.00"
+},
+{
+"name":"Oral-B Smart 6 series Electric Toothbrush with Bluetooth Connectivity  ",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-smart-6-series-electric-toothbrush-with-bluetooth-connectivity.html",
+"price":"529.00  "
+},
+{
+"name":" Vitis Kids Toothbrush 3+ Years ",
+"imgUrl":"https://www.binsina.ae/en/buy-vitis-kids-toothbrush-3-years.html ",
+"price":" 26.00 "
+},
+{
+"name":" Oral-B Satin Floss Mint Tape 25m ",
+"imgUrl":"https://www.binsina.ae/en/buy-oral-b-satin-floss-mint-tape-25m.html ",
+"price":"21.00  "
+},
+{
+"name":" BEXIDENT SENSITIVE TEETH Mouthwash 500ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-bexident-sensitive-teeth-mouthwash-500ml.html",
+"price":"  47.00"
+},
+{
+"name":"Gengigel Gingival Gel Teething 20ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-gengigel-gingival-gel-teething-20ml.html",
+"price":" 55.00 "
+},
+{
+"name":" Gum Butlerweave Easy Flossers Fresh Mint Waxed Flossers 30's ",
+"imgUrl":" https://www.binsina.ae/en/buy-gum-butlerweave-easy-flossers-fresh-mint-waxed-flossers-30-s.html",
+"price":"  15.00"
+},
+{
+"name":"Dr.Organic Tea Tree Toothpaste 100ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-dr-organic-tea-tree-toothpaste-100ml.html",
+"price":"  41.00"
+},
+{
+"name":"  Aquafresh Milk Teeth Soft Bristles Toothpaste 50ml",
+"imgUrl":" https://www.binsina.ae/en/buy-aquafresh-milk-teeth-soft-bristles-toothpaste-50ml.html",
+"price":" 8.00 "
+},
+{
+"name":"Curaprox Black Is White Set  ",
+"imgUrl":"https://www.binsina.ae/en/buy-curaprox-black-is-white-set.html ",
+"price":" 126.00 "
+},
+{
+"name":" BEXIDENT GUMS INTENSIVE CARE Mouthwash 250ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-bexident-gums-intensive-care-mouthwash-250ml.html",
+"price":"  40.00"
+},
+{
+"name":" Oral-B Essential Dental Floss Waxed 50m ",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-essential-dental-floss-waxed-50m.html",
+"price":" 16.00 "
+},
+{
+"name":"Sensodyne Deep Clean Gel Toothpaste 75ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-deep-clean-gel-toothpaste-75ml.html",
+"price":"  31.00"
+},
+{
+"name":" Perio Aid Maintenance Mouthwash 500ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-perio-aid-maintenance-mouthwash-500ml.html ",
+"price":"  63.00"
+},
+{
+"name":" Perio Aid Toothpaste Gel 75ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-perio-aid-toothpaste-gel-75ml.html",
+"price":" 37.00 "
+},
+{
+"name":" Sensodyne Rapid Action Toothpaste 75ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-sensodyne-rapid-action-toothpaste-75ml.html ",
+"price":" 35.00 "
+},
+{
+"name":"  Dr.Organic Extra Whitening Charcoal Toothpaste 100ml",
+"imgUrl":"https://www.binsina.ae/en/buy-dr-organic-extra-whitening-charcoal-toothpaste-100ml.html ",
+"price":" 47.00 "
+},
+{
+"name":"BEXIDENT GUMS DAILY USE Toothpaste 125ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-bexident-gums-daily-use-toothpaste-125ml.html ",
+"price":" 42.00 "
+},
+{
+"name":" Interpox Plus Mix Blister 6's ",
+"imgUrl":"https://www.binsina.ae/en/interpox-plus-mix-blister-6-s.html ",
+"price":"  32.00"
+},
+{
+"name":" Philips Sonicare Protective Clean UV Sanitizer ",
+"imgUrl":" https://www.binsina.ae/en/buy-philips-sonicare-protective-clean-uv-sanitizer.html",
+"price":" 722.00 "
+},
+{
+"name":"Philips Sonicare 9500 Diamond Clean Smart White Toothbrush  ",
+"imgUrl":"https://www.binsina.ae/en/buy-philips-sonicare-9500-diamond-clean-smart-white-toothbrush.html ",
+"price":"  899.00"
+},
+{
+"name":" Elgydium Whtiening Toothpaste 75ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-elgydium-whtiening-toothpaste-75ml.html",
+"price":" 26.00 "
+},
+{
+"name":" Vitis Gingival Toothbrush ",
+"imgUrl":"https://www.binsina.ae/en/vitis-gingival-toothbrush.html ",
+"price":"  32.00"
+},
+{
+"name":" Oral-B Sensitivity & Gum Original Toothpaste 75ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-oral-b-sensitivity-gum-original-toothpaste-75ml.html",
+"price":"33.00  "
+},
+{
+"name":"Oral-B Kids Frozen & Cars Toothpaste 75ml  ",
+"imgUrl":" https://www.binsina.ae/en/oral-b-kids-frozen-cars-toothpaste-75ml.html",
+"price":" 19.00 "
+},
+{
+"name":"  Philips Sonicare 9900 Prestige Power Toothbrush with SenseIQ Blue HX9992/22",
+"imgUrl":" https://www.binsina.ae/en/buy-philips-sonicare-9900-prestige-power-toothbrush-with-senseiq-blue-hx9992-22.html",
+"price":"  1,349.00"
+},
+{
+"name":" Marvis Whitening Mint Tooth Paste 75ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-marvis-whitening-mint-tooth-paste-75ml.html",
+"price":"  57.00"
+},
+{
+"name":" Marvis Classic Strong Mint Tooth Paste 75ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-marvis-classic-strong-mint-tooth-paste-75ml.html",
+"price":" 47.00 "
+},
+{
+"name":"Marvis Classic Strong Mint Tooth Paste 25ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-marvis-classic-strong-mint-tooth-paste-25ml.html ",
+"price":" 31.00 "
+},
+{
+"name":"Sensodyne Nourish Healthy White Toothpaste Protects & Whitens Teeth 75ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-sensodyne-nourish-sensitivity-relief-cavity-prevention-healthy-white-toothpaste-75ml.html",
+"price":"  31.00"
+},
+{
+"name":"Batiste Dry Shampoo Tropical 200ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-batiste-dry-shampoo-tropical-200ml.html ",
+"price":" 36.00 "
+},
+{
+"name":"  Batiste Dry Shampoo Original 200ml",
+"imgUrl":"https://www.binsina.ae/en/buy-batiste-dry-shampoo-original-200ml.html ",
+"price":" 38.00 "
+},
+{
+"name":" Marvis Jasmin Mint Tooth Paste 75ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-marvis-jasmin-mint-tooth-paste-75ml.html ",
+"price":"47.00  "
+},
+{
+"name":"Marvis Cinnamon Mint Tooth Paste 75ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-marvis-cinnamon-mint-tooth-paste-75ml.html ",
+"price":" 47.00 "
+},
+{
+"name":"  Philips Sonicare 9900 Prestige Power Toothbrush with SenseIQ Champagne HX9992/22",
+"imgUrl":"https://www.binsina.ae/en/buy-philips-sonicare-9900-prestige-power-toothbrush-with-senseiq-champagne-hx9992-22.html ",
+"price":"  1,349.00"
+},
+{
+"name":" LISTERINE Mouthwash Cool Mint Milder Taste 250ml ",
+"imgUrl":"https://www.binsina.ae/en/listerine-mouthwash-cool-mint-milder-taste-250ml.html ",
+"price":" 21.70 "
+},
+{
+"name":"  meridol® Parodont Expert toothpaste 75ml",
+"imgUrl":" https://www.binsina.ae/en/meridolr-parodont-expert-toothpaste-75ml.html",
+"price":"  39.00"
+},
+{
+"name":" Marvis Strong Mint Mouthwash 120ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-marvis-strong-mint-mouthwash-120ml.html ",
+"price":" 70.00 "
+},
+{
+"name":"Marvis Whitening Mint Tooth Paste 25ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-marvis-whitening-mint-tooth-paste-25ml.html",
+"price":" 36.00 "
+},
+{
+"name":" Marvis Smokers Whitening Mint Tooth Paste 85ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-marvis-smokers-whitening-mint-tooth-paste-85ml.html",
+"price":"57.00  "
+},
+{
+"name":"Vichy Dercos Detox Dry Shampoo 150ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-dercos-detox-dry-shampoo-150ml.html",
+"price":"76.50  "
+},
+{
+"name":" Marvis Ginger Mint Tooth Paste 75ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-marvis-ginger-mint-tooth-paste-75ml.html ",
+"price":"47.00  "
+},
+{
+"name":" Marvis Aquatic Mint Tooth Paste 75ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-marvis-aquatic-mint-tooth-paste-75ml.html",
+"price":"47.00  "
+},
+{
+"name":"Marvis Aquatic Mint Tooth Paste 25ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-marvis-aquatic-mint-tooth-paste-25ml.html ",
+"price":"  31.00"
+},
+{
+"name":" Marvis Amarelli Licorice Tooth Paste 75ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-marvis-amarelli-licorice-tooth-paste-75ml.html",
+"price":"  47.00"
+},
+{
+"name":"meridol® Parodont Expert Extra Soft Toothbrush 2's  ",
+"imgUrl":"https://www.binsina.ae/en/buy-meridolr-parodont-expert-extra-soft-toothbrush-2-s.html ",
+"price":" 62.00 "
+},
+{
+"name":"Batiste Dry Shampoo Divine Dark 200ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-batiste-dry-shampoo-divine-dark-200ml.html",
+"price":" 39.00 "
+},
+{
+"name":" Betadine Mouthwash/Gargle 250ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-betadine-mouthwash-gargle-250ml.html",
+"price":" 75.50 "
+},

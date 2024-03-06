@@ -1,0 +1,55 @@
+Healthy Foods : Teas
+{
+"name":" Traditional Medicinals Nighty Night Teabags 16's ",
+"imgUrl:" https://www.binsina.ae/en/buy-traditional-medicinals-nighty-night-teabags-16-s.html",
+"price":" 25.20"
+
+},
+{
+"name":" Traditional Medicinals Weightless Cranberry Teabags 16's ",
+"imgUrl:" https://www.binsina.ae/en/buy-traditional-medicinals-weightless-cranberry-teabags-16-s.html",
+"price":" 39.00"
+
+},
+{
+"name":" Now Foods Senna Tea, Organic Tea Bags 24's",
+"imgUrl:" https://www.binsina.ae/en/buy-now-foods-senna-tea-organic-tea-bags-24.html",
+"price":"39.00 "
+
+},
+{
+"name":" Traditional Medicinals Mothers Milk Teabags 16's ",
+"imgUrl:" https://www.binsina.ae/en/buy-traditional-medicinals-mothers-milk-teabags-16-s.html",
+"price":" 39.00 "
+
+},
+{
+"name":" 21st Century Herbal Slimming Tea Honey Lemon Tea Bags 24's",
+"imgUrl:" https://www.binsina.ae/en/buy-21st-century-herbal-slimming-tea-honey-lemon-tea-bags-24-s.html",
+"price":" 39.00"
+
+},
+{
+"name":"Traditional Medicinals Smooth Move Chamomile 16 Teabags",
+"imgUrl:" https://www.binsina.ae/en/buy-traditional-medicinals-smooth-move-chamomile-16-teabags.html ",
+"price":" 39.00"
+
+},
+{
+"name":" Traditional Medicinals Roasted Dandelion Root 16 Teabags ",
+"imgUrl:" https://www.binsina.ae/en/buy-traditional-medicinals-roasted-dandelion-root-16-teabags.html",
+"price":" 39.90"
+
+},
+{
+"name":" Traditional Medicinals Smooth Move Peppermint Teabags 16's ",
+"imgUrl:" https://www.binsina.ae/en/buy-traditional-medicinals-smooth-move-peppermint-teabags-16-s.html",
+"price":" 39.90"
+
+},
+{
+"name":" Traditional Medicinals Everyday Detox Teabags 16's ",
+"imgUrl:" https://www.binsina.ae/en/traditional-medicinals-everyday-detox-teabags-16-s.html",
+"price":" 39.90"
+
+},

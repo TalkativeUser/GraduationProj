@@ -1,0 +1,1797 @@
+personal care:Hair care 
+{
+"name":" Olaplex No.8 Bond Intense Moisture Mask 100ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-olaplex-no-8-bond-intense-moisture-mask-100ml.html ",
+"price":"135.00  "
+},
+{
+"name":"  Revolution Hair Tones for Blondes Cherry Red 150ml",
+"imgUrl":" https://www.binsina.ae/en/buy-revolution-hair-tones-for-blondes-cherry-red-150ml.html",
+"price":"  59.00"
+},
+{
+"name":" Revolution Hair Tones for Blondes Rose All Day 150ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-revolution-hair-tones-for-blondes-rose-all-day-150ml.html ",
+"price":" 59.00 "
+},
+{
+"name":"  Revolution Hair Tones for Brunettes California Orange 150ml",
+"imgUrl":" https://www.binsina.ae/en/buy-revolution-hair-tones-for-brunettes-california-orange-150ml.html",
+"price":" 59.00 "
+},
+{
+"name":" Revolution Hair Tones for Blondes Deep Ocean 150ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-revolution-hair-tones-for-blondes-deep-ocean-150ml.html ",
+"price":"  59.00"
+},
+{
+"name":" Loreal Prodigy 6 Oak ",
+"imgUrl":"https://www.binsina.ae/en/buy-loreal-prodigy-6-oak.html ",
+"price":"  89.00"
+},
+{
+"name":" Loreal Prodigy 5 Alezan ",
+"imgUrl":" https://www.binsina.ae/en/buy-loreal-prodigy-5-alezan.html",
+"price":" 89.00 "
+},
+{
+"name":" Loreal Elvive Dream L. Serum Sleek Pb 100Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-loreal-elvive-dream-l-serum-sleek-pb-100ml.html ",
+"price":"  46.00"
+},
+{
+"name":"  Loreal Elvive Els Hyaluron Pushpull Fa 200Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-loreal-elvive-els-hyaluron-pushpull-fa-200ml.html",
+"price":"  44.00"
+},
+{
+"name":"  Loreal Elvive Huile Extraordinary Repair Oil Fp100Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-loreal-elvive-huile-extra-gbar-repair-oil-fp100ml.html",
+"price":"  75.00"
+},
+{
+"name":"  Creme Of Nature Argan Intensive Conditioning Treat 20 Oz",
+"imgUrl":" https://www.binsina.ae/en/buy-creme-of-nature-argan-intensive-conditioning-treat-20oz.html",
+"price":"  49.50"
+},
+{
+"name":"  Creme Of Nature Argan Oil Treatment 3Oz",
+"imgUrl":" https://www.binsina.ae/en/buy-creme-of-nature-argan-oil-treatment-3oz.html",
+"price":" 62.00 "
+},
+{
+"name":"  Hask Blonde Care Purple Conditioner 355Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-hask-blonde-care-purple-conditioner-355ml.html",
+"price":"  37.00"
+},
+{
+"name":" Lee Stafford Cl Bw&Go 11-1 Lotion 100Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-lee-stafford-cl-bw-go-11-1-lotion-100ml.html",
+"price":" 51.50"
+},
+{
+"name":" Lee Stafford M.Agn Oil Nrg Treatment 200Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-lee-stafford-m-agn-oil-nrg-treatment-200ml.html ",
+"price":"105.00  "
+},
+{
+"name":" Vichy Dercos Anti Dandruff Shampoo for Normal to Oily Hair 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-dercos-anti-dandruff-shampoo-for-normal-to-oily-hair-200ml.html",
+"price":"82.50  "
+},
+{
+"name":" Vichy Dercos Aminexil Clinical 5 Men 6ml Monodoses 21's ",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-dercos-aminexil-clinical-5-men-6ml-monodoses-21-s.html",
+"price":"  341.25"
+},
+{
+"name":"  Batiste Dry Shampoo Tropical 200ml",
+"imgUrl":"https://www.binsina.ae/en/buy-batiste-dry-shampoo-tropical-200ml.html ",
+"price":"  36.00"
+},
+{
+"name":"Vichy Dercos Nutri Protein Restorative Mask 250ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-dercos-nutri-protein-restorative-mask-250ml.html",
+"price":" 99.00 "
+},
+{
+"name":" Beauty Kitchen Everyday Gentle Organic Conditioner 300ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-beauty-kitchen-everyday-gentle-organic-conditioner-300ml.html",
+"price":"  99.00"
+},
+{
+"name":" Marc Anthony Sgl Shampoo 250Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-marc-anthony-sgl-shampoo-250ml.html",
+"price":"30.00  "
+},
+{
+"name":"Marc Anthony Coconut Oil&Sheabutter Conditioner 250Ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-marc-anthony-coconut-oil-sheabutter-conditioner-250ml.html",
+"price":"  30.00"
+},
+{
+"name":" Marc Anthony Argan Oil Of Morocco Conditioner 250Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-marc-anthony-argan-oil-of-morocco-conditioner-250ml.html",
+"price":"  30.00"
+},
+{
+"name":"  Vichy Dercos Antidandruf Normal Oily Hair Shampoo 400 Ml",
+"imgUrl":"https://www.binsina.ae/en/vichy.html ",
+"price":" 107.25 "
+},
+{
+"name":"  Difeel Premium Natural Hair Oil Jojoba 75Ml",
+"imgUrl":"https://www.binsina.ae/en/buy-difeel-premium-natural-hair-oil-jojoba-75ml.html ",
+"price":"  20.00"
+},
+{
+"name":"Difeel Essential Oils 100% Pure Argan 30 Ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-difeel-essential-oils-100-pure-argan-30-ml.html",
+"price":"52.00  "
+},
+{
+"name":" Difeel Essential Oils 100% Pure Eucalyptus 30 Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-difeel-essential-oils-100-pure-eucalyptus-30-ml.html",
+"price":" 52.00 "
+},
+{
+"name":"  Garnier Color Naturals 7.1 Ash Blonde",
+"imgUrl":"https://www.binsina.ae/en/buy-garnier-color-naturals-7-1-ash-blonde.html ",
+"price":"15.50  "
+},
+{
+"name":"Garnier Udoux Hair Food Macadamia Mask J 390Ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-garnier-udoux-hair-food-macadamia-mask-j-390ml.html",
+"price":"  23.00"
+},
+{
+"name":"  Garnier Udoux Hairf Coco Shampoo B 350Ml",
+"imgUrl":"https://www.binsina.ae/en/buy-garnier-udoux-hairf-coco-shampoo-b-350ml.html ",
+"price":" 25.00 "
+},
+{
+"name":" Garnier Udoux Hairf Sh Maca B Shampoo 350Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-garnier-udoux-hairf-sh-maca-b-shampoo-350ml.html ",
+"price":"  25.00"
+},
+{
+"name":"  Tresemme Keratin Smooth Shine Oil 50ml",
+"imgUrl":" https://www.binsina.ae/en/buy-tresemme-keratin-smooth-shine-oil-50ml.html",
+"price":"19.50  "
+},
+{
+"name":"  Batiste Dry Shampoo Original 200ml",
+"imgUrl":" https://www.binsina.ae/en/buy-batiste-dry-shampoo-original-200ml.html",
+"price":" 38.00 "
+},
+{
+"name":"Loreal Elvive Hyaluron Spray 150Ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-loreal-elvive-hyaluron-spray-150ml.html ",
+"price":" 73.00 "
+},
+{
+"name":" Garnier Udoux Hairf Coco Conditioner B 350Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-garnier-udoux-hairf-coco-conditioner-b-350ml.html",
+"price":" 25.00 "
+},
+{
+"name":"  Garnier Color Naturals 3 Dark Brown",
+"imgUrl":"https://www.binsina.ae/en/buy-garnier-color-naturals-3-dark-brown.html ",
+"price":"  15.50"
+},
+{
+"name":" Loreal Excellence Creme 7.1 Ash Blonde ",
+"imgUrl":"https://www.binsina.ae/en/buy-loreal-excellence-creme-7-1-ash-blonde.html ",
+"price":"  37.00"
+},
+{
+"name":" Loreal Elnett Satin Super Hold Hair Spray 75 Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-loreal-elnett-satin-super-hold-hair-spray-75-ml.html",
+"price":"  11.75"
+},{
+"name":"Loreal Elvive Dreamlong Strai Conditioner B 400Ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-loreal-elvive-dreamlong-strai-conditioner-b-400ml.html",
+"price":"  34.00"
+},
+{
+"name":" Priorin Shampoo, Revitalizing, Volumizing and Moisturizing for Oily Hair, 200 ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-priorin-shampoo-revitalizing-volumizing-and-moisturizing-for-normal-and-dry-hair-200-ml.html ",
+"price":"  96.00"
+},
+{
+"name":"  Apivita Bee Sun Safe Spf50 Hydra Hair Oil 100Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-apivita-bee-sun-safe-spf50-hydra-hair-oil-100ml.html",
+"price":"  121.00"
+},
+{
+"name":"  Olaplex No.7 Bonding Oil 30ml",
+"imgUrl":"https://www.binsina.ae/en/buy-olaplex-no-7-bonding-oil-30ml.html ",
+"price":"135.00  "
+},
+{
+"name":" Priorin Shampoo For Stronger Hair Normal/Dry 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-priorin-shampoo-for-stronger-hair-normal-dry-200ml.html",
+"price":"96.00  "
+},
+{
+"name":" Olaplex No. 9 Bond Protector Nourishing Hair Serum 90Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-olaplex-no-9-bond-protector-nourishing-hair-serum-90ml.html",
+"price":"  135.00"
+},
+{
+"name":"  Olaplex No.5 Bond Maintenance Conditioner 250ml",
+"imgUrl":"https://www.binsina.ae/en/buy-olaplex-no-5-bond-maintenance-conditioner-250ml.html ",
+"price":"  135.00"
+},
+{
+"name":" Revolution Hair Tones for Blondes Silver Haze 150ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-revolution-hair-tones-for-blondes-silver-haze-150ml.html",
+"price":" 59.00 "
+},
+{
+"name":"  Revolution Hair Tones for Brunettes Midnight Blue 150ml",
+"imgUrl":" https://www.binsina.ae/en/buy-revolution-hair-tones-for-brunettes-midnight-blue-150ml.html",
+"price":" 59.00 "
+},
+{
+"name":"  Revolution Hair Tones for Brunettes Green Envy 150ml",
+"imgUrl":" https://www.binsina.ae/en/buy-revolution-hair-tones-for-brunettes-green-envy-150ml.html",
+"price":" 59.00 "
+},
+{
+"name":" Palmer's Hair Food Formula Hair Cream 150g ",
+"imgUrl":" https://www.binsina.ae/en/buy-palmer-s-hair-food-formula-hair-cream-150g.html",
+"price":"  30.00"
+},
+{
+"name":"Garnier Olia Permanent Hair Color 1.0 Deep Black 1Kit  ",
+"imgUrl":"https://www.binsina.ae/en/buy-garnier-olia-permanent-hair-color-1-0-deep-black-1kit.html ",
+"price":" 19.00 "
+},
+{
+"name":" Ogx ",
+"imgUrl":" https://www.binsina.ae/en/buy-ogx-apple-cider-vinegar-conditioner-385ml.html",
+"price":" 40.50 "
+},
+{
+"name":" Creme Of Nature Argan 100% Pure Argan Oil 1Oz ",
+"imgUrl":"https://www.binsina.ae/en/buy-creme-of-nature-argan-100-pure-argan-oil-1oz.html ",
+"price":"95.00  "
+},
+{
+"name":"Loreal Magic Retouch 4 Beige  ",
+"imgUrl":"https://www.binsina.ae/en/buy-loreal-magic-retouch-4-beige.html ",
+"price":"49.00  "
+},
+{
+"name":" Loreal Magic Retouch 3 Chatain ",
+"imgUrl":"https://www.binsina.ae/en/buy-loreal-magic-retouch-3-chatain.html ",
+"price":" 49.00 "
+},
+{
+"name":"  Loreal Magic Retouch 1 Noir",
+"imgUrl":" https://www.binsina.ae/en/buy-loreal-magic-retouch-1-noir.html",
+"price":"49.00  "
+},
+{
+"name":"Loreal Prodigy 4 Sepia  ",
+"imgUrl":" https://www.binsina.ae/en/buy-loreal-prodigy-4-sepia.html",
+"price":" 89.00 "
+},
+{
+"name":" Loreal Prodigy 3 Kohl ",
+"imgUrl":" https://www.binsina.ae/en/buy-loreal-prodigy-3-kohl.html",
+"price":"89.00  "
+},
+{
+"name":"Loreal Elvive Dream Long Straight Shampoo 400 ML  ",
+"imgUrl":"https://www.binsina.ae/en/buy-loreal-elvive-dream-long-straight-shampoo-400-ml.html ",
+"price":" 30.00 "
+},
+{
+"name":"Lee Stafford M.Agn Oil Mrl Oil 50Ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-lee-stafford-m-agn-oil-mrl-oil-50ml.html",
+"price":"90.00  "
+},
+{
+"name":"Lee Stafford M.Agn Oil Nsg Conditioner 250Ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-lee-stafford-m-agn-oil-nsg-conditioner-250ml.html",
+"price":"  83.00"
+},
+{
+"name":"Lee Stafford Cl Agave Shne Conditioner 250Ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-lee-stafford-cl-agave-shne-conditioner-250ml.html",
+"price":"44.00  "
+},
+{
+"name":"Lee Stafford Cl Agave Cct Mask 200Ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-lee-stafford-cl-agave-cct-mask-200ml.html ",
+"price":" 52.00 "
+},
+{
+"name":"  Vichy Dercos Anti-Dandruff Shampoo for Sensitive Scalp 200ml",
+"imgUrl":"https://www.binsina.ae/en/buy-vichy-dercos-anti-dandruff-shampoo-for-sensitive-scalp-200ml.html ",
+"price":" 82.50 "
+},
+{
+"name":" Vichy Dercos Aminexil Clinical 5 Women Monodoses 6ml 21's ",
+"imgUrl":"https://www.binsina.ae/en/buy-vichy-dercos-aminexil-clinical-5-women-monodoses-6ml-21-s.html ",
+"price":"341.25 "
+},
+{
+"name":" Max-On Hair Rejuven Ampoules 10ml 15's ",
+"imgUrl":" https://www.binsina.ae/en/buy-max-on-hair-rejuven-ampoules-10ml-15-s.html",
+"price":"336.00  "
+},
+{
+"name":" Batiste Dry Shampoo Plus Beautiful Brunette 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-batiste-dry-shampoo-plus-beautiful-brunette-200ml.html",
+"price":" 39.00 "
+},
+{
+"name":"Tresemme Hair Keratin Smooth Mask 180ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-tresemme-hair-keratin-smooth-mask-180ml.html ",
+"price":" 23.00 "
+},
+{
+"name":"  Beauty Kitchen Daily Shine Shampoo Bar 50g",
+"imgUrl":" https://www.binsina.ae/en/buy-beauty-kitchen-daily-shine-shampoo-bar-50g.html",
+"price":"  99.00"
+},
+{
+"name":"  Beauty Kitchen Deep Cleanse Shampoo Bar 50g",
+"imgUrl":"https://www.binsina.ae/en/buy-beauty-kitchen-deep-cleanse-shampoo-bar-50g.html ",
+"price":"  99.00"
+},
+{
+"name":" Beauty Kitchen Intense Moisture Organic Shampoo 300ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-beauty-kitchen-intense-moisture-organic-shampoo-300ml.html ",
+"price":" 99.00 "
+},
+{
+"name":" Marc Anthony Strengthning Grow Long Conditioner 250Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-marc-anthony-strengthning-grow-long-conditioner-250ml.html ",
+"price":"  30.00"
+},
+{
+"name":"  Marc Anthony Coconut Oil&Shea Butter Curl Cream 175Ml",
+"imgUrl":"https://www.binsina.ae/en/buy-marc-anthony-coconut-oil-shea-butter-curl-cream-175ml.html ",
+"price":"37.50  "
+},
+{
+"name":"Marc Anthony Argan Oil Of Morocco Shampo 250Ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-marc-anthony-argan-oil-of-morocco-shampo-250ml.html ",
+"price":"  30.00"
+},
+{
+"name":"  Difeel 99% Natural Castor Premium Hair Oil 75Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-difeel-99-natural-castor-premium-hair-oil-75ml.html",
+"price":" 20.00 "
+},
+{
+"name":" Maui Moisture Heal & Hydrate + Shea Butr Hair Mask 12Oz ",
+"imgUrl":"https://www.binsina.ae/en/buy-maui-moisture-heal-hydrate-shea-butr-hair-mask-12oz.html ",
+"price":" 46.50 "
+},
+{
+"name":"Difeel Essential Oils 100% Pure Orange 30 Ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-difeel-essential-oils-100-pure-orange-30-ml.html ",
+"price":" 52.00 "
+},
+{
+"name":" Garnier Udoux Hair Food J390 Bananam Mask 390Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-garnier-udoux-hair-food-j390-bananam-mask-390ml.html",
+"price":"  23.00"
+},
+{
+"name":" Garnier Udoux Hairf Papaya B Shampoo 350Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-garnier-udoux-hairf-papaya-b-shampoo-350ml.html ",
+"price":"25.00  "
+},
+{
+"name":"Garnier Udoux Hairf Ash Papaya B Conditioner 350Ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-garnier-udoux-hairf-ash-papaya-b-conditioner-350ml.html",
+"price":" 25.00 "
+},
+{
+"name":"Garnier Udoux Hairf Banana Shampoo B 350Ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-garnier-udoux-hairf-banana-shampoo-b-350ml.html ",
+"price":"  25.00"
+},
+{
+"name":" Garnier Color Naturals 5 Light Brown ",
+"imgUrl":" https://www.binsina.ae/en/buy-garnier-color-naturals-5-light-brown.html",
+"price":" 15.50 "
+},
+{
+"name":"  Difeel Premium Natural Hair Oil Vitamin E 75Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-difeel-premium-natural-hair-oil-vitamin-e-75ml.html",
+"price":" 20.00 "
+},
+{
+"name":" Difeel Premium Natural Hair Oil Argan 75Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-difeel-premium-natural-hair-oil-argan-75ml.html",
+"price":" 20.00 "
+},
+{
+"name":"  Difeel Essential Oils 100% Pure Tea Tree 30 Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-difeel-essential-oils-100-pure-tea-tree-30-ml.html",
+"price":" 52.00 "
+},
+
+{
+"name":"  Ducray Neoptide Expert Anti Hair Loss & Growth Serum 2X50 Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-ducray-neoptide-expert-anti-hair-loss-growth-serum-2x50-ml.html",
+"price":"  380.00"
+},
+{
+"name":"Loreal Studio Line Natural Clear Gel Normal Strength Tube 150Ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-loreal-studio-line-natural-clear-gel-normal-strength-tube-150ml.html",
+"price":"19.00  "
+},
+{
+"name":" Vichy Dercos Detox Dry Shampoo 150ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-vichy-dercos-detox-dry-shampoo-150ml.html ",
+"price":" 76.50 "
+},
+{
+"name":"  Olaplex No.3 Hair Perfector 100ml",
+"imgUrl":" https://www.binsina.ae/en/buy-olaplex-no-3-hair-perfector-100ml.html",
+"price":" 135.00 "
+},
+{
+"name":" Olaplex No.6 Bond Smoother 100ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-olaplex-no-6-bond-smoother-100ml.html ",
+"price":" 135.00 "
+},
+{
+"name":"Olaplex No.4 Bond Maintenance Shampoo 250ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-olaplex-no-4-bond-maintenance-shampoo-250ml.html",
+"price":" 135.00 "
+},
+{
+"name":"Marc Anthony Strictly Curls Styling Foam 300Ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-marc-anthony-strictly-curls-styling-foam-300ml.html",
+"price":" 37.50 "
+},
+{
+"name":" Vichy ",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-dercos-energising-shampoo-200ml.html",
+"price":" 82.50 "
+},
+{
+"name":" Revolution Hair Tones for Brunettes Berry Pink 150ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-revolution-hair-tones-for-brunettes-berry-pink-150ml.html",
+"price":" 59.00 "
+},
+{
+"name":" Revolution Hair Tones for Blondes Lime Zest 150ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-revolution-hair-tones-for-blondes-lime-zest-150ml.html",
+"price":"59.00  "
+},
+{
+"name":"Creme Of Nature Argan Moisture & Shine Shampoo 20 Oz  ",
+"imgUrl":"https://www.binsina.ae/en/buy-creme-of-nature-argan-moisture-shine-shampoo-20oz.html ",
+"price":" 49.50 "
+},
+{
+"name":" Creme Of Nature Argan Intensive Conditioning Treat 12 Oz ",
+"imgUrl":"https://www.binsina.ae/en/buy-creme-of-nature-argan-intensive-conditioning-treat-12oz.html ",
+"price":" 40.00 "
+},
+{
+"name":" Creme Of Nature Argan Moisture & Shine Shampoo 12 Oz ",
+"imgUrl":"https://www.binsina.ae/en/buy-creme-of-nature-argan-moisture-shine-shampoo-12oz.html ",
+"price":"  36.50"
+},
+{
+"name":"Energy Hair Mist Mysterious Green 50Ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-energy-hair-mist-mysterious-green-50ml.html",
+"price":"  60.00
+{
+"name":" Energy Hair Mist Classy Purple 50Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-energy-hair-mist-classy-purple-50ml.html ",
+"price":"60.00  "
+},
+{
+"name":"  Energy Hair Mist Charmingâ Blue 50Ml",
+"imgUrl":"https://www.binsina.ae/en/buy-energy-hair-mist-charming-blue-50ml.html ",
+"price":"  60.00"
+},
+{
+"name":" Energy Hair Mist Elegantâ Orange 50Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-energy-hair-mist-elegant-orange-50ml.html ",
+"price":"  60.00"
+},
+{
+"name":"Energy Hair Mist Romanticâ Pink 50Ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-energy-hair-mist-romantic-pink-50ml.html",
+"price":" 60.00 "
+},
+{
+"name":"Energy Dark Brown Hair Thickening System Kit  ",
+"imgUrl":"https://www.binsina.ae/en/buy-energy-dark-brown-hair-thickening-system-kit.html ",
+"price":"83.00  "
+},
+{
+"name":"Olaplex No 4P Blonde Enhancer Toning Shampoo 250Ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-olaplex-no-4p-blonde-enhancer-toning-shampoo-250ml.html",
+"price":" 135.00 "
+},
+{
+"name":" Loreal Prodigy 7.1 Silver ",
+"imgUrl":" https://www.binsina.ae/en/buy-loreal-prodigy-7-1-silver.html",
+"price":"89.00  "
+},
+{
+"name":" Loreal Magic Retouch 2 Brun ",
+"imgUrl":"https://www.binsina.ae/en/buy-loreal-magic-retouch-2-brun.html ",
+"price":" 49.00 "
+},
+{
+"name":" Loreal Magic Retouch 8 Brun Froid ",
+"imgUrl":"https://www.binsina.ae/en/buy-loreal-magic-retouch-8-brun-froid.html ",
+"price":" 49.00 "
+},
+{
+"name":"Loreal Prodigy 1 Obsidian  ",
+"imgUrl":" https://www.binsina.ae/en/buy-loreal-prodigy-1-obsidian.html",
+"price":" 89.00 "
+},
+{
+"name":"Loreal Elvive Extraordinary Col Hair Oil 100Ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-loreal-elvive-extraordinary-col-hair-oil-100ml.html ",
+"price":" 75.00 "
+},
+{
+"name":" Loreal Elvive Oil Normal Hair Shampoo 400Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-loreal-elvive-oil-normal-hair-shampoo-400ml.html",
+"price":" 30.00 "
+},
+{
+"name":"Energy Black Hair Shampoo 350 Ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-energy-black-hair-shampoo-350-ml.html ",
+"price":" 100.00 "
+},
+{
+"name":" Creme Of Nature Argan Perfect Edges 2.25 Oz ",
+"imgUrl":"https://www.binsina.ae/en/buy-creme-of-nature-argan-perfect-edges-2-25oz.html ",
+"price":"  34.00"
+},
+{
+"name":"Creme Of Nature Argan Perfect 7 3S 150Ml/5.1Oz  ",
+"imgUrl":"https://www.binsina.ae/en/buy-creme-of-nature-argan-perfect-7-3s-150ml-5-1oz.html ",
+"price":" 49.50 "
+},
+{
+"name":"  Hask Blonde Care Purple Shampoo 355Ml",
+"imgUrl":"https://www.binsina.ae/en/buy-hask-blonde-care-purple-shampoo-355ml.html ",
+"price":"37.00  "
+},
+{
+"name":" Lee Stafford M.Agn Oil Nsg Shampoo 250Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-lee-stafford-m-agn-oil-nsg-shampoo-250ml.html",
+"price":"  83.00"
+},
+{
+"name":" Lee Stafford M.Agn Oil Mhd Styling Cream 200Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-lee-stafford-m-agn-oil-mhd-styling-cream-200ml.html",
+"price":"94.00  "
+},
+{
+"name":"Lee Stafford Cl Agv Cct Moist 200Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-lee-stafford-cl-agv-cct-moist-200ml.html ",
+"price":"44.00  "
+},
+{
+"name":"  Lee Stafford Cl Agave Shne Shampoo 250Ml",
+"imgUrl":"https://www.binsina.ae/en/buy-lee-stafford-cl-agave-shne-shampoo-250ml.html ",
+"price":"44.00"
+},
+{
+"name":"Olaplex No.4C Bond Maintenance Clarifying Shampoo 250Ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-olaplex-no-4c-bond-maintenance-clarifying-shampoo-250ml.html",
+"price":" 135.00 "
+},
+{
+"name":"  Vichy Dercos Densi-Solutions Hair Mass Recreating Concentrate 100ml",
+"imgUrl":"https://www.binsina.ae/en/buy-vichy-dercos-densi-solutions-hair-mass-recreating-concentrate-100ml.html ",
+"price":"  158.25"
+},
+{
+"name":"  Marc Anthony Grow Long Leave-In Treatment 250Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-marc-anthony-grow-long-leave-in-treatment-250ml.html",
+"price":" 37.50 "
+},
+{
+"name":" Marc Anthony Strictly Curls Curl Cream 177Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-marc-anthony-strictly-curls-curl-cream-177ml.html",
+"price":" 37.50 "
+},
+{
+"name":"Marc Anthony Strictly Curls Shampoo 380Ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-marc-anthony-strictly-curls-shampoo-380ml.html ",
+"price":" 30.00 "
+},
+{
+"name":" Maxon Anti-Dandruff Shampoo 200Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-maxon-anti-dandruff-shampoo-200ml.html",
+"price":"  100.00"
+},
+{
+"name":"Difeel Premium Natural Hair Oil Tea Tree 75Ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-difeel-premium-natural-hair-oil-tea-tree-75ml.html ",
+"price":" 20.00 "
+},
+{
+"name":" Difeel Essential Oils 100% Pure Clove 30 Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-difeel-essential-oils-100-pure-clove-30-ml.html",
+"price":" 52.00 "
+},
+{
+"name":" Garnier Color Naturals 1 Black ",
+"imgUrl":" https://www.binsina.ae/en/buy-garnier-color-naturals-1-black.html",
+"price":" 15.50 "
+},
+{
+"name":"  Garnier Udoux Hairf Ash Maca B Conditioner 350Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-garnier-udoux-hairf-ash-maca-b-conditioner-350ml.html",
+"price":"  25.00"
+},
+{
+"name":"Garnier Udoux Hairf Ash Banana Conditioner B 350Ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-garnier-udoux-hairf-ash-banana-conditioner-b-350ml.html ",
+"price":" 25.00 "
+},
+{
+"name":"  Loreal Elvive Extraordinary Oil 100Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-loreal-elvive-extraordinary-oil-100ml.html",
+"price":"75.00  "
+},
+{
+"name":"Loreal Elvive Hyaluron Shampoo B 400Ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-loreal-elvive-hyaluron-shampoo-b-400ml.html ",
+"price":"  31.00"
+},
+{
+"name":" Loreal Studio Line Style Rework Remix Fibre-Putty Jar150Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-loreal-studio-line-style-rework-remix-fibre-putty-jar150ml.html ",
+"price":" 19.00 "
+},
+{
+"name":"  Vichy Dercos Aminexil Stimulation Shampoo 400 Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-dercos-aminexil-stimulation-shampoo-400-ml.html",
+"price":" 107.25 "
+},
+{
+"name":"Garnier Olia 5.0 Brown Kit 5.0 Brown  ",
+"imgUrl":" https://www.binsina.ae/en/buy-garnier-olia-5-0-brown-kit-5-0-brown.html",
+"price":"21.00  "
+},
+{
+"name":" Olaplex No.0 Intensive Bond Building 155Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-olaplex-no-0-intensive-bond-building-155ml.html",
+"price":"  135.00"
+},
+{
+"name":" Olaplex Discovery Kit Minis 8'S ",
+"imgUrl":" https://www.binsina.ae/en/buy-olaplex-discovery-kit-minis-8s.html",
+"price":" 275.00 "
+},
+{
+"name":"  Vichy Dercos Antidandruf Dry Hair Shampoo 400 Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-dercos-antidandruf-dry-hair-shampoo-400-ml.html",
+"price":" 107.25 "
+},
+{
+"name":" Marc Anthony Strictly Curls Leave-In Conditionr 250Ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-marc-anthony-strictly-curls-leave-in-conditionr-250ml.html ",
+"price":"  37.50"
+ {
+"name":"Neoxidil 2% Solution 60Ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-neoxidil-2-solution-60ml.html ",
+"price":"83.50  "
+},
+{
+"name":"  Garnier Udoux Hair Food Papaye Mask J 390Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-garnier-udoux-hair-food-papaye-mask-j-390ml.html",
+"price":" 22.50 "
+},
+{
+"name":"  Garnier Color Naturals 1 Black",
+"imgUrl":" https://www.binsina.ae/en/buy-garnier-color-naturals-1-black.html",
+"price":" 15.50 "
+},
+{
+"name":"  Vichy Dercos Aminexil Stimulation Shampoo 400 Ml",
+"imgUrl":"https://www.binsina.ae/en/buy-vichy-dercos-aminexil-stimulation-shampoo-400-ml.html ",
+"price":"  107.25"
+},
+{
+"name":"  Vichy Dercos Antidandruf Dry Hair Shampoo 400 Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-vichy-dercos-antidandruf-dry-hair-shampoo-400-ml.html",
+"price":"  107.25"
+},
+{
+"name":"  Garnier Udoux Hair Food Papaye Mask J 390Ml",
+"imgUrl":" https://www.binsina.ae/en/buy-garnier-udoux-hair-food-papaye-mask-j-390ml.html",
+"price":"22.50  "
+},
+{
+"name":" Garnier Udoux Hairf Ash Maca B Conditioner 350Ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-garnier-udoux-hairf-ash-maca-b-conditioner-350ml.html",
+"price":" 25.00 "
+},
+{
+"name":" Garnier Color Naturals Men Shampoo 1 ",
+"imgUrl":"https://www.binsina.ae/en/buy-garnier-color-naturals-men-shampoo-1.html ",
+"price":"11.50"
+},
+{
+"name":"Garnier Udoux Hairf Ash Banana Conditioner B 350Ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-garnier-udoux-hairf-ash-banana-conditioner-b-350ml.html",
+"price":"  25.00"
+},
+{
+"name":"Garnier Olia 5.0 Brown Kit 5.0 Brown  ",
+"imgUrl":"https://www.binsina.ae/en/buy-garnier-olia-5-0-brown-kit-5-0-brown.html ",
+"price":" 21.00 "
+},
+{
+"name":"APIVITA Nourishing & Repairing Shampoo With Olive & Honey 250ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-apivita-nourishing-repairing-shampoo-with-olive-honey-250ml.html",
+"price":" 84.00"
+},
+{
+"name":"APIVITA Nourish Repair Contitioner for Dry Hair with Olive & Honey 150ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-apivita-nourish-repair-contitioner-for-dry-hair-with-olive-honey-150ml.html ",
+"price":" 79.00 "
+},
+{
+"name":"  APIVITA Hair Mask Nourish & Repair with Olive & Honey 200ml",
+"imgUrl":"https://www.binsina.ae/en/buy-apivita-hair-mask-nourish-repair-with-olive-honey-200ml.html ",
+"price":"100.00"
+},
+{
+"name":"APIVITA Shine & Rejuvenation Shampoo With Orange & Honey 250ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-apivita-shine-rejuvenation-shampoo-with-orange-honey-250ml.html ",
+"price":"84.00  "
+},
+{
+"name":"APIVITA Shine & Revitalizing Conditioner with Orange & Honey 150ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-apivita-shine-revitalizing-conditioner-with-orange-honey-150ml.html",
+"price":" 79.00 "
+},
+{
+"name":" APIVITA Color Protection Shampoo With Quinoa Proteins & Honey 250ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-apivita-color-protection-shampoo-with-quinoa-proteins-honey-250ml.html ",
+"price":"84.00  "
+},
+{
+"name":" APIVITA Color Protection Hair Cream With Quinoa Proteins & Honey 150ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-apivita-color-protection-hair-cream-with-quinoa-proteins-honey-150ml.html",
+"price":" 79.00 "
+},
+{
+"name":" APIVITA Rescue Hair Oil with Argan & Olive 100ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-apivita-rescue-hair-oil-with-argan-olive-100ml.html ",
+"price":" 152.00 "
+},
+{
+"name":" Ducray Squanorm Anti-Dandruff Treatment Shampoo Oily Dandruff 200ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-ducray-squanorm-anti-dandruff-treatment-shampoo-oily-dandruff-200ml.html ",
+"price":" 100.00 "
+},
+{
+"name":" Hairburst Shampoo for Oily Scalp and Roots 350ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-hairburst-shampoo-for-oily-scalp-and-roots-350ml.html ",
+"price":"87.00"
+},
+{
+"name":"Hairburst Conditioner for Oily Scalp and Roots 350ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-hairburst-conditioner-for-oily-scalp-and-roots-350ml.html",
+"price":" 87.00"
+},
+{
+"name":"  Hairburst Shampoo for Curly and Wavy Hair 350ml",
+"imgUrl":" https://www.binsina.ae/en/buy-hairburst-shampoo-for-curly-and-wavy-hair-350ml.html",
+"price":"87.00  "
+},
+{
+"name":" Hairburst Conditioner for Curly and Wavy Hair 350ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-hairburst-conditioner-for-curly-and-wavy-hair-350ml.html ",
+"price":" 87.00"
+},
+{
+"name":" Hairburst Shampoo for Dry & Damaged Hair 350ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-hairburst-shampoo-for-dry-damaged-hair-350ml.html",
+"price":" 87.00 "
+},
+{
+"name":" Hairburst Hairburst Conditioner for Dry & Damaged Hair 350ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-hairburst-hairburst-conditioner-for-dry-damaged-hair-350ml.html ",
+"price":" 87.00"
+},
+{
+"name":" MARTIDERM Hair System Anti Hair-Loss Ampoules 14's ",
+"imgUrl":" https://www.binsina.ae/en/buy-martiderm-hair-system-anti-hair-loss-ampoules-14-s.html",
+"price":"300.00  "
+},
+{
+"name":"Crescina HFSC Transdermic Treatment 1300 Woman Ampoules 3.5ml x10+10  ",
+"imgUrl":" https://www.binsina.ae/en/buy-crescina-hfsc-transdermic-treatment-1300-woman-ampoules-3-5ml-x1010.html",
+"price":" 1.575.00"
+},
+{
+"name":"Crescina HFSC Transdermic Treatment 1300 Man Ampoules 3.5ml x10+10  ",
+"imgUrl":" https://www.binsina.ae/en/buy-crescina-hfsc-transdermic-treatment-1300-man-ampoules-3-5ml-x1010.html",
+"price":"1,575.00  "
+},
+{
+"name":"LABO WHITE HAIR Treatment Woman Treatment for the Development of White Hair 20vials x 3.5ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-labo-white-hair-treatment-woman-treatment-for-the-development-of-white-hair-20vials-x-3-5ml.html",
+"price":"515.00  "
+},
+{
+"name":" Iraltone Fortifying Shampoo 200ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-iraltone-fortifying-shampoo-200ml.html ",
+"price":" 158.00"
+},
+{
+"name":" Nizoral Care Leave-in Scalp Tonic 100 ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-nizoral-care-leave-in-scalp-tonic-100-ml.html ",
+"price":" 38.00"
+},
+{
+"name":"  Sanotint Sensitive Bright Ash Chestnut 125ml",
+"imgUrl":" https://www.binsina.ae/en/buy-sanotint-sensitive-bright-ash-chestnut-125ml.html",
+"price":" 79.00"
+},
+{
+"name":"Aussie Hair Care SOS Deep Repair Shampoo For Damaged Hair 290ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-aussie-hair-care-sos-deep-repair-shampoo-for-damaged-hair-290ml.html ",
+"price":"46.00  "
+},
+{
+"name":" Herbal Essences Bio Renew Smooth Golden Moringa Oil Shampoo 400ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-herbal-essences-bio-renew-smooth-golden-moringa-oil-shampoo-400ml.html ",
+"price":" 22.00 "
+},
+{
+"name":" Regaine® For Men Extra Strength Scalp Foam 5% 73ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-regainer-for-men-extra-strength-scalp-foam-5-73ml.html",
+"price":" 136.00 "
+},
+{
+"name":" Excellence Creme Permanent 4.0 Brown ",
+"imgUrl":" https://www.binsina.ae/en/buy-excellence-creme-permanent-4-0-brown.html",
+"price":" 37.00 "
+},
+{
+"name":" Hair Food Sulfate Free Nourishing Conditioner with Coconut and Chai Spice 300ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-hair-food-sulfate-free-nourishing-conditioner-with-coconut-and-chai-spice-300ml.html ",
+"price":"  60.00"
+},
+{
+"name":"  Herbal Essences Bio Renew Hydrate Coconut Milk shampoo 400ml",
+"imgUrl":"https://www.binsina.ae/en/buy-herbal-essences-bio-renew-hydrate-coconut-milk-shampoo-400ml.html ",
+"price":" 22.00 "
+},
+{
+"name":"  Pantene Pro-V Smooth & Silky Shampoo 400ml",
+"imgUrl":" https://www.binsina.ae/en/buy-pantene-pro-v-smooth-silky-shampoo-400ml.html",
+"price":" 23.00 "
+},
+{
+"name":"HAIRBURST Dry Shampoo 200ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-hairburst-dry-shampoo-200ml.html",
+"price":"99.00  "
+},
+{
+"name":" Isdin Lambdapil Anti-Hair Loss Spray 125ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-isdin-lambdapil-anti-hair-loss-spray-125ml.html",
+"price":" 389.00 "
+},
+{
+"name":" Crescina Re-Growth Shampoo HFSC 1300 Man 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-crescina-re-growth-shampoo-hfsc-1300-man-200ml.html",
+"price":"209.00  "
+},
+{
+"name":"Excellence Creme Permanent 7.0 Blonde  ",
+"imgUrl":" https://www.binsina.ae/en/buy-excellence-creme-permanent-7-0-blonde.html",
+"price":"37.00  "
+},
+{
+"name":"Vichy Dercos Detox Purifying Shampoo 250ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-vichy-dercos-detox-purifying-shampoo-250ml.html ",
+"price":" 76.50 "
+},
+{
+"name":" Aussie Mega Shampoo For That Mega Clean Feeling Every Day 300ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-aussie-mega-shampoo-for-that-mega-clean-feeling-every-day-300ml.html",
+"price":"41.00  "
+},
+{
+"name":" Vavo Against Dandruff Shampoo 100 ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-vavo-against-dandruff-shampoo-100-ml.html ",
+"price":" 23.00 "
+},
+{
+"name":"Maui Moisture Nourish & Moisture + Coconut Milk Shampoo 385ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-maui-moisture-nourish-moisture-coconut-milk-shampoo-385ml.html ",
+"price":" 46.50 "
+},
+{
+"name":"Sanotint Classic Light Brown 125ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-sanotint-classic-light-brown-125ml.html",
+"price":" 79.00 "
+},
+{
+"name":"Toni & Guy Volume Addiction Conditioner 250ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-toni-guy-volume-addiction-conditioner-250ml.html ",
+"price":" 24.50 "
+},
+{
+"name":" Herbal Essences Bio Renew Hydrate Coconut Milk Conditioner 400ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-herbal-essences-bio-renew-hydrate-coconut-milk-conditioner-400ml.html ",
+"price":" 22.00 "
+},
+{
+"name":" Rene Furterer Volumea Volumizing Foam 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-rene-furterer-volumea-volumizing-foam-200ml.html",
+"price":" 173.00 "
+},
+{
+"name":" Excellence Creme Permanent 1.0 Black ",
+"imgUrl":"https://www.binsina.ae/en/buy-excellence-creme-permanent-1-0-black.html ",
+"price":" 37.00 "
+},
+{
+"name":" Toni & Guy Damage Repair Conditioner 250ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-toni-guy-damage-repair-conditioner-250ml.html",
+"price":" 24.50 "
+},
+{
+"name":"Dr.Organic Lavender Shampoo 265ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-dr-organic-lavender-shampoo-265ml.html",
+"price":"  59.00"
+},
+{
+"name":"  APIVITA Men's Tonic Shampoo 250ml",
+"imgUrl":"https://www.binsina.ae/en/buy-apivita-men-s-tonic-shampoo-250ml.html ",
+"price":"84.00  "
+},
+{
+"name":"Sanotint Classic Natural Brown 125ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-sanotint-classic-natural-brown-125ml.html ",
+"price":" 79.00 "
+},
+{
+"name":" Isdin Psorisdin Antidesquamative Shampoo 200ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-isdin-psorisdin-antidesquamative-shampoo-200ml.html ",
+"price":" 200.00 "
+},
+{
+"name":"Maui Moisture Heal & Hydrate + Shea Butter Shampoo 385ml  ",
+"imgUrl":"https://www.binsina.ae/en/maui-moisture-heal-hydrate-shea-butter-shampoo-385ml.html ",
+"price":"46.50  "
+},
+{
+"name":"  Pantene Pro-V 3 Minute Miracle Anti Hair Fall 200ml",
+"imgUrl":" https://www.binsina.ae/en/buy-pantene-pro-v-3-minute-miracle-anti-hair-fall-200ml.html",
+"price":" 27.00 "
+},
+{
+"name":" Ducray Anaphase+ Strengthening Conditioner 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-ducray-anaphase-strengthening-conditioner-200ml.html",
+"price":"126.00  "
+},
+{
+"name":"Hair Food Sulfate Free Nourishing Shampoo with Coconut and Chai Spice 300ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-hair-food-sulfate-free-nourishing-shampoo-with-coconut-and-chai-spice-300ml.html ",
+"price":"60.00  "
+},
+{
+"name":"Aussie Miracle Moist Shampoo For Dry, Really Thirsty Hair 300ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-aussie-miracle-moist-shampoo-for-dry-really-thirsty-hair-300ml.html ",
+"price":"  41.00"
+},
+{
+"name":"  Herbal Essences Bio Renew Repair Argan Oil of Morocco Conditioner 400ml",
+"imgUrl":"https://www.binsina.ae/en/buy-herbal-essences-bio-renew-repair-argan-oil-of-morocco-conditioner-400ml.html ",
+"price":"  22.00"
+},
+{
+"name":"Dr. Organic Vitamin E Shampoo 265ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-dr-organic-vitamin-e-shampoo-265ml.html",
+"price":" 60.00 "
+},
+{
+"name":"  Dr.Organic Aloe Vera Shampoo 265ml",
+"imgUrl":"https://www.binsina.ae/en/buy-dr-organic-aloe-vera-shampoo-265ml.html ",
+"price":"  60.00"
+},
+{
+"name":" Toni & Guy Smooth Definition Shampoo 250ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-toni-guy-smooth-definition-shampoo-250ml.html ",
+"price":" 24.50 "
+},
+{
+"name":"  Ogx Renewing+Argan Oil of Morocco Extra Penetrating Oil 100ml",
+"imgUrl":"https://www.binsina.ae/en/buy-ogx-renewing-argan-oil-of-morocco-extra-penetrating-oil-100ml.html ",
+"price":"39.75  "
+},
+{
+"name":"Rene Furterer Volumea Volumizing Shampoo 200ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-rene-furterer-volumea-volumizing-shampoo-200ml.html",
+"price":" 131.00 "
+},
+{
+"name":" Uriage DS Hair Soft Balancing Shampoo 200ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-uriage-ds-hair-soft-balancing-shampoo-200ml.html ",
+"price":"  85.00"
+},
+{
+"name":" Rene Furterer Karit Nutri Nourishing Ritual Intense Nourishing Mask Cream 200ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-rene-furterer-karit-nutri-nourishing-ritual-intense-nourishing-mask-cream-200ml.html",
+"price":"263.00  "
+},
+{
+"name":"  TricoVIT Daily Tonic Hair Loss Lotion 200ml",
+"imgUrl":"https://www.binsina.ae/en/buy-tricovit-daily-tonic-hair-loss-lotion-200ml.html ",
+"price":"196.00  "
+},
+{
+"name":"  Herbal Essences Bio Renew Volume Arabica Coffee Fruit Shampoo 400ml",
+"imgUrl":"https://www.binsina.ae/en/buy-herbal-essences-bio-renew-volume-arabica-coffee-fruit-shampoo-400ml.html ",
+"price":"22.00  "
+},
+{
+"name":"Herbal Essences Bio Renew Repair Argan Oil of Morocco Shampoo 400ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-herbal-essences-bio-renew-repair-argan-oil-of-morocco-shampoo-400ml.html",
+"price":"  24.00"
+},
+{
+"name":"Ogx Renewing+Argan Oil of Morocco Shampoo 385ml  ",
+"imgUrl":" https://www.binsina.ae/en/ogx-renewing-argan-oil-of-morocco-shampoo-385ml.html",
+"price":" 39.75 "
+},
+{
+"name":"Rene Furterer Triphasic Shampoo 200ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-rene-furterer-triphasic-shampoo-200ml.html ",
+"price":"142.00  "
+},
+{
+"name":" HAIRBURST Hair Mask 220ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-hairburst-hair-mask-220ml.html",
+"price":" 199.00 "
+},
+{
+"name":"Dr.Organic Moroccan Argan Oil Shampoo 265ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-dr-organic-moroccan-argan-oil-shampoo-265ml.html ",
+"price":"  60.00"
+},
+{
+"name":"Pantene Pro-V Hair Super Food Shampoo, 400ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-pantene-pro-v-hair-super-food-shampoo-400ml.html ",
+"price":"26.00  "
+},
+{
+"name":"  BABE Anti Hair Loss Lotion 125ml",
+"imgUrl":"https://www.binsina.ae/en/buy-babe-anti-hair-loss-lotion-125ml.html ",
+"price":"  232.00"
+},
+{
+"name":"  Dr.Organic Moroccan Argan Oil Hair Treatment Serum 100ml",
+"imgUrl":"https://www.binsina.ae/en/buy-dr-organic-moroccan-argan-oil-hair-treatment-serum-100ml.html ",
+"price":" 155.00 "
+},
+{
+"name":"HAIRBURST Conditioner 350ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-hairburst-conditioner-350ml.html",
+"price":"  99.00"
+},
+{
+"name":" Rene Furterer Okara Light Activating Shampoo 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-rene-furterer-okara-light-activating-shampoo-200ml.html",
+"price":"  131.00"
+},
+{
+"name":" Dr.Organic Vitamin E Conditioner 265ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-dr-organic-vitamin-e-conditioner-265ml.html ",
+"price":"  60.00"
+},
+{
+"name":" Dr.Organic Lavender Conditioner 265ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-dr-organic-lavender-conditioner-265ml.html",
+"price":"60.00  "
+},
+{
+"name":"APIVITA Gentle Daily Conditioner 150ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-apivita-gentle-daily-conditioner-150ml.html ",
+"price":"  79.00"
+},
+{
+"name":"Ogx Renewing+Argan Oil of Morocco Weightless Reviving Dry Oil 118ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-ogx-renewing-argan-oil-of-morocco-weightless-reviving-dry-oil-118ml.html",
+"price":"  39.75"
+},
+{
+"name":" Migliorin Hair Loss Shampoo 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-migliorin-hair-loss-shampoo-200ml.html",
+"price":"  105.00"
+},
+{
+"name":"Maui Moisture Revive & Hydrate + Shea Butter Conditioner 385ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-maui-moisture-revive-hydrate-shea-butter-conditioner-385ml.html ",
+"price":" 46.50 "
+},
+{
+"name":"Toni & Guy Illuminate Blonde Conditioner 250ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-toni-guy-illuminate-blonde-conditioner-250ml.html",
+"price":"  24.50"
+},
+{
+"name":"Bioderma Node Non-Detergent Fluid Shampoo 200ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-bioderma-node-non-detergent-fluid-shampoo-200ml.html",
+"price":"53.90  "
+},
+{
+"name":"Dr.Organic Moroccan Argan Oil Conditioner 265ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-dr-organic-moroccan-argan-oil-conditioner-265ml.html ",
+"price":"60.00  "
+},
+{
+"name":"Vaseline Hair Tonic 200ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-vaseline-hair-tonic-200ml.html ",
+"price":" 9.00 "
+},
+{
+"name":"Rene Furterer Astera Fresh Soothing Freshness Shampoo 200ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-rene-furterer-astera-fresh-soothing-freshness-shampoo-200ml.html",
+"price":"  131.00"
+},
+{
+"name":"Regaine® For Women Regular Strength Solution 2% 60ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-regaine-for-women-regular-strength-solution-2-60ml.html",
+"price":"  88.00"
+},
+{
+"name":" Nuxe Rêve de Miel® Gentle Sulphate-free Shampoo Bar 65g ",
+"imgUrl":" https://www.binsina.ae/en/buy-nuxe-reve-de-mielr-gentle-sulphate-free-shampoo-bar-65g.html",
+"price":" 71.00 "
+},
+{
+"name":"Isdin Daylisdin Ultra Gentle Shampoo 400ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-isdin-daylisdin-ultra-gentle-shampoo-400ml.html ",
+"price":" 147.00 "
+},
+{
+"name":" Pantene Pro-V 3 Minute Miracle Smooth & Silky 200ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-pantene-pro-v-3-minute-miracle-smooth-silky-200ml.html ",
+"price":"  27.00"
+},
+{
+"name":"L'Oreal Paris Elnett Satin Hairspray Supreme Hold 200ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-l-oreal-paris-elnett-satin-hairspray-supreme-hold-200ml.html",
+"price":"  23.50"
+},
+{
+"name":"  Rene Furterer Absolue Kratine Ultimate Renewal Mask 200ml",
+"imgUrl":" https://www.binsina.ae/en/buy-rene-furterer-absolue-kratine-ultimate-renewal-mask-200ml.html",
+"price":"315.00  "
+},
+{
+"name":"Sanotint Classic Black Brown 125ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-sanotint-classic-black-brown-125ml.html",
+"price":" 79.00 "
+},
+{
+"name":"  Dr.Wolff Alpecin Double Effect Caffeine Shampoo 200ml",
+"imgUrl":"https://www.binsina.ae/en/buy-dr-wolff-alpecin-double-effect-caffeine-shampoo-200ml.html ",
+"price":" 69.00 "
+},
+{
+"name":" APIVITA Sensitive Scalp Shampoo 250ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-apivita-sensitive-scalp-shampoo-250ml.html ",
+"price":"84.00  "
+},
+{
+"name":"OGX Purifying + Charcoal Detox Conditioner 385ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-ogx-purifying-charcoal-detox-conditioner-385ml.html",
+"price":" 38.25 "
+},
+{
+"name":" Ionil Treatment Scalp Shampoo 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-ionil-treatment-scalp-shampoo-200ml.html",
+"price":"84.00  "
+},
+{
+"name":"  Herbal Essences Bio Renew Purify Blueginger Conditioner 400ml",
+"imgUrl":" https://www.binsina.ae/en/buy-herbal-essences-bio-renew-purify-blueginger-conditioner-400ml.html",
+"price":"  22.00"
+},
+{
+"name":" Rene Furterer 5 Sens Enhancing Dry Oil 100ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-rene-furterer-5-sens-enhancing-dry-oil-100ml.html",
+"price":" 263.00 "
+},
+{
+"name":"  Love Beauty and Planet Shea Butter & Sandalwood Shampoo 400ml",
+"imgUrl":" https://www.binsina.ae/en/buy-love-beauty-and-planet-shea-butter-sandalwood-shampoo-400ml.html",
+"price":" 34.00 "
+},
+{
+"name":"Hair Food Sulfate Free Shampoo Dye Free Smoothing Treatment with Argan Oil and Avocado 300ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-hair-food-sulfate-free-shampoo-dye-free-smoothing-treatment-with-argan-oil-and-avocado-300ml.html",
+"price":"  60.00"
+},
+{
+"name":" Pantene Pro-V Hair Super Food 3 Minute Miracle Conditioner 200ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-pantene-pro-v-hair-super-food-3-minute-miracle-conditioner-200ml.html ",
+"price":" 27.00 "
+},
+{
+"name":"Herbal Essences Bio Renew Purify Blue Ginger Shampoo 400ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-herbal-essences-bio-renew-purify-blue-ginger-shampoo-400ml.html ",
+"price":" 22.00 "
+},
+{
+"name":"Dr.Organic Moroccan Argan Oil Restorative Treatment Conditioner 200ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-dr-organic-moroccan-argan-oil-restorative-treatment-conditioner-200ml.html",
+"price":" 60.00 "
+},
+{
+"name":"  Excellence Creme Permanent 3.0 Dark Brown",
+"imgUrl":" https://www.binsina.ae/en/buy-excellence-creme-permanent-3-0-dark-brown.html",
+"price":"37.00  "
+},
+{
+"name":" Max-On Ultra Care Shampoo 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-max-on-ultra-care-shampoo-200ml.html",
+"price":"  89.00"
+},
+{
+"name":"Rene Furterer Karit Nutri Nourishing Ritual Intense Nourishing Oil 100ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-rene-furterer-karit-nutri-nourishing-ritual-intense-nourishing-oil-100ml.html",
+"price":" 210.00 "
+},
+{
+"name":"  Aussie Mega Conditioner For That Aussome Feeling Every Day 250ml",
+"imgUrl":"https://www.binsina.ae/en/buy-aussie-mega-conditioner-for-that-aussome-feeling-every-day-250ml.html ",
+"price":" 41.00 "
+},
+{
+"name":" Bioderma Node Non-Detergent Fluid Shampoo 400ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-bioderma-node-non-detergent-fluid-shampoo-400ml.html",
+"price":"  73.50"
+},
+{
+"name":"  Rene Furterer 5 Sens Enhancing Shampoo 200ml",
+"imgUrl":" https://www.binsina.ae/en/buy-rene-furterer-5-sens-enhancing-shampoo-200ml.html",
+"price":" 131.00 "
+},
+{
+"name":"Uriage DS Hair Anti-Dandruff Treatment Shampoo 200ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-uriage-ds-hair-anti-dandruff-treatment-shampoo-200ml.html",
+"price":" 105.00 "
+},
+{
+"name":"Regaine® For Men Extra Strength Scalp Foam 5% 3x73ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-regainer-for-men-extra-strength-scalp-foam-5-3x73ml.html ",
+"price":"272.50  "
+},
+{
+"name":"ISDIN Anti-Hair Loss Grow New Hair Lotion Spray 1+1 Offer  ",
+"imgUrl":"https://www.binsina.ae/en/buy-isdin-anti-hair-loss-grow-new-hair-lotion-spray-1-1-offer.html ",
+"price":" 360.00 "
+},
+{
+"name":"Aussie Repair Miracle Conditioner For  ",
+"imgUrl":" https://www.binsina.ae/en/buy-aussie-repair-miracle-conditioner-for.html",
+"price":" 41.00 "
+},
+{
+"name":"  Aussie Hair Care SOS Repair 3 Minute Miracle Hair Mask 225ml",
+"imgUrl":" https://www.binsina.ae/en/buy-aussie-hair-care-sos-repair-3-minute-miracle-hair-mask-225ml.html",
+"price":"  52.00"
+},
+{
+"name":" Isdin Nutradeica Oily Dandruff Shamoo 200ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-isdin-nutradeica-oily-dandruff-shamoo-200ml.html ",
+"price":" 173.00 "
+},
+{
+"name":" Ducray Kelual DS Treatment Shampoo 100ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-ducray-kelual-ds-treatment-shampoo-100ml.html ",
+"price":"  131.00"
+},
+{
+"name":" OGX Purifying + Charcoal Detox Shampoo 385ml ",
+"imgUrl":"https://www.binsina.ae/en/ogx-purifying-charcoal-detox-shampoo-385ml.html ",
+"price":"38.25  "
+},
+{
+"name":" Ogx Hair Oil Renewing+Argan Oil Of Morocco Penetrating Oil All Hair Types 100ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-ogx-hair-oil-renewing-argan-oil-of-morocco-penetrating-oil-all-hair-types-100ml.html ",
+"price":"38.25  "
+},
+{
+"name":"Ogx Conditioner Thick & Full+Biotin & Collagen 385ml  ",
+"imgUrl":" https://www.binsina.ae/en/ogx-conditioner-thick-full-biotin-collagen-385ml.html",
+"price":" 39.75 "
+},
+{
+"name":"Pantene Pro-V Hair Super Food Oil Replacement 350ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-pantene-pro-v-hair-super-food-oil-replacement-350ml.html",
+"price":"24.00  "
+},
+{
+"name":"Herbal Essences Bio Renew Clean White Strawberry & Sweet Mint shampoo 400ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-herbal-essences-bio-renew-clean-white-strawberry-sweet-mint-shampoo-400ml.html ",
+"price":"22.00  "
+},
+{
+"name":" Nizoral 2% Anti dandruff Shampoo 100ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-nizoral-2-anti-dandruff-shampoo-100ml.html ",
+"price":"  44.40"
+},
+{
+"name":"  Ducray Nutricerate Intense Nutrition Shampoo 200ml",
+"imgUrl":"https://www.binsina.ae/en/buy-ducray-nutricerate-intense-nutrition-shampoo-200ml.html ",
+"price":" 126.00 "
+},
+{
+"name":" Bioderma Node DS+ Shampoo 125ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-bioderma-node-ds-shampoo-125ml.html",
+"price":" 76.30 "
+},
+{
+"name":" Toni & Guy Volume Addiction Shampoo 250ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-toni-guy-volume-addiction-shampoo-250ml.html ",
+"price":" 24.50 "
+},
+{
+"name":"Ducray Anaphase+ Anti-Hair Loss Complement Shampoo 400ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-ducray-anaphase-anti-hair-loss-complement-shampoo-400ml.html",
+"price":" 168.00 "
+},
+{
+"name":" Hair Food Sulfate Free Conditioner, Dye Free Smoothing Treatment with Argan Oil and Avocado 300ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-hair-food-sulfate-free-conditioner-dye-free-smoothing-treatment-with-argan-oil-and-avocado-300ml.html ",
+"price":" 60.00 "
+},
+{
+"name":" Head & Shoulders Charcoal Detox Anti-Dandruff Shampoo 400ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-head-shoulders-charcoal-detox-anti-dandruff-shampoo-400ml.html ",
+"price":" 27.00 "
+},
+{
+"name":"Hair Food Sulfate Free Shampoo, Dye Free Purifying Treatment with Tea Tree and Lavender Water 300ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-hair-food-sulfate-free-shampoo-dye-free-purifying-treatment-with-tea-tree-and-lavender-water-300ml.html",
+"price":" 60.00 "
+},
+{
+"name":"Crescina Transdermic Follicular Islands Re-Growth 2100 Hair-Loss Man Vials 20's  ",
+"imgUrl":"https://www.binsina.ae/en/buy-crescina-transdermic-follicular-islands-re-growth-2100-hair-loss-man-vials-20-s.html ",
+"price":" 2,048.00 "
+},
+{
+"name":"Migliorin Anti Dandruff Shampoo 200ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-migliorin-anti-dandruff-shampoo-200ml.html",
+"price":" 105.00 "
+},
+{
+"name":"Sanotint Classic Black 125ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-sanotint-classic-black-125ml.html ",
+"price":"79.00  "
+},
+{
+"name":" Ducray Anaphase+ Anti-Hair Loss Complement Shampoo 200ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-ducray-anaphase-anti-hair-loss-complement-shampoo-200ml.html ",
+"price":" 131.00 "
+},
+{
+"name":"Herbal Essences Bio Renew Clean White Strawberry & Sweet Mint Conditioner 400ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-herbal-essences-bio-renew-clean-white-strawberry-sweet-mint-conditioner-400ml.html",
+"price":"22.00  "
+},
+{
+"name":" Aussie Colour Mate Shampoo For Vibrant, Coloured Hair 300ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-aussie-colour-mate-shampoo-for-vibrant-coloured-hair-300ml.html",
+"price":" 41.00 "
+},
+{
+"name":" Migliorin Adjuvant Anti Hair Loss Spray Lotion 125ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-migliorin-adjuvant-anti-hair-loss-spray-lotion-125ml.html",
+"price":" 225.00 "
+},
+{
+"name":"Ducray Neoptide Anti-Hair Loss Treatment 3 x 30ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-ducray-neoptide-anti-hair-loss-treatment-3-x-30ml.html",
+"price":"368.00  "
+},
+{
+"name":"Ogx Brazilian Keratin Smooth Shampoo 385ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-ogx-brazilian-keratin-smooth-shampoo-385ml.html ",
+"price":"  39.75"
+},
+{
+"name":"Ogx Biotin & Collagen Shampoo 385ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-ogx-biotin-collagen-shampoo-385ml.html",
+"price":"39.75  "
+},
+{
+"name":" Rene Furterer Naturia Gentle Balancing Shampoo 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-rene-furterer-naturia-gentle-balancing-shampoo-200ml.html",
+"price":" 116.00 "
+},
+{
+"name":"Sanotint Sensitive Natural Brown 125ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-sanotint-sensitive-natural-brown-125ml.html ",
+"price":" 79.00 "
+},
+{
+"name":"Energy Cristal Hair Serum 60ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-energy-cristal-hair-serum-60ml.html",
+"price":"  29.00"
+},
+{
+"name":" APIVITA Tonic Conditioner For Thinning Hair 150ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-apivita-tonic-conditioner-for-thinning-hair-150ml.html",
+"price":" 79.00 "
+},
+{
+"name":" Hair Food Sulfate Free Hair Oil, Dye Free Smoothing Treatment with Argan Oil and Avocado 95ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-hair-food-sulfate-free-hair-oil-dye-free-smoothing-treatment-with-argan-oil-and-avocado-95ml.html ",
+"price":"60.00  "
+},
+{
+"name":"  Ogx Nourishing Coconut Milk Conditioner 385ml",
+"imgUrl":" https://www.binsina.ae/en/buy-ogx-nourishing-coconut-milk-conditioner-385ml.html",
+"price":"  38.25"
+},
+{
+"name":"Rexsol Hair Aid Tonic 150ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-rexsol-hair-aid-tonic-150ml.html",
+"price":"232.00  "
+},
+{
+"name":"  Toni & Guy Smooth Definition Conditioner 250ml",
+"imgUrl":"https://www.binsina.ae/en/buy-toni-guy-smooth-definition-conditioner-250ml.html ",
+"price":" 24.50 "
+},
+{
+"name":"Rene Furterer 5 Sens Enhancing Detangling Conditioner 150ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-rene-furterer-5-sens-enhancing-detangling-conditioner-150ml.html ",
+"price":"  131.00"
+},
+{
+"name":"Dr.Wolff Alpecin Caffeine Shampoo 250ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-dr-wolff-alpecin-caffeine-shampoo-250ml.html",
+"price":"57.00  "
+},
+{
+"name":"  APIVITA Women's Tonic Shampoo 250ml",
+"imgUrl":"https://www.binsina.ae/en/buy-apivita-women-s-tonic-shampoo-250ml.html ",
+"price":" 84.00 "
+},
+{
+"name":" Ducray Squanorm Anti Dry Dandruff Shampoo Dry Dandruff 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-ducray-squanorm-anti-dry-dandruff-shampoo-dry-dandruff-200ml.html",
+"price":"105.00  "
+},
+{
+"name":" Herbal Essences Argan Oil & Aloe Vera Hair Oil Blend for Hair Repair and Dry Hair 100 ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-herbal-essences-argan-oil-aloe-vera-hair-oil-blend-for-hair-repair-and-dry-hair-100-ml.html ",
+"price":"47.00  "
+},
+{
+"name":" Rene Furterer Karite Intense Nourishing Cream 100ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-rene-furterer-karite-intense-nourishing-cream-100ml.html",
+"price":" 179.00 "
+},
+{
+"name":"Maui Moisture Nourish & Moisture + Coconut Milk Conditioner 385ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-maui-moisture-nourish-moisture-coconut-milk-conditioner-385ml.html ",
+"price":" 46.50 "
+},
+{
+"name":" Aussie Deep Treatment 3 Minute Miracle Moist 250ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-aussie-deep-treatment-3-minute-miracle-moist-250ml.html",
+"price":" 50.00 "
+},
+{
+"name":" Isdin Lambdapil Anti-Hairloss Shampoo 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-isdin-lambdapil-anti-hairloss-shampoo-200ml.html",
+"price":"  152.00"
+},{
+"name":"Ducray Extra-gentle Shampoo Pump Bottle 400ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-ducray-extra-gentle-shampoo-pump-bottle-400ml.html",
+"price":"121.00  "
+},
+{
+"name":"Dr.Wolff Alpecin Caffeine Liquid 200ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-dr-wolff-alpecin-caffeine-liquid-200ml.html ",
+"price":" 73.00 "
+},
+{
+"name":"Ogx Conditioner Ever Straightening+Brazilian Keratin Smooth 385ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-ogx-conditioner-ever-straightening-brazilian-keratin-smooth-385ml.html",
+"price":" 38.25 "
+},
+{
+"name":" Toni & Guy Damage Repair Shampoo 250ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-toni-guy-damage-repair-shampoo-250ml.html",
+"price":" 24.50 "
+},
+{
+"name":"  Migliorin Phials 10x10ml",
+"imgUrl":" https://www.binsina.ae/en/buy-migliorin-phials-10x10ml.html",
+"price":" 380.00 "
+},
+{
+"name":"APIVITA Moisturizing Shampoo All Hair Types 250ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-apivita-moisturizing-shampoo-all-hair-types-250ml.html",
+"price":"84.00 "
+},
+{
+"name":" Herbal Essences Bio Renew Smoothgolden Moringa Oil Conditioner 400ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-herbal-essences-bio-renew-smoothgolden-moringa-oil-conditioner-400ml.html ",
+"price":" 22.00 "
+},
+{
+"name":"Aussie Miracle Moist Conditioner For Dry, Really Thirsty Hair 250ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-aussie-miracle-moist-conditioner-for-dry-really-thirsty-hair-250ml.html ",
+"price":"41.00  "
+},
+{
+"name":"Ogx Damage Remedy+Coconut Miracle Oil Conditioner 385ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-ogx-damage-remedy-coconut-miracle-oil-conditioner-385ml.html",
+"price":"  38.25"
+},
+{
+"name":"Ogx Renewing+Argan Oil of Morocco Conditioner 385ml  ",
+"imgUrl":" https://www.binsina.ae/en/ogx-renewing-argan-oil-of-morocco-conditioner-385ml.html",
+"price":" 38.25 "
+},
+{
+"name":" Dr.Organic Virgin Coconut Oil Shampoo 265ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-dr-organic-virgin-coconut-oil-shampoo-265ml.html",
+"price":" 62.00 "
+},
+{
+"name":"Head & Shoulders Smooth & Silky 2in1 Anti-Dandruff Shampoo with Conditioner 400ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-head-shoulders-smooth-silky-2in1-anti-dandruff-shampoo-with-conditioner-400ml.html ",
+"price":" 33.00 "
+},
+{
+"name":"Hair Food Sulfate Free Hair Mask with Smoothing Argan Oil and Avocado 50ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-hair-food-sulfate-free-hair-mask-with-smoothing-argan-oil-and-avocado-50ml.html ",
+"price":" 22.00 "
+},
+{
+"name":"Maui Moisture Curl Quench + Coconut Oil Shampoo 385ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-maui-moisture-curl-quench-coconut-oil-shampoo-385ml.html",
+"price":" 46.50 "
+},
+{
+"name":"  Crescina Transdermic Follicular Islands Re-Growth 2100 Hair-Loss Woman Vials 20's",
+"imgUrl":" https://www.binsina.ae/en/buy-crescina-transdermic-follicular-islands-re-growth-2100-hair-loss-woman-vials-20-s.html",
+"price":"2,048.00  "
+},
+{
+"name":"Rene Furterer Okara Protect Colour Radiance Enhancing Shampoo 200ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-rene-furterer-okara-protect-colour-radiance-enhancing-shampoo-200ml.html ",
+"price":"131.00  "
+},
+{
+"name":"Vichy Dercos Densi-Solutions Restoring Thick Balm 150ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-vichy-dercos-densi-solutions-restoring-thick-balm-150ml.html ",
+"price":"79.50  "
+},
+{
+"name":" Sebizole 2% Anti-Dandruff Shampoo 100ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-sebizole-2-anti-dandruff-shampoo-100ml.html ",
+"price":"23.00  "
+},
+{
+"name":" APIVITA Moisturizing Conditioner For All Hair Types 150ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-apivita-moisturizing-conditioner-for-all-hair-types-150ml.html ",
+"price":"79.00  "
+},
+{
+"name":"  Rene Furterer Forticea Shampoo 200ml",
+"imgUrl":" https://www.binsina.ae/en/buy-rene-furterer-forticea-shampoo-200ml.html",
+"price":" 139.00 "
+},
+{
+"name":" Ducray Creastim Anti Hair Loss Lotion 2x30ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-ducray-creastim-anti-hair-loss-lotion-2x30ml.html ",
+"price":"347.00  "
+},
+{
+"name":" Toni & Guy Damage Repair Mask 200ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-toni-guy-damage-repair-mask-200ml.html ",
+"price":"24.50  "
+},
+{
+"name":"  Ogx Nourishing Coconut Milk Shampoo 385ml",
+"imgUrl":" https://www.binsina.ae/en/buy-ogx-nourishing-coconut-milk-shampoo-385ml.html",
+"price":" 38.25 "
+},
+{
+"name":" Crescina HFSC 100% Complete Treatment 1300 Woman Vials 10+10's ",
+"imgUrl":"https://www.binsina.ae/en/buy-crescina-hfsc-100-complete-treatment-1300-woman-vials-10-10-s.html ",
+"price":"  1,575.00"
+},
+{
+"name":"  APIVITA Oil Balance Shampoo 250ml",
+"imgUrl":" https://www.binsina.ae/en/buy-apivita-oil-balance-shampoo-250ml.html",
+"price":" 84.00 "
+},
+{
+"name":"Crescina Re-Growth Shampoo HFSC 1300 Woman 200ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-crescina-re-growth-shampoo-hfsc-1300-woman-200ml.html ",
+"price":"  209.00"
+},
+{
+"name":"  Maui Moisture Strenght & Anti-Breakage + Agave Shampoo 385ml",
+"imgUrl":" https://www.binsina.ae/en/buy-maui-moisture-strenght-anti-breakage-agave-shampoo-385ml.html",
+"price":"46.50  "
+},
+{
+"name":" Uriage DS Hair Keratolytic Treatment Shampoo 150ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-uriage-ds-hair-keratolytic-treatment-shampoo-150ml.html",
+"price":" 105.00 "
+},
+{
+"name":" Pantene Pro-V 3 Minute Miracle Milky Damage Repair 200ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-pantene-pro-v-3-minute-miracle-milky-damage-repair-200ml.html",
+"price":"  27.00"
+},
+{
+"name":" APIVITA Mask Moisturizer For All Hair Types 200ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-apivita-mask-moisturizer-for-all-hair-types-200ml.html ",
+"price":" 100.00 "
+},
+{
+"name":"  Ducray Anacaps Food Supplement For Hair Loss 26g",
+"imgUrl":"https://www.binsina.ae/en/buy-ducray-anacaps-food-supplement-for-hair-loss-26g.html ",
+"price":"  299.00"
+},
+{
+"name":"Rene Furterer Triphasic Progressive Anti-Hair Loss Ritual Progressive Anti-Hair Loss Treatment 8 x 5.5ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-rene-furterer-triphasic-progressive-anti-hair-loss-ritual-progressive-anti-hair-loss-treatment-8-x-5-5ml.html",
+"price":"  714.00"
+},
+{
+"name":" Isdin Nutradeica Dry Dandruff Shamoo 200ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-isdin-nutradeica-dry-dandruff-shamoo-200ml.html ",
+"price":" 173.00 "
+},
+{
+"name":"Crescina HFSC 100% Complete Treatment 1300 Man Vials 10+10's  ",
+"imgUrl":" https://www.binsina.ae/en/buy-crescina-hfsc-100-complete-treatment-1300-man-vials-10-10-s.html",
+"price":" 1,575.00 "
+},
+{
+"name":"Regaine® For Men Extra Strength Scalp Solution 5% 60ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-regainer-for-men-extra-strength-scalp-solution-5-60ml.html",
+"price":" 124.00 "
+},
+{
+"name":" Dr.Organic Tea Tree Shampoo 265ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-dr-organic-tea-tree-shampoo-265ml.html ",
+"price":" 60.00 "
+},
+{
+"name":"L'Oreal Paris Excellence Creme Permanent Hair Color Light Brown  ",
+"imgUrl":"https://www.binsina.ae/en/buy-l-oreal-paris-excellence-creme-permanent-hair-color-light-brown.html ",
+"price":"37.00  "
+},
+{
+"name":"  TricoVIT Hair Loss Prevention Patches 28's",
+"imgUrl":"https://www.binsina.ae/en/tricovit-hair-loss-prevention-patches-28-s.html ",
+"price":" 368.00 "
+},
+{
+"name":" Aussie Deep Treatment 3 Minute Miracle Reconstructor 250ml ",
+"imgUrl":" https://www.binsina.ae/en/buy-aussie-deep-treatment-3-minute-miracle-reconstructor-250ml.html",
+"price":" 46.00 "
+},
+{
+"name":" Maui Moisture Strenght & Anti-Breakage + Agave Conditioner 385ml ",
+"imgUrl":"https://www.binsina.ae/en/maui-moisture-strenght-anti-breakage-agave-conditioner-385ml.html ",
+"price":"  46.50"
+},
+{
+"name":"Aussie Deep Treatment 3 Minute Miracle Colour 250ml  ",
+"imgUrl":" https://www.binsina.ae/en/buy-aussie-deep-treatment-3-minute-miracle-colour-250ml.html",
+"price":"  50.00"
+},
+{
+"name":"Maui Moisture Thicken & Restore Bamboo Fiber Shampoo 385 ml  ",
+"imgUrl":" https://www.binsina.ae/en/maui-moisture-thicken-restore-bamboo-fiber-shampoo-385-ml.html",
+"price":"  46.50"
+},
+{
+"name":" Sanotint Sensitive Black 125ml ",
+"imgUrl":" https://www.binsina.ae/en/sanotint-sensitive-black-125ml.html",
+"price":"79.00  "
+},
+{
+"name":" Migliorin Balsam Cleansing Hair Conditioner 100ml ",
+"imgUrl":"https://www.binsina.ae/en/migliorin-balsam-cleansing-hair-conditioner-100ml.html ",
+"price":" 110.00 "
+},
+{
+"name":" Rene Furterer Absolute Keratine Sublime Renewal Leave-In Cream 200ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-rene-furterer-absolute-keratine-sublime-renewal-leave-in-cream-200ml.html ",
+"price":" 179.00 "
+},
+{
+"name":" Rene Furterer Okara Protect Colour Radiance Enhancing Conditioner 200ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-rene-furterer-okara-protect-colour-radiance-enhancing-conditioner-200ml.html ",
+"price":"263.00  "
+},
+{
+"name":" Rene Furterer Karit Nutri Intense Nourishing Shampoo 150ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-rene-furterer-karit-nutri-intense-nourishing-shampoo-150ml.html ",
+"price":"  131.00"
+},
+{
+"name":"TricoVIT Citoxil Anti-Hair Loss Shampoo 400ml  ",
+"imgUrl":"https://www.binsina.ae/en/tricovit-citoxil-anti-hair-loss-shampoo-400ml.html ",
+"price":" 79.00 "
+},
+{
+"name":"  TricoVIT Tread-Ends Repairer 100ml",
+"imgUrl":" https://www.binsina.ae/en/tricovit-tread-ends-repairer-100ml.html",
+"price":" 79.00 "
+},
+{
+"name":" Rene Furterer Volumea Volumizing-Detangling Conditioner 150ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-rene-furterer-volumea-volumizing-detangling-conditioner-150ml.html ",
+"price":" 131.00 "
+},
+{
+"name":"Ducray Anaphase Plus Shampoo Hair Loss 200ml Buy 1 Get 1 Offer  ",
+"imgUrl":"https://www.binsina.ae/en/buy-ducray-anaphase-plus-shampoo-hair-loss-200ml-buy-1-get-1-offer.html ",
+"price":"131.00  "
+},
+{
+"name":"Herbal Essences Bio Renew Volume Arabica Coffee Fruit Conditioner 400ml  ",
+"imgUrl":" https://www.binsina.ae/en/herbal-essences-bio-renew-volume-arabica-coffee-fruit-conditioner-400ml.html",
+"price":" 22.00 "
+},
+{
+"name":" BABE Energising Shampoo 250ml ",
+"imgUrl":" https://www.binsina.ae/en/babe-energising-shampoo-250ml.html",
+"price":"111.00  "
+},
+{
+"name":" Head & Shoulders Supreme Anti-Dandruff Shampoo with Argan Oil and Aloe Vera for Sensitive Scalp Soothing 400ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-head-shoulders-supreme-anti-dandruff-shampoo-with-argan-oil-and-aloe-vera-for-sensitive-scalp-soothing-400ml.html ",
+"price":"32.00  "
+},
+{
+"name":"Head & Shoulders Supreme Anti-Dandruff Shampoo with Argan Oil for Dry Scalp Rejuvenation, 400ml  ",
+"imgUrl":"https://www.binsina.ae/en/buy-head-shoulders-supreme-anti-dandruff-shampoo-with-argan-oil-for-dry-scalp-rejuvenation-400ml.html ",
+"price":" 32.00 "
+},
+{
+"name":" Head & Shoulders Supreme Scalp and Hair Conditioner with Argan Oil and Aloe Vera for Sensitive Scalp Soothing, 200ml ",
+"imgUrl":"https://www.binsina.ae/en/buy-head-shoulders-supreme-scalp-and-hair-conditioner-with-argan-oil-and-aloe-vera-for-sensitive-scalp-soothing-200ml.html ",
+"price":" 19.00 "
+},
+{
+"name":"  Derma Pella Mostal Solution Kit 50ml * 3",
+"imgUrl":"https://www.binsina.ae/en/buy-derma-pella-mostal-solution-kit-50ml-3.html ",
+"price":"  777.00"
+},
+{
+"name":"  Derma Pella Mostal Solution 50ml",
+"imgUrl":"https://www.binsina.ae/en/buy-derma-pella-mostal-solution-50ml.html ",
+"price":" 2

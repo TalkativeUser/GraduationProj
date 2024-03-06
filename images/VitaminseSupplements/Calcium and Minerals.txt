@@ -1,0 +1,286 @@
+Vitamins & Supplements : Calcium and Minerals
+
+
+{
+"name":" Additiva Calcium 500mg Effervescent Tablets 10's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/14630_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 15.00 "
+
+},
+{
+"name":" Cal-C-Vita Orange Effervescent Tablets 15's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/75794_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 37.00 "
+
+},
+{
+"name":" Solgar Zinc 50mg Tablets 100's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/65723_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 78.00 "
+
+},
+{
+"name":" Additiva Magnesium 300 mg Sachets 20's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/33248_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 35.00 "
+
+},
+{
+"name":" Berocca Effervescent Tablets 10's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/6350_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 26.00 "
+
+},
+{
+"name":" Tom Oliver Vitamin Mangesium Capsules 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/66577_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 150.00 "
+
+},
+{
+"name":" Ams Zinc 50mg Tablets 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/72472_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 210.00 "
+
+},
+{
+"name":" Tom Oliver Calcium Citrate Capsules 90's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/72437_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 100.00 "
+
+},
+{
+"name":" Solgar Magnesium With Vitamin B6 Tablets 100's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/65722_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 73.00 "
+
+},
+{
+"name":" Additiva Magnesium 150mg Effervescent Tablets 10's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/14635_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 15.00 "
+
+},
+{
+"name":" Vitabiotics Osteocare Liquid 200ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/15658_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 36.00 "
+
+},
+{
+"name":" Holland & Barrett Calcium Magnesium Vitamin D & Zinc Tablets 120's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/76209_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 90.00 "
+
+},
+{
+"name":" Puritan's Pride High Potency Magnesium 500mg Tablets 100's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/60237_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 55.00 "
+
+},
+{
+"name":" Adrien Gagnon Omega 3 Enriched Formula 1000mg SG Capsules 40's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/2/72642_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600 ",
+"price":" 88.00 "
+
+},
+{
+"name":" Solgar Potassium Tablets 100's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/66966_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 86.00 "
+
+},
+{
+"name":" AMS Zinc 25mg Caplets 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/5/4/54698_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 148.00 "
+
+},
+{
+"name":" Caltrate 600mg Tablets 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/7617_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 50.00 "
+
+},
+{
+"name":" Holland & Barrett Calcium + Magnesium & Vitamin D Tablets 180's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/76448_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 20.00 "
+
+},
+{
+"name":" Urocit K Pot Citrate Tablets 100's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/45256_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 341.00 "
+
+},
+{
+"name":" Extraznc Liquid 50ml ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/64186_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 77.00 "
+
+},
+{
+"name":" Holland & Barrett Magnesium & Zinc Tab 90'S ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/8/0/80647_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 60.00 "
+
+},
+{
+"name":" Holland & Barrett Magnesium 375mg 180 Tablets ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/9/79920_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 120.00 "
+
+},
+{
+"name":" Holland & Barrett Magnesium 375mg 90 Tablets ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/9/79921_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 69.00 "
+
+},
+{
+"name":" Holland & Barrett Iron & Vitamin C 14mg 90 Tablets ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/9/79922_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 60.00 "
+
+},
+{
+"name":" Holland & Barrett Magnesium 375mg 30 Tablets ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/9/79923_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 29.00 "
+
+},
+{
+"name":" Holland & Barrett Iron & Vitamin C 14mg 30 Tablets ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/9/79924_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 25.00 "
+
+},
+{
+"name":" Now Foods, Magtein Vegetable Capsules 90's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/7/77133_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 185.50 "
+
+},
+{
+"name":" Now Foods Magnesium Citrate Capsules 120's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/7/77132_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 83.30 "
+
+},
+{
+"name":" Nature's Bounty Potassium 99mg Caplets 100's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/52991_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 53.00 "
+
+},
+{
+"name":" Nature's Bounty Calcium 600 Plus Vitamin D Tablets 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/44945_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 45.00 "
+
+},
+{
+"name":" Nature's Bounty Zinc Chelated 50mg Tablets 100's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/70343_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 68.00 "
+
+},
+{
+"name":" Now Calcium & Magnesium Softgels 120's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/42064_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 62.30 "
+
+},
+{
+"name":" Now Magnesium Caps Veg Capsules 180's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/60403_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 76.30 "
+
+},
+{
+"name":" Nature's Bounty Magnesium Oxide 500mg Tablets 100's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/54848_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 55.00 "
+
+},
+{
+"name":" Now Zinc Picolinate 50mg Capsules 60's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/49310_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 41.30 "
+
+},
+{
+"name":" Active Iron 25 mg 30's Capsules ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/9/79642_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 220.00 "
+
+},
+{
+"name":" iMagnesium 500 mg chelated 90 tablets – Gluten free ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/7/77160_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 241.00 "
+
+},
+{
+"name":" Holland & Barrett Vegan Calcium & Magnesium 120 Tablets ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/7/77274_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 89.00 "
+
+},
+{
+"name":" Holland & Barrett Calcium + Magnesium & Vitamin D 120 Tablets ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/7/7/77298_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 95.00 "
+
+},
+{
+"name":" Vitabiotics Osteocare Original Tablets 30's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/15087_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 36.00 "
+
+},
+{
+"name":" Solgar Calcium Magnesium Plus Zinc Tablets 100's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/66959_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 82.00
+ "
+
+},
+{
+"name":" Holland & Barrett Chewable Calcium Tablets 90's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/76470_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 65.00 "
+
+},
+{
+"name":" Solgar Chelated Magnesium Tablets 100's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/66960_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 111.00 "
+
+},
+{
+"name":" Vitabiotics Osteocare Chewable Tablets 30's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/44970_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 39.00 "
+
+},
+{
+"name":" Puritan's Pride Calcium Magnesium Zinc Tablets 100's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/28374_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 60.00 "
+
+},
+{
+"name":" Biolectra Magnesium 300mg Direct Orange Sticks 20's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/65323_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 49.00 "
+
+},
+{
+"name":" iRemedies iZINC 50mg Vegan Tablets 100's ",
+"imgUrl":" https://www.binsina.ae/media/catalog/product/m/73394_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300 ",
+"price":" 165.00 "
+
+},
