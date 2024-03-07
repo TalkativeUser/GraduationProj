@@ -1,13 +1,6 @@
-interface IProps {
-
-    title:string,
-    desc:string,
-
-}
 
 
-
-const PersonalCare=({}:IProps) =>{
+const PersonalCare=() =>{
   return (
     <div>
              <h2>PersonalCare</h2>

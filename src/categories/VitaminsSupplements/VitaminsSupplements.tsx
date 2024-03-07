@@ -1,13 +1,5 @@
-interface IProps {
 
-    title:string,
-    desc:string,
-
-}
-
-
-
-const VitaminsSupplements=({}:IProps) =>{
+const VitaminsSupplements=() =>{
   return (
     <div>
              <h2>Vitamins_Supplements</h2>

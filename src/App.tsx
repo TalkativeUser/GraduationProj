@@ -24,29 +24,84 @@ import ProductDetails from "./categories/ProductDetails/ProductDetails";
 import Login from "./categories/Login/Login";
 import SupCat from "./categories/HealthCare/SupCat/SupCat";
 
+          {/* <Route path="supCat" element={<SupCat />} /> */}
+
+          const routes = [
+            {
+              path: '/healthCare', 
+              element: <HealthCare />
+            },
+            {
+              path: '/vitamins&Supplements',
+              element: <VitaminsSupplements />  
+            },
+            {
+              path: '/otc',
+              element: <OTC />
+            },  
+            {
+              path: '/personalCare',
+              element: <PersonalCare />
+            },
+            {
+              path: '/skinCare', 
+              element: <SkinCare />
+            },
+            {
+              path: '/babyCare',
+              element: <BabyCare />
+            },
+            {
+              path: '/cosmtics',
+              element: <Cosmetics />
+            },
+            {
+              path: '/healthyFood',
+              element: <HealthFood />
+            },
+      
+            {
+              path: '/brands',
+              element: <Brands />
+            },
+        
+    
+       
+       
+          ]
+
+
 const router = createBrowserRouter(
   createRoutesFromElements(
     <>
       <Route path="/" element={<Layout />}>
+        <Route index element={<Home />} ></Route>
+        <Route path="/productDetails/:id" element={<ProductDetails />} ></Route>
+        <Route path="/personalData" element={<PersonalData />} ></Route>
+        <Route path="/login" element={<Login />} ></Route>
+        <Route path="/register" element={<Register />} ></Route>
 
-        <Route path="/" element={<Home title="" desc="" />  }> </Route>
-        <Route path="/healthCare" element={<HealthCare />}>
-          <Route path="supCat" element={<SupCat />} />
-        </Route>
-        <Route path="/vitamins&Supplements" element={<VitaminsSupplements title="" desc="" />}> </Route>
-        <Route path="/otc" element={<OTC title="" desc="" />}> </Route>
-        <Route path="/personalCare" element={<PersonalCare title="" desc="" />}> </Route>
-        <Route path="/skinCare" element={<SkinCare title="" desc="" />}> </Route>
-        <Route path="/babyCare" element={<BabyCare />}>     </Route>
-        <Route path="/cosmtics" element={<Cosmetics />}>      </Route>
-        <Route path="/brands" element={<Brands/>}>        </Route>
-        <Route path="/healthyFood" element={<HealthFood title="" desc="" />}>   </Route>
-        <Route path="/register" element={<Register/>}>   </Route>
-        <Route path="/login" element={<Login/>}>   </Route>
-        <Route path="/personalData" element={<PersonalData/>}>   </Route>
-        <Route path="/productDetails/:id" element={<ProductDetails/>}>   </Route>
-        <Route path="*" element={<NotFound />}>   </Route>
+
+
+      {routes.map((route, index) => (
+          <Route  key={index} path={route.path} element={route.element} >
+            
+            
+             </Route>
+           
+       
+       ))}
+
+
+
+
       </Route>
+
+
+
+
+
+      
     </>
   )
 );

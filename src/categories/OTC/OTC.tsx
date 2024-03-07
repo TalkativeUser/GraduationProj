@@ -1,13 +1,8 @@
-interface IProps {
-
-    title:string,
-    desc:string,
-
-}
 
 
 
-const OTC=({}:IProps) =>{
+
+const OTC=() =>{
   return (
     <div>
              <h2>OTC</h2>

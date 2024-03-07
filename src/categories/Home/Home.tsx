@@ -5,12 +5,8 @@ import "swiper/css/navigation";
 import { Navigation } from "swiper/modules";
 import "./Home.scss";
 
-interface IProps {
-  title: string;
-  desc: string;
-}
 
-const Home = ({}: IProps) => {
+const Home = () => {
   return (
     <Swiper
       modules={[Navigation]}
