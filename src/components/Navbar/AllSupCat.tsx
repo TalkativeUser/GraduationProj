@@ -1,4 +1,4 @@
- export const AllSubCategories= [
+ export const AllSubCategoriesElement= [
 
     ["Sports And Nutrition"," Complementary Remedies "," First Aid  "," Health Checks","Childrens Health"," Family Planning"," Foot Care",
     "Support","Medicated Skin Care","Travel Health"," Weight Management","Drinks", "Home Health Care Solutions"," Eye And Ear Care", "Healthy Snacks"," Cough And Cold",  ]
@@ -35,7 +35,6 @@ interface IProps {
 
 
 
-import { useEffect, useState } from 'react'
 import styles from './Navbar.module.scss'    
 import { Link } from 'react-router-dom'
     export default function AllSupCat({showSupCategory}:IProps) {
@@ -55,7 +54,7 @@ import { Link } from 'react-router-dom'
 <ul className="p-0" >
 
  <li className='bg-indigo-400 ' ><Link to={'/healthCare/supCat'} >hello worsdfgsfdsdld</Link  ></li>
- <li><span>hello ddworld</span></li>
+ <li className='bg-indigo-400 ' ><Link to={'/healthCare/supCat2'} >hello worsdfgsfdsdld 222</Link  ></li>
  <li><span>hellod world</span></li>
  <li><span>hello world</span></li>
  <li><span> world</span> </li>
